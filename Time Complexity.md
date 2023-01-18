@@ -31,7 +31,11 @@
 
         -Exepected # of basic operations considered as a random variable under some assumption about the probabiity distribution of all possible inputs
 
-
+- **Asymptotic Notations** - Mathematical notations used to describe the running time of an algorithm 
+	- Big-O Notation
+		- adsda
+	- Omega Notation
+	- Theta Notation
 
 
 
