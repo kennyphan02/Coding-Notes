@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Terminology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce98db28fb5e5932",
+  "active": "6ad236bd02be1c34",
   "lastOpenFiles": [
     "Algorithms/Linear Search.md",
     "Time Complexity.md",

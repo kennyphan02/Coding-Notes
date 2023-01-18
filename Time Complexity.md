@@ -1,6 +1,6 @@
 # Time Complexity Notes
 
-Terminology:
+## Terrminology:
 
 - **Basic Operation**: operation that contributes the most towards the running time of the algorithm
 
