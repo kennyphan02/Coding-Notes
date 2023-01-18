@@ -7,6 +7,7 @@
 - **Time Efficiency:** determined by the number of repetitions of the basic operations of an algorithm as a function of input size (I.E O(N))
 
     - Indicates how fast an algorithm runs
+    - number of basic operations an algorithm performs represented as a function of input size 
 
 - **Space Efficiency** refers to the amount of space needed to allocate for an algorithm
 
@@ -29,6 +30,9 @@
         -Not average of worst and best case  
 
         -Exepected # of basic operations considered as a random variable under some assumption about the probabiity distribution of all possible inputs
+
+
+
 
 
      

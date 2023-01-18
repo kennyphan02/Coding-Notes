@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "ce98db28fb5e5932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bceee129dd9cfcf2",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Terminology",
+                "query": "path:/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ad236bd02be1c34",
+  "active": "95c98fdd2a0c4fd7",
   "lastOpenFiles": [
-    "Algorithms/Linear Search.md",
+    "2023-01-18.md",
     "Time Complexity.md",
+    "Algorithms/Linear Search.md",
     "This is a test.md",
-    "conflict-files-obsidian-git.md",
-    "2023-01-18.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
