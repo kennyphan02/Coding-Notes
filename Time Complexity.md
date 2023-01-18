@@ -10,7 +10,7 @@ Terminology:
 
 - **Space Efficiency** refers to the amount of space needed to allocate for an algorithm
 
-- **T(n) = cₒₚC(n)**\
+- **T(n) = cₒₚC(n)**
 
     - T(n) is the running time
 
@@ -29,3 +29,6 @@ Terminology:
         -Not average of worst and best case  
 
         -Exepected # of basic operations considered as a random variable under some assumption about the probabiity distribution of all possible inputs
+
+
+     
