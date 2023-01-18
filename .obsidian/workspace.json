@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce98db28fb5e5932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is a test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Complexity.md",
+                "file": "This is a test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Complexity.md",
+                "file": "This is a test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Complexity.md"
+                "file": "This is a test.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95c98fdd2a0c4fd7",
+  "active": "ce98db28fb5e5932",
   "lastOpenFiles": [
-    "2023-01-18.md",
-    "Time Complexity.md"
+    "Time Complexity.md",
+    "This is a test.md",
+    "conflict-files-obsidian-git.md",
+    "2023-01-18.md"
   ]
 }
