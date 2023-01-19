@@ -40,7 +40,28 @@
 - Time Complexity Examples
 	```Java
 	// What is the time complexity of this given code?
-    int sum = 0
+	int sum = 0; 
+	for(int n = N; n > 0; n /= 2) {
+		for(int i = 0; i < n; i++) {
+			sum++;
+		}
+	}
+	/**
+	// Don't assume that because there is a nested for loop doesn't mean it will always run in O(N^2) time. Look at the basic operations. 
+	When N = 10, 
+	1 outer iterations = 10 inner iterations
+	2 outer iterations = 5 inner iterations
+	3 outer iterations = 2 inner interations
+	4 outer iterations = 1 inner iterations
+	We can conclude that the pattern is given an input size N, the number of iterations is halved in the innter loop. 
+		N + N/2 + N/4 + ... + N/2^n  
+		Simplified into N(1/2 + 1/4 + ... + 1/2^N)
+		
+	**/
+	
+	```
+
+        int sum = 0
     int N = input
     for(int n = N; n > 0; n /= 2){
 	    for(int i = 0; i < n; i++){
@@ -58,7 +79,3 @@
 4 outer iterations 1 inner iterations
 	inner loop = (N/2 + N/4 .... + 1 Iteration)
 **/
-	```
-```
-```
-    
