@@ -35,6 +35,7 @@
 	- Big-O Notation (O-Notation) - worst-case complexity of an algorithm. Disregards constants
 	- Omega Notation (Ω) 
 	- Theta Notation (Θ) (Average case complexity)
+	- 
 
 - Time Complexity Examples
 	```Java
@@ -46,7 +47,8 @@
 		    sum++;
 	    }
     }
-    // Don't assume that bec
+    // Don't assume that because there is a nested for loop doesn't mean it will run in O(n^2) time 
+    // What the program does 
 // N = 10, 
 //outer loop = 10, 5, 2, 1
 /**when N = 10
