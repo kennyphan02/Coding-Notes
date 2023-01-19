@@ -39,4 +39,27 @@
 
 
 
-     
+    ```Java
+    int sum = 0
+    int N = input
+    for(int n = N; n > 0; n /= 2){
+	    for(int i = 0; i < n; i++){
+		    sum++;
+	    }
+    }
+// N = 10, 
+outer loop = 10, 5, 2, 0 
+when N = 10
+1 outer iteration 10inner iterations 
+2 outer iterations 5 inner iterations 5 inner iterations 
+3 outer iterations 2 inner iterations
+4 outer iterations 1 inner iterations
+	inner loop = (N/2 + N/4 .... + N/2)
+
+
+
+    ```
+    
+```
+    
+```
