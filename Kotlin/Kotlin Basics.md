@@ -76,6 +76,8 @@
 	println(isUnit)
 	// first println() prints the string this is an expression. the second println() prints the value of the first println() statement, that is, kotlin.Unit
 	```
+	- Loops do not have values. Trying to assign a loop a value causes the compiler to give an error
+	- **![](https://lh6.googleusercontent.com/qywmk5w_jVMHbWq6AKsqQWYZ1XtpcGi3aYJA0XrVpOtYfAUd3M8STT3BdaCiCf1hTiksTWqnQckF6oM3uwRGR9l3buXsvI9lmMc3KqrSXfNgVGTKYPVCE51wY5ELcIeV4-sgm8Rlmno45thdjwR5Oji3sMqRVKX2eCENlwxcUUuSiiNNLHOhg5o76JGmpQ)**
 
 
 
