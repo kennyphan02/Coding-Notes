@@ -79,9 +79,19 @@
 	```
 	- Loops do not have values. Trying to assign a loop a value causes the compiler to give an error
 	- **![](https://lh6.googleusercontent.com/qywmk5w_jVMHbWq6AKsqQWYZ1XtpcGi3aYJA0XrVpOtYfAUd3M8STT3BdaCiCf1hTiksTWqnQckF6oM3uwRGR9l3buXsvI9lmMc3KqrSXfNgVGTKYPVCE51wY5ELcIeV4-sgm8Rlmno45thdjwR5Oji3sMqRVKX2eCENlwxcUUuSiiNNLHOhg5o76JGmpQ)**
-	- Compact functions - aka single-expression fcuntions 
-	- When creating functions, you can create a default value for a parameter
+	- **Compact functions** - aka single-expression fcuntions. 
+		- Makes code more compact and concise. (Lesser lines)
+		```Kotlin
+		fun isPositive(num : Int){
+			num > 0 
+		}
+		// can be translated to
+		fun isPositive(num : Int) = num > 0
+		```
+
+	- When creating functions, you can create a **default value** for a parameter
 		- If no default value is passed, the function must be called with the corresponding argument
+		- Default values doesn't have to be a value. it could be another function
 		- Example:
 	```Kotlin
 	fun swim(speed: String = "fast") {
@@ -89,6 +99,62 @@
 	}
 	// If the function swim() is called, it will print "fast" as the default parameter is "fast". if swim("slow") is called, it will print "swimming slow"
 	```
+	- Here is a program that demonstrates the usage of compact functions, setting arguments to default values, and using a when condition
+	```Kotlin
+	import java.util.*
+/**
+ * Program that utilizes a when condition and setting default values for arguments in a function. Inside the when statement utilizes compact functions
+ * If the day is not sunday, or the temperature is > 30, or the dirty level is greater than 20, return true 
+ */
+fun main(args: Array<String>) {
+    // test case when boolean expression is evaluated to false
+    var temp: Boolean = shouldChangeWater("Monday",12,13)
+    if(temp) println("Change the water!") else println("Don't change the water!")
+    
+    // test case when boolean expression is evaluated to false
+    var temp2: Boolean = shouldChangeWater("Sunday",12,13)
+    if(temp2) println("Change the water!") else println("Don't change the water!")
+    println("")
+ 
+    feedTheFish()
+
+}
+fun feedTheFish() {
+    val day = randomDay()
+    val food = fishFood(day)
+    println ("Today is $day and the fish eat $food")
+    println("Change water: ${shouldChangeWater(day)}");
+}
+fun randomDay() : String {
+    val week = arrayOf ("Monday", "Tuesday", "Wednesday", "Thursday",
+        "Friday", "Saturday", "Sunday")
+    return week[Random().nextInt(week.size)]
+}
+fun fishFood(day: String) : String {
+    return when (day) {
+        "Monday" -> "flakes"
+        "Wednesday" -> "redworms"
+        "Thursday" -> "granules"
+        "Friday" -> "mosquitoes"
+        "Sunday" -> "plankton"
+        else -> "nothing"
+    }
+}
+// compact functions
+fun isTooHot(temperature: Int) = temperature > 30
+fun isDirty(dirty: Int) = dirty > 30
+fun isSunday(day: String) = day == "Sunday"
+// code utilizing default parameters and compact functions
+fun shouldChangeWater (day: String, temperature: Int = 22, dirty: Int = 20) : Boolean {
+    return when {
+        isSunday(day) -> true
+        isTooHot(temperature) -> true
+        isDirty(dirty) -> true
+        else -> false
+    }
+}
+	```
+
 
 
 
