@@ -48,11 +48,6 @@
 - **Arrays, Lists and Loops**
 	- listOf declares a list
 	- example:
-This text is indented.
-
-  
-  
-Source: [How to Indent in HTML? (Simple Guide)](https://www.dopinger.com/blog/how-to-indent-in-html-simple-guide) (https://www.dopinger.com/blog/how-to-indent-in-html-simple-guide)
-
-`for
-`
+	```Kotlin
+	for
+	```
