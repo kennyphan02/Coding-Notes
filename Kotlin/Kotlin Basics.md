@@ -31,6 +31,7 @@
 		- **![](https://lh6.googleusercontent.com/vNvM0KagAf2-q4Q01F9KWR3jf4-2SDyhQbk5z5FXoJdKIr2ZQAk5fywjfzTo0ejK02K4Wc6RVnpMAJamJyJxqOL3DqvmZ5uM8KV9ImkbaYbHbE2sG8kPZt7gZI5K9fZjJS4EhMX4KnbKvnYfXtRdsiy7A6bs5_5jJs4d1YDrhB9tlkUYos6kHga1ZRCwYw)**
 	- When statement
 		- Similar to a switch statement in java
+		- When "when" statement doesn't have an expression, it acts as multiple if/else statements
 		- **![](https://lh6.googleusercontent.com/VaTUwQ1byO5os9O_K4hyjh3n_FGNLyahnYGCdQuY7hNLfueCF6HBOqhnKuhEFXOca7RLgytYbzLzkFri-_flxpZOsk_rCgZ4gSc0Q74RqjdeG1Si5xemhuZAY2wzzH0aRvqxyFKJmUs3JP08_MxGQLPXEHnntTv05u2ZBNmLeCvs8fK_Q13nwRvF83k2jA)**
 	- Nullability 
 		- In Kotlin, variables can not be null by default
@@ -78,6 +79,17 @@
 	```
 	- Loops do not have values. Trying to assign a loop a value causes the compiler to give an error
 	- **![](https://lh6.googleusercontent.com/qywmk5w_jVMHbWq6AKsqQWYZ1XtpcGi3aYJA0XrVpOtYfAUd3M8STT3BdaCiCf1hTiksTWqnQckF6oM3uwRGR9l3buXsvI9lmMc3KqrSXfNgVGTKYPVCE51wY5ELcIeV4-sgm8Rlmno45thdjwR5Oji3sMqRVKX2eCENlwxcUUuSiiNNLHOhg5o76JGmpQ)**
+	- Compact functions - aka single-expression fcuntions 
+	- When creating functions, you can create a default value for a parameter
+		- If no default value is passed, the function must be called with the corresponding argument
+		- Example:
+	```Kotlin
+	fun swim(speed: String = "fast") {
+		println(swimming $speed)
+	}
+	// If the function swim() is called, it will print "fast" as the default parameter is "fast". if swim("slow") is called, it will print "swimming slow"
+	```
+
 
 
 
