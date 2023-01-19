@@ -101,60 +101,65 @@
 	```
 	- Here is a program that demonstrates the usage of compact functions, setting arguments to default values, and using a when condition
 	```Kotlin
-	import java.util.*
-/**
- * Program that utilizes a when condition and setting default values for arguments in a function. Inside the when statement utilizes compact functions
- * If the day is not sunday, or the temperature is > 30, or the dirty level is greater than 20, return true 
- */
-fun main(args: Array<String>) {
-    // test case when boolean expression is evaluated to false
-    var temp: Boolean = shouldChangeWater("Monday",12,13)
-    if(temp) println("Change the water!") else println("Don't change the water!")
+	//  Program that utilizes a when condition and setting default values for arguments in a function. Inside the when statement utilizes compact functions
+	// If the day is not sunday, or the temperature is > 30, or the dirty level is greater than 20, return true 
+	fun main(args: Array<String>) {
+	    // test case when boolean expression is evaluated to false
+	    var temp: Boolean = shouldChangeWater("Monday",12,13)
+	    if(temp) println("Change the water!") else println("Don't change the water!")
+	    
+	    // test case when boolean expression is evaluated to true
+	    var temp2: Boolean = shouldChangeWater("Sunday",12,13)
+	    if(temp2) println("Change the water!") else println("Don't change the water!")
+	    println("")
+	    feedTheFish()
+    }
     
-    // test case when boolean expression is evaluated to false
-    var temp2: Boolean = shouldChangeWater("Sunday",12,13)
-    if(temp2) println("Change the water!") else println("Don't change the water!")
-    println("")
- 
-    feedTheFish()
+    fun feedTheFish() {
+	    val day = randomDay()
+	    val food = fishFood(day)
+	    println ("Today is $day and the fish eat $food")
+	    println("Change water: ${shouldChangeWater(day)}");
+	}
+	
+	fun randomDay() : String {
+	    val week = arrayOf ("Monday", "Tuesday", "Wednesday", "Thursday",
+	        "Friday", "Saturday", "Sunday")
+	    return week[Random().nextInt(week.size)]
+	}
+	
+	fun fishFood(day: String) : String {
+	    return when (day) {
+	        "Monday" -> "flakes"
+	        "Wednesday" -> "redworms"
+	        "Thursday" -> "granules"
+	        "Friday" -> "mosquitoes"
+	        "Sunday" -> "plankton"
+	        else -> "nothing"
+	    }
+    }
 
-}
-fun feedTheFish() {
-    val day = randomDay()
-    val food = fishFood(day)
-    println ("Today is $day and the fish eat $food")
-    println("Change water: ${shouldChangeWater(day)}");
-}
-fun randomDay() : String {
-    val week = arrayOf ("Monday", "Tuesday", "Wednesday", "Thursday",
-        "Friday", "Saturday", "Sunday")
-    return week[Random().nextInt(week.size)]
-}
-fun fishFood(day: String) : String {
-    return when (day) {
-        "Monday" -> "flakes"
-        "Wednesday" -> "redworms"
-        "Thursday" -> "granules"
-        "Friday" -> "mosquitoes"
-        "Sunday" -> "plankton"
-        else -> "nothing"
-    }
-}
-// compact functions
-fun isTooHot(temperature: Int) = temperature > 30
-fun isDirty(dirty: Int) = dirty > 30
-fun isSunday(day: String) = day == "Sunday"
-// code utilizing default parameters and compact functions
-fun shouldChangeWater (day: String, temperature: Int = 22, dirty: Int = 20) : Boolean {
-    return when {
-        isSunday(day) -> true
-        isTooHot(temperature) -> true
-        isDirty(dirty) -> true
-        else -> false
-    }
-}
+	// compact functions
+	
+	fun isTooHot(temperature: Int) = temperature > 30
+	fun isDirty(dirty: Int) = dirty > 30
+	fun isSunday(day: String) = day == "Sunday"
+	
+	// code utilizing default parameters and compact functions
+	fun shouldChangeWater (day: String, temperature: Int = 22, dirty: Int = 20) : 
+	Boolean {
+	    return when {
+	        isSunday(day) -> true
+	        isTooHot(temperature) -> true
+	        isDirty(dirty) -> true
+	        else -> false
+	    }
+	}
+
+
+
+	
 	```
-
 
 
 
