@@ -47,6 +47,9 @@
 			- !! operator converts any value to a non-null type and throws an exception if the value is null
 - **Arrays, Lists and Loops**
 	- listOf declares a list
-	- 
+```Kotlin
+for(init =)
+```
 
-
+`for
+`
