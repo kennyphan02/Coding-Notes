@@ -54,7 +54,7 @@ when N = 10
 2 outer iterations 5 inner iterations 5 inner iterations 
 3 outer iterations 2 inner iterations
 4 outer iterations 1 inner iterations
-	inner loop = (N/2 + N/4 .... + N/2)
+	inner loop = (N/2 + N/4 .... + 1 Iteration)
 
 
 
