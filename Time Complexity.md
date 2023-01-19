@@ -36,10 +36,9 @@
 	- Omega Notation (Ω) 
 	- Theta Notation (Θ) (Average case complexity)
 
-
-
-    ```Java
-    // What is the time complexity of this given code?
+- Time Complexity Examples
+	```Java
+	// What is the time complexity of this given code?
     int sum = 0
     int N = input
     for(int n = N; n > 0; n /= 2){
@@ -47,6 +46,7 @@
 		    sum++;
 	    }
     }
+    // Don't assume that bec
 // N = 10, 
 //outer loop = 10, 5, 2, 1
 /**when N = 10
@@ -56,10 +56,7 @@
 4 outer iterations 1 inner iterations
 	inner loop = (N/2 + N/4 .... + 1 Iteration)
 **/
-
-
-    ```
-    
+	```
+```
 ```
     
-```
