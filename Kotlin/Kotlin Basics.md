@@ -49,5 +49,33 @@
 	- listOf declares a list
 	- example:
 	```Kotlin
-	for
+	val school = listOf("Mackerel", "trout", "halibut")
 	```
+	- arrayOf declares an array and its fixed
+	```Kotlin
+	val school = arrayOf("a","b","c")
+	println(java.util.Arrays.toString(school))
+	```
+	- can mix types using Arrays
+	- Can initalize arrays with code instead of initalizing them to 0
+	```Kotlin
+	val array = Array (5) {it * 2}
+	println(java.util.Arrays.toString(array)) # returns [0,2,4,6,8]
+	```
+	- **![](https://lh4.googleusercontent.com/kVAMZaVbDZbpdtC1NrIDBC30pzfMBxcwNAgtAKS3mMxSMlVVWI3vWkionIHUESg7PJbEbwrQiIO4I-PiNOOFzLbphg_piWECZ1RZGylPcOEGGgpsFnw7DA2iVuXqVxh3k1FPEYjiuvQeOMZ__ZP-dbL5wIZkMspyYytdE4mgidcw1RfTAXeJrCBaLuxr_A)**
+- **Functions**
+	- Fun main()
+		- Fun - stands for function in kotlin. a **function** is a **section of a program that performs a specific task**
+		- Main - name of the function
+	- Repeat Statement
+		- repeat(int value) {} - repeating over the same code inside the brackets int times
+	- When a function does not have a return statement, the function returns Unit (formally kotlin.Unit)
+	```Kotlin
+	// Will assign kotlin.unit
+	val isUnit = println("This is an expression")
+	println(isUnit)
+	// first println() prints the string this is an expression. the second println() prints the value of the first println() statement, that is, kotlin.Unit
+	```
+
+
+
