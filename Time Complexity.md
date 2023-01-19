@@ -32,14 +32,14 @@
         -Exepected # of basic operations considered as a random variable under some assumption about the probabiity distribution of all possible inputs
 
 - **Asymptotic Notations** - Mathematical notations used to describe the running time of an algorithm 
-	- Big-O Notation (O-Notation)
-		- adsda
+	- Big-O Notation (O-Notation) - worst-case complexity of an algorithm. Disregards constants
 	- Omega Notation (Ω) 
 	- Theta Notation (Θ) (Average case complexity)
 
 
 
     ```Java
+    // What is the time complexity of this given code?
     int sum = 0
     int N = input
     for(int n = N; n > 0; n /= 2){
@@ -48,14 +48,14 @@
 	    }
     }
 // N = 10, 
-outer loop = 10, 5, 2, 0 
-when N = 10
+//outer loop = 10, 5, 2, 1
+/**when N = 10
 1 outer iteration 10inner iterations 
 2 outer iterations 5 inner iterations 5 inner iterations 
 3 outer iterations 2 inner iterations
 4 outer iterations 1 inner iterations
 	inner loop = (N/2 + N/4 .... + 1 Iteration)
-
+**/
 
 
     ```
