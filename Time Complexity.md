@@ -35,7 +35,7 @@
 	- Big-O Notation (O-Notation)
 		- adsda
 	- Omega Notation (Ω) 
-	- Theta Notation (Θ)
+	- Theta Notation (Θ) (Average case complexity)
 
 
 
