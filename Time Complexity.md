@@ -56,26 +56,8 @@
 	We can conclude that the pattern is given an input size N, the number of iterations is halved in the innter loop. 
 		N + N/2 + N/4 + ... + N/2^n  
 		Simplified into N(1/2 + 1/4 + ... + 1/2^N)
-		
+		The pattern above displays a geometric series. Evaluating N(2) = 2N = O(N) as we get rid of constants when writing in Big O Notation
 	**/
 	
 	```
 
-        int sum = 0
-    int N = input
-    for(int n = N; n > 0; n /= 2){
-	    for(int i = 0; i < n; i++){
-		    sum++;
-	    }
-    }
-    // Don't assume that because there is a nested for loop doesn't mean it will run in O(n^2) time 
-    // What the program does 
-// N = 10, 
-//outer loop = 10, 5, 2, 1
-/**when N = 10
-1 outer iteration 10inner iterations 
-2 outer iterations 5 inner iterations 5 inner iterations 
-3 outer iterations 2 inner iterations
-4 outer iterations 1 inner iterations
-	inner loop = (N/2 + N/4 .... + 1 Iteration)
-**/
