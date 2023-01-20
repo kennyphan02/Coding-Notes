@@ -33,6 +33,7 @@
 
 - **Asymptotic Notations** - Mathematical notations used to describe the running time of an algorithm 
 	- Big-O Notation (O-Notation) - worst-case complexity of an algorithm. Disregards constants
+			- Big-O describes how the runtime of the algorithm grows as the input grows 
 	- Omega Notation (Ω) 
 	- Theta Notation (Θ) (Average case complexity)
 	- 
