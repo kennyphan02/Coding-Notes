@@ -161,7 +161,32 @@
 	```Kotlin
 	fun main() {
 		val decorations = listOf ("Rock", "Pagoda", "Plastic Plant", "Alligator")
-		println(decorations.filter {it[0] })
+		println(decorations.filter {it[0] == 'P'})
 	}
+	// it refers to each item as the filter loops through the list. if the expression returns true, item is included.  it[0] refers to the item[0] i.e Rock[0] = "R"
 	```
+	- Eager vs Lazy
+		- Eager - Is a list created immediately? (eager)
+		- Lazy - Is a list created when the list is accessed? (Lazy)
+		- By default, filter is eager. When you use the filter method, a list is created
+		- To make a filter lazy, use the *Sequence* collection. 
+		- Simpler terms for Eager vs Lazy
+			- Example: ask what the sum of X,Y, and Z is. 
+				- In an eager evaluation, one would 
+		- Example of eager code
+		```Kotlin
+		val decorations = listOf ("Rock", "Pagoda", "Plastic Plant", "Alligator")
+		// eager creates a new list 
+		val eager = decorations.filter {it[0] == 'p'}
+		println("eager: $eager"):
+		```
+		- Example of lazy code
+		```Kotlin
+		// lazy, will wait until asked to evaluate
+		val filtered = decorations.asSequence().filter { it[0] == 'p'}
+		println("filtered: $filtered")
+		```
+
+
+
 
