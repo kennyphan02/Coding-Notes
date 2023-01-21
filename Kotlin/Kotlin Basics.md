@@ -195,7 +195,40 @@
 		// [3,6,9]
 		```
 		- Flatten() - returns a single list of all the elements of nested collections (i.e combines an array of arrays into an array)
-
+- Lambdas
+	- Nameless functions
+	- Lambda expressions can be passed as data
+	- Also called function literals
+	- Parameters go on the left of the ->. 
+	- The code on the right of the > gets executed
+	- Example: 
+	```Kotlin
+	var dirtyLevel = 20
+	val waterFilter = { dirty : Int -> dirty / 2}
+	println(waterFilter(dirtyLevel))
+	```
+	Kotlin's syntax is:
+	```Kotlin
+	val waterFilter: (Int) -> Int = { dirty -> dirty / 2}
+	// waterFilter can be a function that takes an Int and returns an int
+	// assign a lambda to waterFilter
+	// lambda returns the value of dirty / 2
+	
+	```
+- Higher-order Functions
+	- function that takes other functions as parameters
+	- Can pass a lambda to a higher-order function that takes a function as an argument.
+	- map is a higher-order function
+	- The function you pass doesn't have to be a lambda. Could be a regular function.
+		- If specifying the argument as a regular function use the :: operator
+	```Kotlin
+	val waterFilter: (Int) -> Int = { dirty -> dirty / 2}
+	fun updateDirty(dirty: Int, operation: (Int) -> Int) : Int {
+		return operation(dirty)
+	}
+	println(updateDirty(30,waterFilter))
+	// one cool thing with higher-order functions is that it can take in a function then return a function of that function 
+	``` 
 
 
 
