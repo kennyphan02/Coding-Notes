@@ -196,6 +196,7 @@
 		```
 		- Flatten() - returns a single list of all the elements of nested collections (i.e combines an array of arrays into an array)
 - Lambdas
+	- An expression that describes a function.
 	- Nameless functions
 	- Lambda expressions can be passed as data
 	- Also called function literals
@@ -204,7 +205,7 @@
 	- Example: 
 	```Kotlin
 	var dirtyLevel = 20
-	val waterFilter = { dirty : Int -> dirty / 2}
+	val waterFilter = { dirty : Int -> dirty / 2} //waterFilter is a function
 	println(waterFilter(dirtyLevel))
 	```
 	Kotlin's syntax is:
@@ -221,6 +222,7 @@
 	- map is a higher-order function
 	- The function you pass doesn't have to be a lambda. Could be a regular function.
 		- If specifying the argument as a regular function use the :: operator
+	- Kotlin prefers that a function is passed as the last parameter. (utilizes last parameter call syntax making the code more concise)
 	```Kotlin
 	val waterFilter: (Int) -> Int = { dirty -> dirty / 2}
 	fun updateDirty(dirty: Int, operation: (Int) -> Int) : Int {
