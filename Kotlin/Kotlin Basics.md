@@ -233,6 +233,25 @@
 	``` 
 - Classes
 	- Packages - keeps code organized
+	- Kotlin automatically creates getters and setters for properties you defined in the class.
+	```Kotlin
+	class Aquarium {
+		var width: Int = 20
+		var height: Int = 40
+		var length: Int = 100
+		fun printSize(){
+			println("Width: $width cm + ... (for length and height)")
+		}
+	}
+	// creating a main function
+	fun buildAquarium() {
+		val myAquarium = Aquarium()
+		myAquarium.printSize()
+	}
+	fun main() {
+		buildAquarium()
+	}
+	```
 
 
 
