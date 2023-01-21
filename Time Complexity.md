@@ -5,7 +5,6 @@
 - **Basic Operation**: operation that contributes the most towards the running time of the algorithm
 
 - **Time Efficiency:** determined by the number of repetitions of the basic operations of an algorithm as a function of input size (I.E O(N))
-
     - Indicates how fast an algorithm runs
     - number of basic operations an algorithm performs represented as a function of input size 
 
