@@ -232,7 +232,7 @@
 	// one cool thing with higher-order functions is that it can take in a function then return a function of that function 
 	``` 
 - Classes
-	- 
+	- Packages - keeps code organized
 
 
 
