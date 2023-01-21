@@ -155,12 +155,13 @@
 	        else -> false
 	    }
 	}
-
-
-
-	
 	```
-
-
-
+- Filters
+	- Get part of a list based on some condition
+	```Kotlin
+	fun main() {
+		val decorations = listOf ("Rock", "Pagoda", "Plastic Plant", "Alligator")
+		println(decorations.filter {it[0] })
+	}
+	```
 
