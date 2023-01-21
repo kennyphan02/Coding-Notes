@@ -168,11 +168,13 @@
 	- Eager vs Lazy
 		- Eager - Is a list created immediately? (eager)
 		- Lazy - Is a list created when the list is accessed? (Lazy)
+			- More expensive due to resource allocation. Helpful when working with large collections where you want to avoid performing expensive operations when you only need part of the results
 		- By default, filter is eager. When you use the filter method, a list is created
 		- To make a filter lazy, use the *Sequence* collection. 
 		- Simpler terms for Eager vs Lazy
 			- Example: ask what the sum of X,Y, and Z is. 
-				- In an eager evaluation, one would 
+				- In an eager evaluation, one would ask for the values of X,Y,Z and first, then sum it up
+				- In a lazy evaluation, one would ask for the values of X and Y, add them together, **then** ask what z then add it to the result.
 		- Example of eager code
 		```Kotlin
 		val decorations = listOf ("Rock", "Pagoda", "Plastic Plant", "Alligator")
