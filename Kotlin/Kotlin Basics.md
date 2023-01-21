@@ -188,6 +188,14 @@
 		val filtered = decorations.asSequence().filter { it[0] == 'p'}
 		println("filtered: $filtered")
 		```
+		- **Map()** performs the same transform on  every item and returns the list
+		```Kotlin
+		val numbers = setOf(1,2,3)
+		println(numbers.map {it * 3*}) 
+		// [3,6,9]
+		```
+		- Flatten() - returns a single list of all the elements of nested collections (i.e combines an array of arrays into an array)
+
 
 
 
