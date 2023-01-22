@@ -264,9 +264,13 @@
 		var height: Int = height
 	}
 	// more simplified way in Kotlin is using var/val in the class declaration and removing the body
+	class Aquarium(var length: Int = 100, var width: Int = 20, var height: Int = 40)
 	
 	```
 	- Constructors can have init blocks that are initalized and ran. Can have multiple constructors. init blocks are executed in the in order in which they appear in the class definition
+	- One can create different Aquarium objects and initalizing different values of the parameters while keeping the rest its default values by specifying the parameter to be initalized 
+		- val aquarium1 = Aquarium()
+		- val aquarium2 = Aquarium(width = 25)
 
 
 
