@@ -256,7 +256,7 @@
 	// returns Width: 20 cm + Height: 40 cm + Length: 100 cm 
 	// returns Height: 60 cm along with the other default values 
 	```
-	Creating a default constructor: you define it in the class declaration itself 
+	- Creating a default constructor: you define it in the class declaration itself 
 	```Kotlin
 	class Aquarium(length: Int = 100, width: Int = 20, height: Int = 40){
 		var length: Int = length
@@ -266,6 +266,7 @@
 	// more simplified way in Kotlin is using var/val in the class declaration and removing the body
 	
 	```
+	- Constructors can have init blocks that are initalized and ran. Can have multiple constructors. init blocks are executed in the in order in which they appear in the class definition
 
 
 
