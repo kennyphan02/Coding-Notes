@@ -291,7 +291,9 @@
         set(value) {
             height = (value * 1000) / (width * length)
         }
-        // get() gets the value of volume. to utilize get, instiante an object of Aquarium i.e val 
+        // get() gets the value of volume. to utilize get, instiante an object of Aquarium i.e val obj1 = Aquarium()
+        // obj1.length   //get() gets the value of length
+        // set(value) is called automatically. 
         
 	
 	```
