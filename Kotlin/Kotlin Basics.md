@@ -271,7 +271,14 @@
 	- One can create different Aquarium objects and initalizing different values of the parameters while keeping the rest its default values by specifying the parameter to be initalized 
 		- val aquarium1 = Aquarium()
 		- val aquarium2 = Aquarium(width = 25)
+- Visbility Modifiers
+	- Private - only visible in that class
+	- Protected - visible to subclasses
+	- Internal - only visible within that module (module is a set of kotlin files compiled together)
+	- public - visible outside the class
 
+- Subclasses/Inheritance
+	- By default, kotlin classes can not be subclassed. must declare a class open. the class's properties and variable need to be marked as open too
 
 
 
