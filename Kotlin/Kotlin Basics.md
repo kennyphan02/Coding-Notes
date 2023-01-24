@@ -310,6 +310,9 @@
 	- Abstract classes/interfaces can't be instantiated. 
 	- Abstract classes can have constructors
 	- interfaces can't store state
+	- Subclasses that inherit abstract classses must implement the abstract classes methods and properties. Abstract classes are always open (Dont need to markw ith open)
+	- **When to use interfaces or abstract classes?**
+		- Using interfaces will tend to make code easier to reuse and understand than inheritance from an abstract class. The class functionality utilizes methods from an interfa
 
 
 
