@@ -321,7 +321,6 @@
 		- ![[Pasted image 20230124004439.png]]
 		- Making a singleton class to create one instance of a class. use the keyword object instead of Class. 
 		- Composition leads to better encapsulation, lower coupling (interdependence), cleaner interfaces, and more usable code. 
-
 - Data classes
 	- Holds data
 	- Copy() method? 
@@ -358,7 +357,8 @@
 	}
 	
 	```
-
+- Companion Objects
+	- In java its similar to keyword static. Companion objects are used to invoke class methods without having to create an instance of the class
 
 
 
