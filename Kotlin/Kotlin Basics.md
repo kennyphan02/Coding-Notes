@@ -320,6 +320,7 @@
 		- Implement interface functionality in a separate helper class. each unrelated classes uses an instance of that helper class to obtain the functionality
 		- ![[Pasted image 20230124004439.png]]
 		- Making a singleton class to create one instance of a class. use the keyword object instead of Class. 
+		- Composition leads to better encapsulation, lower coupling (interdependence), cleaner interfaces, and more usable code. 
 
 
 
