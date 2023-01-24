@@ -343,6 +343,22 @@
 		makeDecorations() // prints 
 	}
 	```
+	- Destructing (shorthand for assigning properties of a data object to separate variables) 
+	- ![[Pasted image 20230124012231.png]]
+	- ![[Pasted image 20230124012247.png]]
+- ENUMS
+	- a set of named values and constants. 
+	- allows you to refer to the value by name
+	- each constant in the enum is an object. 
+	- enums are singletons and there can only be one of each value in enumeration
+		- I.e can only be one Color.RED, Color.GREEN, and one Color.BLUE
+	```Kotlin
+	enum class Color(val rgb: Int) {
+		RED(0xFF0000), GREEN(0x00FF00), BLUE(0x0000FF);
+	}
+	
+	```
+
 
 
 
