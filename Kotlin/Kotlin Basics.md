@@ -268,9 +268,36 @@
 	
 	```
 	- Constructors can have init blocks that are initalized and ran. Can have multiple constructors. init blocks are executed in the in order in which they appear in the class definition
+		- Why write val or var infront of primary constructor arguments? 
+			- Automatically creates fields with the same names which are initalized to the arguments passed to the constructor 
 	- One can create different Aquarium objects and initalizing different values of the parameters while keeping the rest its default values by specifying the parameter to be initalized 
 		- val aquarium1 = Aquarium()
 		- val aquarium2 = Aquarium(width = 25)
+		- 
+- Visbility Modifiers
+	- Private - only visible in that class
+	- Protected - visible to subclasses
+	- Internal - only visible within that module (module is a set of kotlin files compiled together)
+	- public - visible outside the class
+- Subclasses/Inheritance
+	- By default, kotlin classes can not be subclassed. must declare a class open. the class's properties and variable need to be marked as open too
+	- 
+- Getters/setters
+	- Automatically created in kotlin by default. If one wants to change the value of the property, a get() or set() must be declared underneath the variable to change the property. 
+	- setters set the value of any variable and getter is used to get the value
+	```Kotlin
+	open class Aquarium (open var length: Int = 100, open var width: Int = 20, open var height: Int = 40) {
+    open var volume: Int
+        get() = width * height * length / 1000
+        set(value) {
+            height = (value * 1000) / (width * length)
+        }
+        // get() gets the value of volume. to utilize get, instiante an object of Aquarium i.e val obj1 = Aquarium()
+        // obj1.length   //get() gets the value of length
+        // set(value) is called automatically. 
+        
+	
+	```
 
 
 
