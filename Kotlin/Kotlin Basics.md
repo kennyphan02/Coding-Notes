@@ -322,5 +322,28 @@
 		- Making a singleton class to create one instance of a class. use the keyword object instead of Class. 
 		- Composition leads to better encapsulation, lower coupling (interdependence), cleaner interfaces, and more usable code. 
 
+- Data classes
+	- Holds data
+	- Copy() method? 
+	```Kotlin
+	data class Decoration(val rocks: String){
+		
+	}
+	fun makeDecorations() {
+		val decoration1 = Decoration("granite") // prints Decoration("granite")
+		println(decoration1)
+		val decoration2 = Decoration("slate") // prints Decoration(rocks = slate)
+		println(decoration2)
+		val decoration3 = Decoration("slate")
+		println(decoration3)  // prints Decoration(rocks = slate)
+		println(deocration1.equals(decoration2)) // false 
+		println(deocration2.equals(decoration3)) // true
+	}
+	fun main(){
+		makeDecorations() // prints 
+	}
+	```
+
+
 
 
