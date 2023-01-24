@@ -296,12 +296,16 @@
         set(value) {
             height = (value * 1000) / (width * length)
         }
+    open var water: Double = 0.0
+	    get() = volume * 0.9 
+	open val shape = "rectangle"
         // get() gets the value of volume. to utilize get, instiante an object of Aquarium i.e val obj1 = Aquarium()
         // obj1.length   //get() gets the value of length
         // set(value) is called automatically. 
         
 	
 	```
+	- 
 
 
 
