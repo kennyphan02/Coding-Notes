@@ -359,6 +359,23 @@
 	```
 - Companion Objects
 	- In java its similar to keyword static. Companion objects are used to invoke class methods without having to create an instance of the class
+	- Companion object declaration:
+	```Kotlin
+	class Choice {
+		companion object {
+			var name: String = "lyric"
+			fun showDescription(name:String) = println("My favorite $name")
+		}
+	}
+	fun main {
+		println(Choice.name)
+		Choice.showDescription("pick")
+	}
+	//prints "lyric"
+	//prints "My favorite pick"
+	```
+	- Can implement interfaces and extend classes, saving memory with a singleton
+
 
 
 
