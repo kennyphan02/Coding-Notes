@@ -306,7 +306,10 @@
 	- Automatically created in kotlin by default. If one wants to change the value of the property, a get() or set() must be declared underneath the variable to change the property. 
 	- setters set the value of any variable and getter is used to get the value
 - Abstract classes and interfaces
-	- Abstract classes is used to define common behavior/properties to be shared among related classes. 
+	- Abstract classes and interfaces is used to define common behavior/properties to be shared among related classes. 
+	- Abstract classes/interfaces can't be instantiated. 
+	- Abstract classes can have constructors
+	- interfaces can't store state
 
 
 
