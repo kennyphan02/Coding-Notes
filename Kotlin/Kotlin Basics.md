@@ -233,6 +233,7 @@
 	``` 
 - Classes
 	- Packages - keeps code organized
+	- Can create multiples classes in one file
 	- Kotlin automatically creates getters and setters for properties you defined in the class.
 	```Kotlin
 	class Aquarium {
@@ -281,10 +282,13 @@
 	- public - visible outside the class
 - Subclasses/Inheritance
 	- By default, kotlin classes can not be subclassed. must declare a class open. the class's properties and variable need to be marked as open too
-	- 
+	- Showing how inheritance is used:
+	- ![[Pasted image 20230123221429.png]]
 - Getters/setters
 	- Automatically created in kotlin by default. If one wants to change the value of the property, a get() or set() must be declared underneath the variable to change the property. 
 	- setters set the value of any variable and getter is used to get the value
+- Showing how inheritance is used:
+- 
 	```Kotlin
 	open class Aquarium (open var length: Int = 100, open var width: Int = 20, open var height: Int = 40) {
     open var volume: Int
