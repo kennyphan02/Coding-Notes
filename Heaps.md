@@ -1,7 +1,7 @@
 **Heap Data Structure**
 - ![[Pasted image 20230125122611.png]]
 - Operations:
-	- Heapify: Process of creating a heap from an array
+	- Heapify: Process to rearrange elements 
 	- Insertion: Inserting an element in existing heap time O(Log N)
 	- Deletion: Deleting the top element of the heap (highest priority element), then organizating the heap then it returns the element that was deleted with time complexity O(Log N)
 	- Peek: find the most prior element in the heap (max or min element for max and min heap)
@@ -9,3 +9,4 @@
 	- Max-Heap
 		- The root node must be the greatest among all nodes. Every value of a parent node is also greater than its child nodes 
 	- Min-Heap
+		- The root node must be the smallest among all nodes. Every value of a parent node is also smaller than its child smalls 
