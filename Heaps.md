@@ -1,7 +1,8 @@
 **Heap Data Structure**
 - ![[Pasted image 20230125122611.png]]
 - Operations:
-	- Heapify: Process to rearrange elements 
+	- Heapify: Process to rearrange elements to main property of a heap data structure 
+			- Done when a certain node creates an imbalance in the heap due to operations on that node.
 	- Insertion: Inserting an element in existing heap time O(Log N)
 	- Deletion: Deleting the top element of the heap (highest priority element), then organizating the heap then it returns the element that was deleted with time complexity O(Log N)
 	- Peek: find the most prior element in the heap (max or min element for max and min heap)
