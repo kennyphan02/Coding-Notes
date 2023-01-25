@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eaba2d53d02834b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91f72043d46cc850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Kotlin/Kotlin Basics.md",
                 "mode": "source",
                 "source": false
@@ -44,39 +20,31 @@
             }
           },
           {
-            "id": "d8cc1e523502a896",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230124012247.png"
-              }
-            }
-          },
-          {
-            "id": "21a04ed00441b3e9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230124012231.png"
-              }
-            }
-          },
-          {
-            "id": "4967e393e0e22817",
+            "id": "5eff5dcf77e713c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Heaps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bceee129dd9cfcf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Linear Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Heaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Heaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md"
+                "file": "Heaps.md"
               }
             }
           }
@@ -203,17 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4967e393e0e22817",
+  "active": "5eff5dcf77e713c6",
   "lastOpenFiles": [
-    "Time Complexity.md",
-    "Images/Pasted image 20230124012223.png",
-    "Images/Pasted image 20230124012231.png",
-    "Images/Pasted image 20230124012247.png",
     "Kotlin/Kotlin Basics.md",
-    "Images/Pasted image 20230123221429.png",
-    "Images/Pasted image 20230123221409.png",
-    "Images/Pasted image 20230124004439.png",
     "conflict-files-obsidian-git.md",
-    "Algorithms/Linear Search.md"
+    "Algorithms/Linear Search.md",
+    "Algorithms/Binary Search.md",
+    "Time Complexity.md",
+    "2023-01-18.md",
+    "This is a test.md"
   ]
 }
