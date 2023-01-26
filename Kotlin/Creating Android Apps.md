@@ -4,4 +4,5 @@
 	- ConstraintLayout - arrange views in a flexible way 
 - Views have relationships to each other 
 	- The layout can change depending on the size and aspect ratio of the android device that the app is running on and the layout can adapt to whether the device is in portrait/landscape mode. 
+- TextView is a View for displaying text
 - 
