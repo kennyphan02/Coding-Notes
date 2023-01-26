@@ -235,6 +235,7 @@
 	- Packages - keeps code organized
 	- Can create multiples classes in one file
 	- Kotlin automatically creates getters and setters for properties you defined in the class.
+	- Classes are final by default and they can't be inherrited. to be inherrited use the open keyword
 	```Kotlin
 	class Aquarium {
 		var width: Int = 20
@@ -386,6 +387,12 @@
 	val scientific = hashMapOf("guppy" to "poecilia reticulata", "catfish" to "corydoras", "zebra fish" to "danio rerio")
 	// println (scientific.get("guppy")) returns poecilia reticulata
 	```
+- Organize and define constants
+	- Difference between const val and val?
+		- value for const val is determined at compile time whereas the value for val is determined during program execution. Val can be assigned by a function at run time 
+		- This means val can be assigned a value from a function, but const cannot.
+		- Const val only works at top level and in singleton classes declared with object
+	- 
 
 
 
