@@ -375,7 +375,17 @@
 	//prints "My favorite pick"
 	```
 	- Can implement interfaces and extend classes, saving memory with a singleton
-
+- Pairs and triples
+	- Premade data classes for 2-3 generic items
+		- Useful for having a function return more than one value
+- Collections
+	- ![[Pasted image 20230125214641.png]]
+	- Hash maps - allow you to store a value and a secondary object that you can use to reference the stored values. 
+	- hashMapOf() - associate one object to another object 
+	```Kotlin
+	val scientific = hashMapOf("guppy" to "poecilia reticulata", "catfish" to "corydoras", "zebra fish" to "danio rerio")
+	// println (scientific.get("guppy")) returns poecilia reticulata
+	```
 
 
 
