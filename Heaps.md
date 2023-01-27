@@ -17,4 +17,4 @@
 	- Array representation of a complete binary tree contains the level order traversal of the tree.
 	- How does the algorithm work? 
 		- Ignore leaf nodes (nodes that do not have any children)
-		- Start 
+		- Last parent node index (or last non-leaf node index= (n/2) - 1
