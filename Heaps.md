@@ -11,3 +11,10 @@
 		- The root node must be the greatest among all nodes. Every value of a parent node is also greater than its child nodes 
 	- Min-Heap
 		- The root node must be the smallest among all nodes. Every value of a parent node is also smaller than its child smalls 
+
+- Build MaxHeap Algorithm
+	- Max Heap is where the root of a heap is the maximum value among all nodes. Also, every parent node's value is greater than its child(s).
+	- Array representation of a complete binary tree contains the level order traversal of the tree.
+	- How does the algorithm work? 
+		- Ignore leaf nodes (nodes that do not have any children)
+		- Start 
