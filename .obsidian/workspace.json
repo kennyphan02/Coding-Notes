@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Heaps.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Heaps.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Heaps.md",
+                "file": "Algorithms/Trees/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Heaps.md",
+                "file": "Algorithms/Trees/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Heaps.md",
+                "file": "Algorithms/Trees/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Heaps.md"
+                "file": "Algorithms/Trees/Binary Search.md"
               }
             }
           }
@@ -195,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "22112e56b5f0bb0a",
   "lastOpenFiles": [
+    "Algorithms/Trees/Heaps.md",
+    "Algorithms/Trees/Binary Search.md",
     "Kotlin/Kotlin Basics.md",
     "Kotlin/Creating Android Apps.md",
-    "Algorithms/Heaps.md",
     "Time Complexity.md",
     "Images/Pasted image 20230125214641.png",
     "Images/Pasted image 20230125122611.png",
     "C++ Notes.md",
     "conflict-files-obsidian-git.md",
-    "Algorithms/Linear Search.md",
-    "Algorithms/Binary Search.md"
+    "Algorithms/Linear Search.md"
   ]
 }
