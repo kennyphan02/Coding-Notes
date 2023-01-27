@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Creating Android Apps.md",
+                "file": "Kotlin/Kotlin Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Creating Android Apps.md",
+                "file": "Kotlin/Kotlin Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Creating Android Apps.md",
+                "file": "Kotlin/Kotlin Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Creating Android Apps.md"
+                "file": "Kotlin/Kotlin Basics.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "22112e56b5f0bb0a",
   "lastOpenFiles": [
+    "Kotlin/Creating Android Apps.md",
     "Heaps.md",
     "Time Complexity.md",
     "Images/Pasted image 20230125214641.png",
@@ -205,7 +206,6 @@
     "Kotlin/Kotlin Basics.md",
     "conflict-files-obsidian-git.md",
     "Algorithms/Linear Search.md",
-    "Algorithms/Binary Search.md",
-    "2023-01-18.md"
+    "Algorithms/Binary Search.md"
   ]
 }
