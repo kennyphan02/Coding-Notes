@@ -11,4 +11,7 @@
 	- Used to access global variables when there is a local variable with the same name 
 	- Used to define a function outside a class 
 	- Used to access a class's static variables
-
+- Class Templates
+	- Similar to function templates, you can create a single class to work with different data types
+	- After defining a class template, we can create its object in the syntax:
+			- `className<dataType> classObject;`
