@@ -2,9 +2,13 @@
 	- Holder object that stores a collection of other objects (Example: An array holding various int objects)
 		- Implemented as class templates 
 - Function Templates
-		- Pass data type as a parameter so that one would not have to write the same code for different data types
-		- Two keywords to support templates: template and 'typename'. second keyword can be replaced by the keyword 'class'
+	- Pass data type as a parameter so that one would not have to write the same code for different data types
+	- Two keywords to support templates: template and 'typename'. second keyword can be replaced by the keyword 'class'
+	- After declaring a function template we can call it in other functions/templates with the following syntax:
+		- `functionName<dataType>(parameter1, parameter2...)`
+		- ![[Pasted image 20230129171027.png]] 
 - Scope resolution operator ::
 	- Used to access global variables when there is a local variable with the same name 
 	- Used to define a function outside a class 
 	- Used to access a class's static variables
+
