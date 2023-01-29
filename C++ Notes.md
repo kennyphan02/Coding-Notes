@@ -2,7 +2,8 @@
 	- Holder object that stores a collection of other objects (Example: An array holding various int objects)
 		- Implemented as class templates 
 - Class Templates
-	- Pass data type as a parameter
+		- Pass data type as a parameter so that one would not have to write the same code for different data types
+		- Two keywords to support templates: template and 'typename'. second keyword can be replaced by the keyword 'class'
 - Scope resolution operator ::
 	- Used to access global variables when there is a local variable with the same name 
 	- Used to define a function outside a class 
