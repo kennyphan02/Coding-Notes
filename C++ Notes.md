@@ -1,7 +1,7 @@
 - Containers
 	- Holder object that stores a collection of other objects (Example: An array holding various int objects)
 		- Implemented as class templates 
-- Class Templates
+- Function Templates
 		- Pass data type as a parameter so that one would not have to write the same code for different data types
 		- Two keywords to support templates: template and 'typename'. second keyword can be replaced by the keyword 'class'
 - Scope resolution operator ::
