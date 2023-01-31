@@ -6,3 +6,4 @@
 	- The layout can change depending on the size and aspect ratio of the android device that the app is running on and the layout can adapt to whether the device is in portrait/landscape mode. 
 - TextView is a View for displaying text
 - TextViews needs constraints to position the text 
+- One way to position a View is with a margin
