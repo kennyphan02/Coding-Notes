@@ -1,0 +1,3 @@
+- Use an IntRange to specify numbers 1-6 on a die
+	- Val diceRange = 1..6
+	- use the random() function on diceRange to generate a number
