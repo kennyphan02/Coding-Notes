@@ -13,6 +13,7 @@
 		- The root node must be the smallest among all nodes. Every value of a parent node is also smaller than its child smalls 
 
 - Build MaxHeap Algorithm
+	- Log(N) time
 	- Left child = 2(i)+1
 	- Right child = 2(i) + 2
 	- Max Heap is where the root of a heap is the maximum value among all nodes. Also, every parent node's value is greater than its child(s).
@@ -99,3 +100,5 @@
         printHeap(arr, N);
     }
     ```
+- HeapSort
+	- Takes O(NLog(N)) time
