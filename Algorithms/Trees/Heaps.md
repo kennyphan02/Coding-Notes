@@ -102,3 +102,24 @@
     ```
 - HeapSort
 	- Takes O(NLog(N)) time
+	- Steps:
+		- Build a max heap
+		- Swap the first and last elements of a heap
+		- Reduce the array size by 1
+		- heapify afterwards to maintain a heap structure
+		- repeat using a for-loop
+	```Java
+	        // One by one extract an element from heap
+	        // build a max heap then add this code 
+        for (int i = N - 1; i > 0; i--) {
+            // Move current root to end1
+            int temp = arr[0];
+            arr[0] = arr[i];
+            arr[i] = temp; 
+            // call max heapify on the reduced heap
+            heapify(arr, i, 0);
+            // Transforms a max heap to a min heap+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+        }
+    }
+	```
+
