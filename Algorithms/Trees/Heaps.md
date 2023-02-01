@@ -118,7 +118,7 @@
             arr[i] = temp; 
             // call max heapify on the reduced heap
             heapify(arr, i, 0);
-            // Transforms a max heap to a min heap+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+            // Transforms a max heap to a min heap
         }
     }
 	```
