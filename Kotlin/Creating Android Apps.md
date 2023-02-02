@@ -11,4 +11,4 @@
 - **Activities**
 	- Provides the window in which your app draws the UI
 	- Apps have multiple activities for different purposes of the App.
-	- 
+- Every Kotlin program must have a main() function. Android apps operate differently. Android systems call the onCreate() method in MainActivity
