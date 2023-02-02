@@ -20,12 +20,13 @@
 	- **Array representation of a complete binary tree contains the level order traversal of the tree**.
 	- How does the algorithm work? 
 		- Heapify takes 3 parameters (1, the array, 2, the length of the array, 3 the node)
+		- left and/or right child must be less than the length of the array 
 		- Ignore leaf nodes (nodes that do not have any children)
 		- Last parent node index (or last non-leaf node index= (n/2) - 1
 		- have a for loop that starts from the last parent node index ((n/2) - 1) and decrement by 1 for every iteration until it reaches 0. This is to heapify every non-leaf node. 
 		- Starting from the last parent node index ( the root), check to see if the left child is greater than the parent node. set a variable, largest, to left node. 
 		- Check to see if the right child is greater than the largest node. if it is, set largest to the right child. 
-		- Check a condition if the largest isn't the "root", Swap the parent nodes value with the largest value using a temp variable. Recursively check to see if there are any subtrees by heapifying after. 
+		- Recursively heapify the largest's subtree until the parent node doesn't contain any children. Stop the recursive call and the for loop is called after.
 		```Java
 		public class BuildHeap {
     // To heapify a subtree rooted with node i which is
