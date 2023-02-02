@@ -19,6 +19,7 @@
 	- Max Heap is where the root of a heap is the maximum value among all nodes. Also, every parent node's value is greater than its child(s).
 	- **Array representation of a complete binary tree contains the level order traversal of the tree**.
 	- How does the algorithm work? 
+		- Heapify takes 3 parameters (1, the array, 2, the length of the array, 3 the node)
 		- Ignore leaf nodes (nodes that do not have any children)
 		- Last parent node index (or last non-leaf node index= (n/2) - 1
 		- have a for loop that starts from the last parent node index ((n/2) - 1) and decrement by 1 for every iteration until it reaches 0. This is to heapify every non-leaf node. 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Building a Dice App.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Building a Dice App.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Building a Dice App.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Building a Dice App.md"
+                "file": "Algorithms/Trees/Heaps.md"
               }
             }
           }
@@ -219,17 +219,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "f2d3b896a3ca692b",
   "lastOpenFiles": [
+    "Kotlin/Building a Dice App.md",
+    "Kotlin/Kotlin Basics.md",
     "Kotlin/Creating Android Apps.md",
     "Algorithms/Trees/Heaps.md",
     "Algorithms/Trees/Binary Search.md",
-    "Kotlin/Kotlin Basics.md",
     "C++ Notes.md",
     "Pasted image 20230129170906.png",
     "Pasted image 20230129170900.png",
     "Pasted image 20230129170904.png",
-    "Pasted image 20230129170706.png",
-    "C++ Note.md"
+    "Pasted image 20230129170706.png"
   ]
 }
