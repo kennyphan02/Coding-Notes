@@ -6,3 +6,6 @@
 	- Views within a viewgroup are children of the parent. 
 	- In this case, the app is using the textview and button as the children of the constrainedlayout (parent)
 - Wrap_content (will be as tall and wide as the content inside it)
+- Unit Testing
+	- Important for good coding practices (automated unit tests > manual testing)
+	- Metadata tags such as @Test is used for writing test cases. metadata tags can change the way code is compiled
