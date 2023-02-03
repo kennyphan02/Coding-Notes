@@ -32,6 +32,8 @@
 	- When statement
 		- Similar to a switch statement in java
 		- When "when" statement doesn't have an expression, it acts as multiple if/else statements
+		- Can return a value (so that means it can be passed into a variable)
+			- but this means that using when is considered exhaustive so an else must be included so that the variable will have some sort of value (avoids null errors)
 		- **![](https://lh6.googleusercontent.com/VaTUwQ1byO5os9O_K4hyjh3n_FGNLyahnYGCdQuY7hNLfueCF6HBOqhnKuhEFXOca7RLgytYbzLzkFri-_flxpZOsk_rCgZ4gSc0Q74RqjdeG1Si5xemhuZAY2wzzH0aRvqxyFKJmUs3JP08_MxGQLPXEHnntTv05u2ZBNmLeCvs8fK_Q13nwRvF83k2jA)**
 	- Nullability 
 		- In Kotlin, variables can not be null by default
