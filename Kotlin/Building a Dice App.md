@@ -5,3 +5,4 @@
 	- TextView and Button will be located within a *ConstrainedLayout* which is a type of *ViewGroup* 
 	- Views within a viewgroup are children of the parent. 
 	- In this case, the app is using the textview and button as the children of the constrainedlayout (parent)
+- Wrap_content (will be as tall and wide as the content inside it)
