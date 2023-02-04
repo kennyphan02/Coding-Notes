@@ -35,7 +35,9 @@
 			- Big-O describes how the runtime of the algorithm grows as the input grows 
 	- Omega Notation (Ω) 
 	- Theta Notation (Θ) (Average case complexity)
-	- 
+
+- Establishing Order of Growths using limits
+	- ![[Pasted image 20230204124348.png]]
 
 - Time Complexity Examples
 	```Java
