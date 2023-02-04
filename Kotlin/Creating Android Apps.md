@@ -12,4 +12,4 @@
 	- Provides the window in which your app draws the UI
 	- Apps have multiple activities for different purposes of the App.
 - Every Kotlin program must have a main() function. Android apps operate differently. Android systems call the onCreate() method in MainActivity
-- onCreate() - creates the app's layout and makes its views available as objects 
+- setContentView() - creates the app's layout and makes its views available as objects 
