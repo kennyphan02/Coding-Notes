@@ -65,4 +65,4 @@
 	```
 
 Using sigma notation, if using one of the formulas given and at the index starts at 0, but we need to start at index 1, 
-]]
+![[chrome_FuHOKpuuFH.png]]
