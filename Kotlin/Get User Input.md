@@ -1,0 +1,3 @@
+- Classes and Inheritance
+	- When extending from a superclass, you must pass in the required parameters expected by the superclass. `Dwelling` requires the number of `residents` as input. You could pass in a fixed number of residents like 3 
+	- override keyword is used to define the implementations of abstract variables in kotlin. override indicates that the property was defined in a parent class and is about to be overridden
