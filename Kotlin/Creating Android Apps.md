@@ -1,5 +1,5 @@
 - User Interface (UI) - composes of text, images, buttons and other elements that a user can see and interact with.
-- Each element is called a **View**
+	- Each element is called a **View** - Responsible for drawing and event handling
 - ViewGroup - container that view objects can sit in. 
 	- ConstraintLayout - arrange views in a flexible way 
 - Views have relationships to each other 

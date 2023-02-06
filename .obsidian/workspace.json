@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "7b39f84e975427c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin/Creating Android Apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64b83f58fad77c54",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Trees/Binary Search Tree.md",
+                "file": "Kotlin/Creating Android Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Trees/Binary Search Tree.md",
+                "file": "Kotlin/Creating Android Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Trees/Binary Search Tree.md"
+                "file": "Kotlin/Creating Android Apps.md"
               }
             }
           }
@@ -243,17 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "7b39f84e975427c0",
   "lastOpenFiles": [
+    "Kotlin/Building a Dice App.md",
+    "Kotlin/Get User Input.md",
+    "Algorithms/Trees/Binary Search Tree.md",
     "Time Complexity.md",
     "Kotlin/Creating Android Apps.md",
-    "Kotlin/Building a Dice App.md",
     "Kotlin/Kotlin Basics.md",
     "Kotlin/Debugging.md",
     "Algorithms/Trees/Heaps.md",
     "Algorithms/Trees/Binary Search.md",
-    "C++ Notes.md",
-    "Pasted image 20230129170906.png",
-    "Pasted image 20230129170900.png"
+    "C++ Notes.md"
   ]
 }
