@@ -1,0 +1,5 @@
+- Node-based binary tree data structure has the following properties:
+	- The left child is smaller than the parent
+	- The right child is larger than the parent
+	- The subtree of each child must also be a binary search tree
+	- No duplicate nodes
