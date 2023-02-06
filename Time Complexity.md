@@ -66,3 +66,4 @@
 
 Using sigma notation, if using one of the formulas given and at the index starts at 0, but we need to start at index 1, 
 ![[chrome_FuHOKpuuFH.png]]
+When soving sigma notations problems, one can substitute n for K then plug it in the final equation after. 
