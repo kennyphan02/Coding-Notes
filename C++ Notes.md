@@ -15,3 +15,7 @@
 	- Similar to function templates, you can create a single class to work with different data types
 	- After defining a class template, we can create its object in the syntax:
 			- `className<dataType> classObject;`
+- Structures
+	- a way to group several related variables into one place. each variable in the structure is known as a member of the structure
+	- can contain different data types
+	- to access members of a structure use (dot) syntax (i.e myStruct.myNum)
