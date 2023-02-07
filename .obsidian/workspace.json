@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Notes.md",
+                "file": "Algorithms/Linear Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Notes.md",
+                "file": "Algorithms/Linear Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Notes.md",
+                "file": "Algorithms/Linear Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Notes.md"
+                "file": "Algorithms/Linear Search.md"
               }
             }
           }
@@ -257,6 +257,8 @@
   },
   "active": "7b39f84e975427c0",
   "lastOpenFiles": [
+    "Algorithms/Trees/Heaps.md",
+    "C++ Notes.md",
     "Kotlin/Get User Input.md",
     "Kotlin/Creating Android Apps.md",
     "Kotlin/Building a Dice App.md",
@@ -264,8 +266,6 @@
     "Algorithms/Trees/Binary Search Tree.md",
     "Time Complexity.md",
     "Kotlin/Kotlin Basics.md",
-    "Algorithms/Trees/Heaps.md",
-    "Algorithms/Trees/Binary Search.md",
-    "C++ Notes.md"
+    "Algorithms/Trees/Binary Search.md"
   ]
 }
