@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Linear Search.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Linear Search.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Linear Search.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Linear Search.md"
+                "file": "Algorithms/Trees/Heaps.md"
               }
             }
           }
@@ -257,6 +257,7 @@
   },
   "active": "7b39f84e975427c0",
   "lastOpenFiles": [
+    "Algorithms/Linear Search.md",
     "Algorithms/Trees/Heaps.md",
     "C++ Notes.md",
     "Kotlin/Get User Input.md",
@@ -265,7 +266,6 @@
     "Kotlin/Debugging.md",
     "Algorithms/Trees/Binary Search Tree.md",
     "Time Complexity.md",
-    "Kotlin/Kotlin Basics.md",
-    "Algorithms/Trees/Binary Search.md"
+    "Kotlin/Kotlin Basics.md"
   ]
 }
