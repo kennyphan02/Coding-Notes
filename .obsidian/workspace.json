@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin/Get User Input.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin/Get User Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin/Get User Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md"
+                "file": "Kotlin/Get User Input.md"
               }
             }
           }
@@ -258,14 +258,14 @@
   "active": "7b39f84e975427c0",
   "lastOpenFiles": [
     "Kotlin/Debugging.md",
+    "Kotlin/Creating Android Apps.md",
+    "Kotlin/Kotlin Basics.md",
     "Algorithms/Trees/Heaps.md",
     "Algorithms/Linear Search.md",
     "C++ Notes.md",
     "Kotlin/Get User Input.md",
-    "Kotlin/Creating Android Apps.md",
     "Kotlin/Building a Dice App.md",
     "Algorithms/Trees/Binary Search Tree.md",
-    "Time Complexity.md",
-    "Kotlin/Kotlin Basics.md"
+    "Time Complexity.md"
   ]
 }
