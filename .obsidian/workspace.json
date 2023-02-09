@@ -127,9 +127,11 @@
             "id": "8ee58f5d0081d8e6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230209014459.png"
+                "file": "Kotlin/Building a Tip Calculator App.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -224,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230209014459.png",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230209014459.png",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230209014459.png"
+                "file": "Kotlin/Building a Tip Calculator App.md"
               }
             }
           }
@@ -287,8 +289,8 @@
   },
   "active": "8ee58f5d0081d8e6",
   "lastOpenFiles": [
-    "Pasted image 20230209014449.png",
     "Pasted image 20230209014459.png",
+    "Pasted image 20230209014449.png",
     "Kotlin/Creating Android Apps.md",
     "Kotlin/Debugging.md",
     "Kotlin/Building a Dice App.md",

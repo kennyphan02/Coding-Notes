@@ -36,3 +36,4 @@
 - EditText - allows user to input text and edit text 
 - wrapContent - the height will be as tall as the content inside of it
 - Children of the ConstraintLayout must have constraints implemented.
+- Can't use `match_parent` on UI elements in a ConstraintLayout
