@@ -285,6 +285,7 @@
 	- public - visible outside the class
 - Subclasses/Inheritance
 	- By default, kotlin classes can not be subclassed. must declare a class open. the class's properties and variable need to be marked as open too
+	- classes are final by default and cannot be subclassed. Classes are that are abstract or open can only be inherited
 	- Showing how inheritance is used:
 	- ![[Pasted image 20230123221429.png]]
 	- Showing how inheritance is used:
