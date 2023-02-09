@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Get User Input.md",
+                "file": "Kotlin/Kotlin Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bfb878be7dcae54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin/Get User Input (Good Example of Inheritance).md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Get User Input.md",
+                "file": "Kotlin/Get User Input (Good Example of Inheritance).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Get User Input.md",
+                "file": "Kotlin/Get User Input (Good Example of Inheritance).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Get User Input.md"
+                "file": "Kotlin/Get User Input (Good Example of Inheritance).md"
               }
             }
           }
@@ -255,17 +267,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b39f84e975427c0",
+  "active": "3bfb878be7dcae54",
   "lastOpenFiles": [
+    "Kotlin/Building a Dice App.md",
+    "Kotlin/Building a Tip Calculator App.md",
+    "Kotlin/Kotlin Basics.md",
+    "Kotlin/Get User Input (Good Example of Inheritance).md",
     "Kotlin/Debugging.md",
     "Kotlin/Creating Android Apps.md",
-    "Kotlin/Kotlin Basics.md",
     "Algorithms/Trees/Heaps.md",
     "Algorithms/Linear Search.md",
     "C++ Notes.md",
-    "Kotlin/Get User Input.md",
-    "Kotlin/Building a Dice App.md",
-    "Algorithms/Trees/Binary Search Tree.md",
-    "Time Complexity.md"
+    "Algorithms/Trees/Binary Search Tree.md"
   ]
 }
