@@ -1,0 +1,5 @@
+- XML (eXensible Markup Language)
+	- way of describing data using a text-based document.
+	- In this app, the XML will be modified
+	- Can define the UI layout
+- UI for an android app is

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Get User Input (Good Example of Inheritance).md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Get User Input (Good Example of Inheritance).md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Get User Input (Good Example of Inheritance).md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Get User Input (Good Example of Inheritance).md"
+                "file": "Kotlin/Building a Tip Calculator App.md"
               }
             }
           }
@@ -269,12 +269,12 @@
   },
   "active": "3bfb878be7dcae54",
   "lastOpenFiles": [
-    "Kotlin/Building a Dice App.md",
-    "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/Kotlin Basics.md",
-    "Kotlin/Get User Input (Good Example of Inheritance).md",
     "Kotlin/Debugging.md",
     "Kotlin/Creating Android Apps.md",
+    "Kotlin/Building a Tip Calculator App.md",
+    "Kotlin/Building a Dice App.md",
+    "Kotlin/Get User Input (Good Example of Inheritance).md",
     "Algorithms/Trees/Heaps.md",
     "Algorithms/Linear Search.md",
     "C++ Notes.md",
