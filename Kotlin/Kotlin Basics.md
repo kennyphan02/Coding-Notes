@@ -395,7 +395,17 @@
 		- This means val can be assigned a value from a function, but const cannot.
 		- Const val only works at top level and in singleton classes declared with object
 	- 
-
+- With statement
+	- When working with a specific instance of a class and need to access multiple properties and functions of that instance, you can say "do all the following operations with this instance object" using a with statement. in the parameter of the with statement, it takes an instance name.
+	```Kotlin
+	with(squareCabin) {
+    println("\nSquare Cabin\n============")
+    println("Capacity: ${capacity}")
+    println("Material: ${buildingMaterial}")
+    println("Has room? ${hasRoom()}")
+}
+	```
+	
 
 
 
