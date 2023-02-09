@@ -1,12 +1,14 @@
 - User Interface (UI) - composes of text, images, buttons and other elements that a user can see and interact with.
 	- Each element is called a **View** - Responsible for drawing and event handling
-- ViewGroup - container that view objects can sit in. 
-	- ConstraintLayout - arrange views in a flexible way 
+- ViewGroup (main class) - container that view objects can sit in. 
+	- ConstraintLayout (sub class) - arrange views in a flexible way 
+		- Buttons, TextViews, ImageViews are child of the constraintlayout
 - Views have relationships to each other 
 	- The layout can change depending on the size and aspect ratio of the android device that the app is running on and the layout can adapt to whether the device is in portrait/landscape mode. 
 - TextView is a View for displaying text
 - TextViews needs constraints to position the text 
 - One way to position a View is with a margin
+- 
 
 - **Activities**
 	- Provides the window in which your app draws the UI

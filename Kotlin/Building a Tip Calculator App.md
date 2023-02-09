@@ -2,4 +2,7 @@
 	- way of describing data using a text-based document.
 	- In this app, the XML will be modified
 	- Can define the UI layout
-- UI for an android app is
+	- ![[Pasted image 20230209014459.png]]
+- UI for an android app is built as a hierachy of components (widgets) and the on-screen layouts of those components. 
+- Each UI element is represented by an XML element in the XML file 
+- 
