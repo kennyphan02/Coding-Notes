@@ -20,3 +20,7 @@
 - xmlns: - XML name space - each line defines a vocabulary for attributes related to those words 
 - android: - android name space - marks attributes that are defined by the android system 
 - All of the attributes in the layout XML begin with one of those namespaces 
+
+
+- EditText - allows user to input text and edit text 
+- Children of the ConstraintLayout must have constraints implemented.
