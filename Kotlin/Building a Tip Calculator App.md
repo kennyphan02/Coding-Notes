@@ -5,4 +5,5 @@
 	- ![[Pasted image 20230209014459.png]]
 - UI for an android app is built as a hierachy of components (widgets) and the on-screen layouts of those components. 
 - Each UI element is represented by an XML element in the XML file 
+- Adding comments to XML documents Start <!-- and end with -->.
 - 
