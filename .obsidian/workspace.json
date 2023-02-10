@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "Algorithms/Trees/Heaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md"
+                "file": "Algorithms/Trees/Heaps.md"
               }
             }
           }
@@ -301,10 +301,10 @@
   },
   "active": "7022651a747639a4",
   "lastOpenFiles": [
+    "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/Building a Dice App.md",
     "Algorithms/Trees/Binary Search Tree.md",
     "Algorithms/Trees/Binary Search.md",
-    "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/ConstraintLayouts.md",
     "Kotlin/Creating Android Apps.md",
     "Kotlin/Debugging.md",
