@@ -52,3 +52,4 @@
 -   Use "start" and "end" constraints to handle both Left to Right (LTR) and Right to Left (RTL) languages.
 -   Names of the constraint attributes follow the form `layout_constraint<Source>_to<Target>Of`.
 -   To make a `View` as wide as the `ConstraintLayout` it's in, constrain the start and end to the start and end of the parent, and set the width to 0dp.
+	- 0dp tells android studio not to calculate "X" thing, and just to match the constraints that are on the view. 
