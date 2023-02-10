@@ -32,6 +32,9 @@
 	- multiple words should be separated with an underscore (_)
 - When you refer to resource IDs in your app code, use `R.<type>.<name>`; for example, `R.string.roll`. For `View` IDs, the `<type>` is `id`, for example, `R.id.button`.
 
+-  ViewBinding 
+	- Makes it much easier to call methods on views rather than accessing the resource id of a view to modify 
+
 
 - EditText - allows user to input text and edit text 
 - wrapContent - the height will be as tall as the content inside of it
@@ -53,3 +56,11 @@
 -   Names of the constraint attributes follow the form `layout_constraint<Source>_to<Target>Of`.
 -   To make a `View` as wide as the `ConstraintLayout` it's in, constrain the start and end to the start and end of the parent, and set the width to 0dp.
 	- 0dp tells android studio not to calculate "X" thing, and just to match the constraints that are on the view. 
+
+- -   **java** folder for Kotlin files (or Java files)
+-   `MainActivity` - class where all of the Kotlin code for the tip calculator logic will go
+-   **res** folder for app resources
+-   `activity_main.xml` - layout file for your Android app
+-   `strings.xml` - contains string resources for your Android app
+-   **Gradle Scripts** folder
+	- Gradle is the automated build system used by Android Studio. Whenever you change code, add a resource, or make other changes to your app, Gradle figures out what has changed and takes the necessary steps to rebuild your app. It also installs your app in the emulator or physical device and controls its execution.
