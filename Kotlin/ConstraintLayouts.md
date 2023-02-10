@@ -1,0 +1,3 @@
+- Viewgroup (main class)
+	- ConstraintLayout (sub class) - arranges views in a flexible way
+		- 
