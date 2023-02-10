@@ -8,3 +8,4 @@
 	             app:layout_constraintLeft_toRightOf="@+id/buttonA" />
 	```
 	- constraintLeft_toRightof means the left side of buttonB is constrained to the rightSide of buttonA
+	- 

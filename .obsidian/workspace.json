@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/ConstraintLayouts.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/ConstraintLayouts.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/ConstraintLayouts.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/ConstraintLayouts.md"
+                "file": "Kotlin/Building a Tip Calculator App.md"
               }
             }
           }
@@ -301,9 +301,9 @@
   },
   "active": "7022651a747639a4",
   "lastOpenFiles": [
+    "Kotlin/ConstraintLayouts.md",
     "Kotlin/Creating Android Apps.md",
     "Kotlin/Debugging.md",
-    "Kotlin/ConstraintLayouts.md",
     "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/Get User Input (Good Example of Inheritance).md",
     "Kotlin/Building a Dice App.md",
