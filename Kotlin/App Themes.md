@@ -1,0 +1,6 @@
+- Material Design - design system created by Google to help teams build high-quality digital experiences for Android.
+	- Material Theming allows one to adapt material design for your app. 
+	- Color can be represented as 3 hexadecimal numbers `#00-#FF (0-255)` representing the RGB components of that color
+- Themes
+	- A style can specify attributes for a View, such as font size, color, background color, etc
+	- Theme is a collection of styles that's applied to an entire app, activity, or view hierachy and not just an individual view
