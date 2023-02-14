@@ -4,4 +4,4 @@ Matrices are defined by `[Rows][Columns]`
 	- The transpose of any given matrix A can be given as A^T 
 **Symmetric Matrix**
 - A symmetric matrix is a square matrix that is equal to its transpose matrix (i.e A square matrix that remains unaltered when its transpose is calculated.)
-	- Properties:
+	- ![[Pasted image 20230213222017.png]]
