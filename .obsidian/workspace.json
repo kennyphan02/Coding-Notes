@@ -87,8 +87,24 @@
             "id": "c4ad7eb0ad7c8e1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Trees/Binary Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8df169c12c137408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Trees/Binary Trees.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -104,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithms/Trees/Binary Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithms/Trees/Binary Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +225,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithms/Trees/Binary Trees.md"
+              }
             }
           }
         ]
@@ -227,17 +247,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4ad7eb0ad7c8e1e",
+  "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
+    "Algorithms/Trees/Binary Search.md",
+    "Algorithms/Trees/Binary Search Tree.md",
+    "Algorithms/Trees/Heaps.md",
     "conflict-files-obsidian-git.md",
     "Arrays.md",
     "[.md",
     "Time Complexity.md",
     "Recurrence Relations.md",
     "C++ Notes.md",
-    "Images/Pasted image 20230213220231.png",
-    "Images/Pasted image 20230213222017.png",
-    "Algorithms/Linear Search.md",
-    "Algorithms/Matrices.md"
+    "Images/Pasted image 20230213220231.png"
   ]
 }
