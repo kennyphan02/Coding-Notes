@@ -1,0 +1,12 @@
+- Why use a tree over linear data structures such as arrays, linkedlists, stack, and queues?
+	- Trees are faster when it comes to accessing data as it is non-linear. 
+- Terminology
+	- Node - Contains a key value and a pointer to its child nodes 
+	- Leaf nodes - nodes that do not contain any children
+	- Internal node - node having atleast one children
+	- Edge - link between any two nodes 
+		- In a tree there contains n-1 edges where n is the number of nodes
+	- Root - topmost of a tree
+	- Height of a node - number of edges from the node to the deepest leaf (longest path from root to a leaf node)
+	- depth of a node - number of edges from the node to the root
+	- height of a tree - height of the root node or the depth of the deepest node 
