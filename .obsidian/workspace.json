@@ -72,6 +72,26 @@
             }
           },
           {
+            "id": "6a52990b59a1e27d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4ad7eb0ad7c8e1e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "bceee129dd9cfcf2",
             "type": "leaf",
             "state": {
@@ -84,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,7 +170,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +207,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Arrays.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -211,8 +227,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba4514c020fc8d70",
+  "active": "c4ad7eb0ad7c8e1e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Arrays.md",
     "[.md",
     "Time Complexity.md",
     "Recurrence Relations.md",
@@ -220,8 +238,6 @@
     "Images/Pasted image 20230213220231.png",
     "Images/Pasted image 20230213222017.png",
     "Algorithms/Linear Search.md",
-    "Algorithms/Matrices.md",
-    "Algorithms/Trees/Heaps.md",
-    "Images/Pasted image 20230209014449.png"
+    "Algorithms/Matrices.md"
   ]
 }

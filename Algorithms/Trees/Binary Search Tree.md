@@ -3,3 +3,7 @@
 	- The right child is larger than the parent
 	- The subtree of each child must also be a binary search tree
 	- No duplicate nodes
+- How to traverse all the nodes in a binary search tree?
+	- In-order traversal (left, root, then right)
+	- Pre-order traversal (root, left, right)
+	- PostOrder traversal (left, right, root)
