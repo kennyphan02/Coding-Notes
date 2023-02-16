@@ -1,0 +1,12 @@
+- Array
+	- A collection of fixed-size items contiguously allocated 
+	- Data is stored in contiguous blocks of memory
+		- i.E `[0,1,2,3,4,5,6]` where the numbers represent the index of an array
+	- Advantanges:
+		- Random access - Any element can be accessed by its index in O(1) time 
+		- Swapping elements is efficient using a temp
+		- Searching through an array is O(n) time
+	- Disadvantages:
+		- Size is fixed. If data grows beyond the length of the array, a new array must be instianted with a larger size and the contents of the old array need to be reallocated
+		- Inserting and deleting elements involve creating a new array and reallocating elements from the old array to a new array in O(n) time
+		
