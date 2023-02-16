@@ -1,0 +1,1 @@
+- Generic trees are a collection of nodes where each node contains multiple references to its children 

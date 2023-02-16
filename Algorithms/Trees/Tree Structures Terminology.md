@@ -10,3 +10,6 @@
 	- Height of a node - number of edges from the node to the deepest leaf (longest path from root to a leaf node)
 	- depth of a node - number of edges from the node to the root
 	- height of a tree - height of the root node or the depth of the deepest node 
+	- degree of a node - total number of branches of that node
+	- Forest - a collection of disjoint trees
+	- ![[Pasted image 20230216154743.png]] 
