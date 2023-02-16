@@ -1,1 +1,5 @@
-- Generic trees are a collection of nodes where each node contains multiple references to its children 
+- Generic trees are a collection of nodes where each node contains multiple references to its children
+	- Properties:
+		- Many children at every node
+		- Number of nodes for each node is not known in advance
+- 
