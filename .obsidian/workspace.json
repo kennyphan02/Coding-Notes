@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Complexity.md",
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Complexity.md",
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Complexity.md",
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Complexity.md"
+                "file": "Algorithms/Trees/Tree Structures Terminology.md"
               }
             }
           }
@@ -261,10 +261,10 @@
   },
   "active": "064ec4a12df5aa6e",
   "lastOpenFiles": [
-    "Recurrence Relations.md",
-    "Time Complexity.md",
-    "Algorithms/Trees/Generic Trees (N-ary trees).md",
     "Algorithms/Trees/Heaps.md",
+    "Time Complexity.md",
+    "Recurrence Relations.md",
+    "Algorithms/Trees/Generic Trees (N-ary trees).md",
     "Algorithms/Trees/Tree Structures Terminology.md",
     "Algorithms/Trees/Binary Search.md",
     "Algorithms/Trees/Binary Search Tree.md",
