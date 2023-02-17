@@ -1,0 +1,1 @@
+- Picking the minimum element 
