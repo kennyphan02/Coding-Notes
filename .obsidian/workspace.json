@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Trees/Binary Search Tree.md",
+                "file": "Algorithms/Trees/Generic Trees (N-ary trees).md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Trees/Binary Search Tree.md",
+                "file": "Algorithms/Trees/Generic Trees (N-ary trees).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Trees/Binary Search Tree.md",
+                "file": "Algorithms/Trees/Generic Trees (N-ary trees).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Trees/Binary Search Tree.md"
+                "file": "Algorithms/Trees/Generic Trees (N-ary trees).md"
               }
             }
           }
@@ -263,8 +263,8 @@
   "lastOpenFiles": [
     "Algorithms/Trees/Heaps.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
-    "Algorithms/Trees/Generic Trees (N-ary trees).md",
     "Algorithms/Trees/Binary Search Tree.md",
+    "Algorithms/Trees/Generic Trees (N-ary trees).md",
     "Algorithms/Trees/Binary Search.md",
     "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/Get User Input (Good Example of Inheritance).md",

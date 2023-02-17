@@ -2,4 +2,8 @@
 	- Properties:
 		- Many children at every node
 		- Number of nodes for each node is not known in advance
-- 
+- First child, next sibling representation of a n-ary tree
+	- First child, next sibling is treated as a binary representation 
+	- Rather than having pointers pointing to every child, Only one pointer is pointed to the first child in a tree then pointers pointed to the next siblings. 
+		- How is this different than a typical N-ary tree?
+			- Memory allocation is reduced. With a typical N-ary tree, new node pointers
