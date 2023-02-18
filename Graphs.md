@@ -9,8 +9,8 @@ Graph data structure - a collection of vertices and edges (V,E)
 	- Path - A sequence of edges that allow you to go from one vertice to another
 	- Directed Graph - A graph with directed arrows. (i.e if the graph above was directed, the edge (0,2) wouldn't mean there is an edge (2,0) as well )
 - How are graphs represented? 
-	- 2D array of V x V vertices. Each row and column represent a vertice
-	- If the value at `a[i][j]` is 1, it indicate there is an edge (i,j) 
-	- ![[Pasted image 20230217203749.png]]
-	- 
+	- Adjacency Matrix: 2D array of V x V vertices. Each row and column represent a vertice
+		- If the value at `a[i][j]` is 1, it indicate there is an edge (i,j) 
+		- ![[Pasted image 20230217203749.png]]
+	-  Adjacency List: an array of linked lists. The index of an array represents the vertex and each elements in its linked list represents the edges that the vertex form with the other vertices 
 - 
