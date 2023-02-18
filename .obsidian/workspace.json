@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs.md",
+                "file": "Kotlin/Kotlin Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs.md",
+                "file": "Kotlin/Kotlin Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs.md",
+                "file": "Kotlin/Kotlin Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs.md"
+                "file": "Kotlin/Kotlin Basics.md"
               }
             }
           }
@@ -173,15 +173,15 @@
   },
   "active": "fbeb045e97873eac",
   "lastOpenFiles": [
+    "Kotlin/ConstraintLayouts.md",
+    "Kotlin/Creating Android Apps.md",
+    "Kotlin/Building a Dice App.md",
+    "Graphs.md",
     "Time Complexity.md",
     "Images/chrome_343Urm3iEZ.png",
     "Selection Sort.md",
     "Images/Pasted image 20230216154743.png",
     "Algorithms/Trees/Binary Search Tree.md",
-    "Algorithms/Trees/Binary Search.md",
-    "Kotlin/ConstraintLayouts.md",
-    "Algorithms/Matrices.md",
-    "C++ Notes.md",
-    "Kotlin/App Themes.md"
+    "Algorithms/Trees/Binary Search.md"
   ]
 }

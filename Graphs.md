@@ -11,3 +11,6 @@ Graph data structure - a collection of vertices and edges (V,E)
 - How are graphs represented? 
 	- 2D array of V x V vertices. Each row and column represent a vertice
 	- If the value at `a[i][j]` is 1, it indicate there is an edge (i,j) 
+	- ![[Pasted image 20230217203749.png]]
+	- 
+- 
