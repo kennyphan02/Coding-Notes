@@ -135,8 +135,12 @@
             "id": "85f26783534c767a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Graphs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -218,6 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,6 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +261,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Graphs.md"
+              }
             }
           }
         ]
@@ -275,17 +283,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "85f26783534c767a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Time Complexity.md",
+    "Graphs.md",
+    "Images/Pasted image 20230217203749.png",
+    "Images/Pasted image 20230217201000.png",
+    "Recurrence Relations.md",
     "Selection Sort.md",
+    "Algorithms/Matrices.md",
+    "conflict-files-obsidian-git.md",
     "Algorithms/Linear Search.md",
-    "Algorithms/Trees/Tree Structures Terminology.md",
-    "Algorithms/Trees/Heaps.md",
-    "Algorithms/Trees/Generic Trees (N-ary trees).md",
-    "Algorithms/Trees/Binary Search Tree.md",
-    "Algorithms/Trees/Binary Search.md",
-    "Recurrence Relations.md"
+    "Algorithms/Trees/Tree Structures Terminology.md"
   ]
 }
