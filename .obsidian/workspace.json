@@ -132,6 +132,14 @@
             }
           },
           {
+            "id": "85f26783534c767a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "bceee129dd9cfcf2",
             "type": "leaf",
             "state": {
@@ -144,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -210,7 +218,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +234,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,9 +255,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Time Complexity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -271,8 +275,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e10373c74a3c5b35",
+  "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Time Complexity.md",
     "Selection Sort.md",
     "Algorithms/Linear Search.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
@@ -280,8 +286,6 @@
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
     "Algorithms/Trees/Binary Search Tree.md",
     "Algorithms/Trees/Binary Search.md",
-    "Time Complexity.md",
-    "Recurrence Relations.md",
-    "Kotlin/Building a Tip Calculator App.md"
+    "Recurrence Relations.md"
   ]
 }
