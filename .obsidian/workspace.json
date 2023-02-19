@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selection Sort.md",
+                "file": "Time Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selection Sort.md",
+                "file": "Time Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selection Sort.md",
+                "file": "Time Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selection Sort.md"
+                "file": "Time Complexity.md"
               }
             }
           }
@@ -273,6 +273,7 @@
   },
   "active": "e10373c74a3c5b35",
   "lastOpenFiles": [
+    "Selection Sort.md",
     "Algorithms/Linear Search.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
     "Algorithms/Trees/Heaps.md",
@@ -281,7 +282,6 @@
     "Algorithms/Trees/Binary Search.md",
     "Time Complexity.md",
     "Recurrence Relations.md",
-    "Kotlin/Building a Tip Calculator App.md",
-    "Kotlin/Get User Input (Good Example of Inheritance).md"
+    "Kotlin/Building a Tip Calculator App.md"
   ]
 }
