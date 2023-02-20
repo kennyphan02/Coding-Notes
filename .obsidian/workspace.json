@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8187e6626a35bfc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selection Sort.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selection Sort.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selection Sort.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbeb045e97873eac",
+  "active": "8187e6626a35bfc6",
   "lastOpenFiles": [
+    "Selection Sort.md",
+    "conflict-files-obsidian-git.md",
     "Graphs.md",
     "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/Building a Dice App.md",
     "Recurrence Relations.md",
-    "Selection Sort.md",
     "Time Complexity.md",
     "Kotlin/Kotlin Basics.md",
     "Kotlin/ConstraintLayouts.md",
-    "Kotlin/Creating Android Apps.md",
-    "Images/chrome_343Urm3iEZ.png"
+    "Kotlin/Creating Android Apps.md"
   ]
 }
