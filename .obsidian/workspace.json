@@ -149,7 +149,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Linear Search.md",
+                "file": "Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Linear Search.md",
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Linear Search.md",
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Linear Search.md"
+                "file": "Graphs.md"
               }
             }
           }
@@ -285,6 +285,7 @@
   },
   "active": "bceee129dd9cfcf2",
   "lastOpenFiles": [
+    "Algorithms/Linear Search.md",
     "Time Complexity.md",
     "conflict-files-obsidian-git.md",
     "Selection Sort.md",
@@ -293,7 +294,6 @@
     "Graphs.md",
     "Algorithms/Matrices.md",
     "Images/Pasted image 20230217203749.png",
-    "Images/Pasted image 20230217201000.png",
-    "Algorithms/Linear Search.md"
+    "Images/Pasted image 20230217201000.png"
   ]
 }
