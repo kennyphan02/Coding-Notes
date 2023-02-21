@@ -161,7 +161,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topological Sort.md",
+                "file": "Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topological Sort.md",
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topological Sort.md",
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topological Sort.md"
+                "file": "Graphs.md"
               }
             }
           }
@@ -297,15 +297,15 @@
   },
   "active": "2c7d730b9bfdec54",
   "lastOpenFiles": [
+    "Algorithms/Linear Search.md",
+    "Algorithms/Matrices.md",
+    "Topological Sort.md",
     "Recurrence Relations.md",
     "Graphs.md",
-    "Algorithms/Linear Search.md",
     "Time Complexity.md",
     "conflict-files-obsidian-git.md",
     "Selection Sort.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
-    "Algorithms/Matrices.md",
-    "Images/Pasted image 20230217203749.png",
-    "Images/Pasted image 20230217201000.png"
+    "Images/Pasted image 20230217203749.png"
   ]
 }
