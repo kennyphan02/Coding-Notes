@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Complexity.md",
+                "file": "Algorithms/Linear Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Complexity.md",
+                "file": "Algorithms/Linear Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Complexity.md"
+                "file": "Algorithms/Linear Search.md"
               }
             }
           }
@@ -283,17 +283,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85f26783534c767a",
+  "active": "bceee129dd9cfcf2",
   "lastOpenFiles": [
+    "Time Complexity.md",
+    "conflict-files-obsidian-git.md",
     "Selection Sort.md",
     "Recurrence Relations.md",
-    "Time Complexity.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
     "Graphs.md",
     "Algorithms/Matrices.md",
     "Images/Pasted image 20230217203749.png",
     "Images/Pasted image 20230217201000.png",
-    "conflict-files-obsidian-git.md",
     "Algorithms/Linear Search.md"
   ]
 }
