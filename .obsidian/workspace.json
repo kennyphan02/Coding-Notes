@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/App Themes.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/App Themes.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/App Themes.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/App Themes.md"
+                "file": "Kotlin/Building a Tip Calculator App.md"
               }
             }
           }
@@ -173,15 +173,15 @@
   },
   "active": "fbeb045e97873eac",
   "lastOpenFiles": [
+    "Kotlin/Building a Dice App.md",
+    "Kotlin/App Themes.md",
     "Kotlin/Creating Android Apps.md",
     "Graphs.md",
     "Selection Sort.md",
     "conflict-files-obsidian-git.md",
     "Kotlin/Building a Tip Calculator App.md",
-    "Kotlin/Building a Dice App.md",
     "Recurrence Relations.md",
     "Time Complexity.md",
-    "Kotlin/Kotlin Basics.md",
-    "Kotlin/ConstraintLayouts.md"
+    "Kotlin/Kotlin Basics.md"
   ]
 }
