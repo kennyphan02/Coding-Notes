@@ -1,0 +1,7 @@
+- Topological Sort is the reverse order of performing a depth-first search on a graph
+- Source Removal Algorithm
+	- A type of topological Sorting
+	- Direct implementation of decrease and conquer method
+	- Steps:
+		- 1. Find a vertex with no incoming edges. Delete it among with all the edges outgoing from it. 
+		- 2. Note the vertices that are deleted 
