@@ -1,0 +1,2 @@
+- Test case: A document containing a set of steps performed to verify a feature of a software
+	- Contains precondition, postcondition, test steps and test data to verify a requirement
