@@ -1,0 +1,1 @@
+Launcher icon - graphic that represents an application on the device's home screen
