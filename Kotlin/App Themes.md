@@ -8,3 +8,4 @@
 	- ![[Pasted image 20230211205000.png]]
 - Colors that are not defined will inherit the color from the parent theme
 - Color Tool - Provides a palette of predefined colors
+
