@@ -7,3 +7,6 @@ Launcher icon - graphic that represents an application on the device's home scre
 		- Vectors are better as they are more flexible with working with images 
 		- Tradeoffs?
 			- Bitmap images should be used for complex pictures with a high level of detail
+- -   Place app icon files in the `mipmap` resource directories.
+-   Provide different versions of an app icon bitmap image in each density bucket (`mdpi`, `hdpi`, `xhdpi`, `xxhdpi`, `xxxhdpi`) for backwards compatibility with older versions of Android.
+-   Add resource qualifiers onto resource directories to specify resources that should be used on devices with a certain configuration (e.g. `v26`).
