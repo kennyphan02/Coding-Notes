@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md"
+                "file": "Kotlin/Building a Tip Calculator App.md"
               }
             }
           }
@@ -207,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "9d7186a37f08fe39",
   "lastOpenFiles": [
-    "Kotlin/Material Components.md",
+    "Kotlin/Creating Android Apps.md",
+    "Kotlin/ConstraintLayouts.md",
+    "Kotlin/Get User Input (Good Example of Inheritance).md",
+    "Kotlin/Debugging.md",
     "Kotlin/Icons.md",
+    "Kotlin/Material Components.md",
+    "Kotlin/Kotlin Basics.md",
     "Kotlin/App Themes.md",
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
-    "Algorithms/Trees/Heaps.md",
-    "Software Test Case Documentation.md",
-    "Kotlin/Building a Tip Calculator App.md",
-    "Kotlin/Building a Dice App.md",
-    "Kotlin/Creating Android Apps.md",
-    "Graphs.md"
+    "Algorithms/Trees/Heaps.md"
   ]
 }
