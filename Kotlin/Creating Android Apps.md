@@ -8,7 +8,7 @@
 - TextView is a View for displaying text
 - TextViews needs constraints to position the text 
 - One way to position a View is with a margin
-- 
+- Scrollviews
 
 - **Activities**
 	- Provides the window in which your app draws the UI

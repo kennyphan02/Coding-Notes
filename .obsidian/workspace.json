@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/App Themes.md",
+                "file": "Kotlin/Creating Android Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/App Themes.md",
+                "file": "Kotlin/Creating Android Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/App Themes.md",
+                "file": "Kotlin/Creating Android Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/App Themes.md"
+                "file": "Kotlin/Creating Android Apps.md"
               }
             }
           }
@@ -219,18 +219,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "163236be13069f28",
   "lastOpenFiles": [
+    "Kotlin/ConstraintLayouts.md",
     "Kotlin/Material Components.md",
+    "Kotlin/Kotlin Basics.md",
     "Kotlin/Icons.md",
+    "Kotlin/Debugging.md",
+    "Kotlin/App Themes.md",
     "Kotlin/Get User Input (Good Example of Inheritance).md",
     "Algorithms/Trees/Tree Structures Terminology.md",
     "Kotlin/Building a Dice App.md",
     "Kotlin/Building a Tip Calculator App.md",
-    "Kotlin/App Themes.md",
-    "Kotlin/Creating Android Apps.md",
-    "Kotlin/ConstraintLayouts.md",
-    "Kotlin/Debugging.md",
-    "Kotlin/Kotlin Basics.md"
+    "Kotlin/Creating Android Apps.md"
   ]
 }
