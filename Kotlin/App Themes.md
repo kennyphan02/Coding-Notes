@@ -4,6 +4,7 @@
 - Themes
 	- A style can specify attributes for a View, such as font size, color, background color, etc
 	- Theme is a collection of styles that's applied to an entire app, activity, or view hierachy and not just an individual view
+	- Create styles in the values folder and apply it to views (similar to CSS)
 	- ![[Pasted image 20230211204940.png]]
 	- ![[Pasted image 20230211205000.png]]
 - Colors that are not defined will inherit the color from the parent theme
