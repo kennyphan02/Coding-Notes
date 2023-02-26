@@ -4,6 +4,7 @@
 - Themes
 	- A style can specify attributes for a View, such as font size, color, background color, etc
 	- Theme is a collection of styles that's applied to an entire app, activity, or view hierachy and not just an individual view
+	- While a theme can affect the color scheme of an application, you can also apply different styles to different widgets in the themes.xml folder
 	- Create styles in the values folder and apply it to views (similar to CSS)   
 		- for TextView style:
 			- android:minHeight - sets minimum height
