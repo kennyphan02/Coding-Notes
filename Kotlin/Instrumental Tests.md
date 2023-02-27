@@ -1,4 +1,6 @@
 - Requires an InstrumentalTestRunner to allow the test to be executed
+- Test rules run before every test in a test class.
+- Espresso is a fundamental component of instrumentation tests. It enables interaction with UI components using code.
 ```Kotlin
 @get:Rule() 
 val activity = ActivityScenarioRule(MainActivity::class.java)
