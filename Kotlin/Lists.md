@@ -15,6 +15,10 @@
 	- sorted() returns a list in ascending order
 - methods for MutableList 
 	- add() method returns true if an item has been successfully added to the list
+	- you can add multiple elements using addAll() and pass in a list
+	- remove() removes an element. It can pass in the same data type as the mutable list or the index of the element to remove
+	- clear() clears the whole list
+	- isEmpty() returns a boolean type to check to see if a list is empty 
 - When declaring a MutableList use `mutableListOf<Type>()`
 	- `val entrees: MutableList<String> = mutableListOf()` or `val entrees = mutableListOf<String>`
 		- you can use val for a MutableList because the entrees variable contains a reference to the list and that reference doesn't change even if the contents of the list do. 
