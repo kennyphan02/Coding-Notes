@@ -11,3 +11,7 @@
 	- First: returns the first index of a list
 	- Last: returns the last index of a list
 	- Contains() checks to see if the parameter passed into contains() methods exists in a list 
+	- reversed() returns a list in reversed order
+	- sorted() returns a list in ascending order
+- When declaring a MutableList use `mutableListOf<Type>()`
+- `
