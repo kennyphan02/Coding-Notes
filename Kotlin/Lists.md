@@ -22,3 +22,4 @@
 - When declaring a MutableList use `mutableListOf<Type>()`
 	- `val entrees: MutableList<String> = mutableListOf()` or `val entrees = mutableListOf<String>`
 		- you can use val for a MutableList because the entrees variable contains a reference to the list and that reference doesn't change even if the contents of the list do. 
+- 
