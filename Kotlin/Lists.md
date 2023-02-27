@@ -1,0 +1,5 @@
+- List is a collection of items with a specific order
+	- Two types:
+		- Read-only list: **List** cannot be modified after you create it
+		- Mutuable list: **MutableList** can be modified after creating it
+	- When using **List** 
