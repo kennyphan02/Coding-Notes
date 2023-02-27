@@ -2,4 +2,12 @@
 	- Two types:
 		- Read-only list: **List** cannot be modified after you create it
 		- Mutuable list: **MutableList** can be modified after creating it
-	- When using **List** 
+	- When using **List** or **MutableList** It must specify the type of elements it contain
+		- I.E `List<Int>` holds a list of Integers
+		- Use the standard kotlin library function listOf() to declare a list
+		- `val numbers: List<Int> = listOf(1, 2, 3, 4, 5, 6)` creates a read-only list of numbers 1-6.
+			- If the type on the right side of the equal operator can be inferred, we can shorten it by removing the type so it would be `val numbers = listOf(1,2,3,4,5,6)`
+- Kotlin has default methods for List 
+	- First: returns the first index of a list
+	- Last: returns the last index of a list
+	- Contains() checks to see if the parameter passed into contains() methods exists in a list 
