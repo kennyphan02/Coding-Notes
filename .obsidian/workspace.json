@@ -145,14 +145,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "Kotlin/Scrollable Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0eb334a36af5af33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin/Packages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "Kotlin/Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "Kotlin/Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md"
+                "file": "Kotlin/Packages.md"
               }
             }
           }
@@ -279,13 +291,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fd56a4577998c8f",
+  "active": "0eb334a36af5af33",
   "lastOpenFiles": [
-    "Kotlin/Debugging.md",
     "Kotlin/Scrollable Lists.md",
+    "Kotlin/Packages.md",
+    "Kotlin/Building a Tip Calculator App.md",
+    "Kotlin/Debugging.md",
     "Kotlin/Material Components.md",
     "Kotlin/OnKeyListeners and OnClickListeners.md",
-    "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/Building a Dice App.md",
     "Kotlin/Creating Android Apps.md",
     "Pasted image 20230228114540.png",

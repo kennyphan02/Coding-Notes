@@ -1,0 +1,7 @@
+- One can creaate different packages with different parts of your code
+- Developers often separate classes into different packages 
+- To use classes from other packages, one needs to define them in the build system's dependencies
+- Standard practice to **import** them in your code so you can use your shortened names
+- Package names have to be unique
+	- Since there are many packages, conventions are used
+		- each part of the names are in lowercase letters and separated by a period. Period is part of the name 
