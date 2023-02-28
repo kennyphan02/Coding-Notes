@@ -5,6 +5,8 @@ Graph data structure - a collection of vertices and edges (V,E)
 	- E = {(0,1), (0,2), (1,2), (0,3)}
 	- G = {V,E} 
 - Graph Terminology
+	- Sparse Graph
+	- Dense Graph
 	- Adjacency - A vertex is adjacent to another vertex if there is an edge connecting them (ie: (0,2) is adjacent)
 	- Path - A sequence of edges that allow you to go from one vertice to another
 	- Directed Graph - A graph with directed arrows. (i.e if the graph above was directed, the edge (0,2) wouldn't mean there is an edge (2,0) as well )

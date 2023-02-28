@@ -291,8 +291,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "0eb334a36af5af33",
   "lastOpenFiles": [
+    "Graphs.md",
+    "Algorithms/Selection Sort.md",
     "Kotlin/Packages.md",
     "Kotlin/Scrollable Lists.md",
     "Kotlin/Building a Tip Calculator App.md",
