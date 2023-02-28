@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Scrollable Lists.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Scrollable Lists.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Scrollable Lists.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Scrollable Lists.md"
+                "file": "Kotlin/Building a Tip Calculator App.md"
               }
             }
           }
@@ -281,24 +281,24 @@
   },
   "active": "2fd56a4577998c8f",
   "lastOpenFiles": [
+    "Kotlin/Debugging.md",
+    "Kotlin/Scrollable Lists.md",
+    "Kotlin/Material Components.md",
+    "Kotlin/OnKeyListeners and OnClickListeners.md",
+    "Kotlin/Building a Tip Calculator App.md",
+    "Kotlin/Building a Dice App.md",
+    "Kotlin/Creating Android Apps.md",
     "Pasted image 20230228114540.png",
     "Kotlin/Lists.md",
-    "Kotlin/Scrollable Lists.md",
     "Kotlin/Get User Input (Good Example of Inheritance).md",
-    "Kotlin/Debugging.md",
     "Kotlin/Accessibility.md",
     "Kotlin/App Themes.md",
-    "Kotlin/Building a Dice App.md",
-    "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/Instrumental Tests.md",
     "Kotlin/Icons.md",
     "Kotlin/Kotlin Basics.md",
     "Algorithms/Matrices.md",
-    "Kotlin/OnKeyListeners and OnClickListeners.md",
     "Kotlin/ConstraintLayouts.md",
     "Images/Pasted image 20230226174103.png",
-    "Kotlin/Creating Android Apps.md",
-    "Kotlin/Material Components.md",
     "Algorithms/Trees/Tree Structures Terminology.md"
   ]
 }
