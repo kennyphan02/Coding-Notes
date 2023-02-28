@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Get User Input (Good Example of Inheritance).md",
+                "file": "Kotlin/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Get User Input (Good Example of Inheritance).md",
+                "file": "Kotlin/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Get User Input (Good Example of Inheritance).md",
+                "file": "Kotlin/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Get User Input (Good Example of Inheritance).md"
+                "file": "Kotlin/Lists.md"
               }
             }
           }
@@ -269,6 +269,7 @@
   },
   "active": "8475fce3bc34146b",
   "lastOpenFiles": [
+    "Kotlin/Get User Input (Good Example of Inheritance).md",
     "Kotlin/Debugging.md",
     "Kotlin/Accessibility.md",
     "Kotlin/App Themes.md",
@@ -284,7 +285,6 @@
     "Images/Pasted image 20230226174103.png",
     "Kotlin/Creating Android Apps.md",
     "Kotlin/Material Components.md",
-    "Kotlin/Get User Input (Good Example of Inheritance).md",
     "Algorithms/Trees/Tree Structures Terminology.md"
   ]
 }

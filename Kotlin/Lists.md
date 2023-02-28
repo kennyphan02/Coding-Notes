@@ -28,3 +28,10 @@
 		println(item)
 	}
 	```
+- Instead of having multiple properties to pass in as an argument(s) into a class, A class can utilize a variable with type `List<Type>` 
+	- A better way to do this is use vararg modifier 
+	- vararg - allows one to pass a variable number of arguments of the same type into a function/constructor
+		- I.e `class Vegetables(vararg val toppings: String) : Item("Vegetables", 5)`
+		- `val vegetables = Vegetables("Cabbage", "Sprouts", "Onion")`
+		- To print the strings of vegetables, use the joinToString() method to join all the toppings into a single string 
+		- 
