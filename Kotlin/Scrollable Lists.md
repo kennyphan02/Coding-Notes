@@ -2,4 +2,7 @@
 	- Reuses views that have been scrolled off screen. RecyclerView reuses that view for the next list item about to be displayed. A list exists in every single app where it be a list of contacts, a list of words and phrases, etc.
 	- ![[Pasted image 20230228114540.png | 300]]
 	- The picture above shows how RecyclerView reuses a view once it is scrolled off-screen. 
-	
+		- One can use **FrameLayout** to hold a single child view for recyclerView
+		- ![[Pasted image 20230301170734.png | 200]]
+	- RecyclerView supports displaying items in different ways such as a linear list or grid
+	- 
