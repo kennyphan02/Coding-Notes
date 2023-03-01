@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin/Scrollable Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin/Scrollable Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin/Scrollable Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md"
+                "file": "Kotlin/Scrollable Lists.md"
               }
             }
           }
@@ -293,10 +293,10 @@
   },
   "active": "0eb334a36af5af33",
   "lastOpenFiles": [
+    "Kotlin/Kotlin Basics.md",
     "Kotlin/Get User Input (Good Example of Inheritance).md",
     "Kotlin/Instrumental Tests.md",
     "Kotlin/Icons.md",
-    "Kotlin/Kotlin Basics.md",
     "Algorithms/Selection Sort.md",
     "Graphs.md",
     "Kotlin/Packages.md",
