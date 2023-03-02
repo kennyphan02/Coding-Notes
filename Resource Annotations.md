@@ -1,0 +1,2 @@
+- Caller could pass in the arguments in the wrong order. resource annotations help prevent this. they add additional info to classes, methods or parameters
+- Annotations are declared with an @ symbol

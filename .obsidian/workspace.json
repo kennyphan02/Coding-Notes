@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Scrollable Lists.md",
+                "file": "Kotlin/RecyclerView.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,14 +157,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Scrollable Lists.md",
+                "file": "Kotlin/Creating Android Apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db65d22bc8cad56a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource Annotations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Scrollable Lists.md",
+                "file": "Resource Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Scrollable Lists.md",
+                "file": "Resource Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Scrollable Lists.md"
+                "file": "Resource Annotations.md"
               }
             }
           }
@@ -291,23 +303,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eb334a36af5af33",
+  "active": "db65d22bc8cad56a",
   "lastOpenFiles": [
+    "Kotlin/Creating Android Apps.md",
+    "Resource Annotations.md",
+    "Kotlin/Get User Input (Good Example of Inheritance).md",
+    "Kotlin/OnKeyListeners and OnClickListeners.md",
+    "Kotlin/Packages.md",
+    "Kotlin/RecyclerView.md",
     "Pasted image 20230301170734.png",
     "Kotlin/Kotlin Basics.md",
-    "Kotlin/Get User Input (Good Example of Inheritance).md",
     "Kotlin/Instrumental Tests.md",
     "Kotlin/Icons.md",
     "Algorithms/Selection Sort.md",
     "Graphs.md",
-    "Kotlin/Packages.md",
-    "Kotlin/Scrollable Lists.md",
     "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/Debugging.md",
     "Kotlin/Material Components.md",
-    "Kotlin/OnKeyListeners and OnClickListeners.md",
     "Kotlin/Building a Dice App.md",
-    "Kotlin/Creating Android Apps.md",
     "Pasted image 20230228114540.png",
     "Kotlin/Lists.md",
     "Kotlin/Accessibility.md",
