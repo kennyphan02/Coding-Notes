@@ -18,3 +18,7 @@ val activity = ActivityScenarioRule(MainActivity::class.java)
 onView(withId(R.id.cost_of_service_edit_text))
     .perform(typeText("50.00"))
 ```
+- 3 Kinds of implementations for dependencies
+	- testImplementation
+	- androidTestImplementation
+	- implementation
