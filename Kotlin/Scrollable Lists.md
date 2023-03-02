@@ -9,3 +9,4 @@
 		- A ViewHolder represents a single list item view in RecyclerView and can be reused whenever possible.
 		- A ViewHolder Instance holds references to the individual views within a list item layout
 		- ViewHolders also adds information that RecyclerView uses to efficiently move views around the screen
+	- getString() returns a string from the resource id associated with it
