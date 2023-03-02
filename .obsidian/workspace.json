@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "Kotlin-Android-Studio/Building a Tip Calculator App.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/App Themes.md",
+                "file": "Kotlin-Android-Studio/App Themes.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Icons.md",
+                "file": "Kotlin-Android-Studio/Icons.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Icons.md",
+                "file": "Kotlin-Android-Studio/Icons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/ConstraintLayouts.md",
+                "file": "Kotlin-Android-Studio/ConstraintLayouts.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/OnKeyListeners and OnClickListeners.md",
+                "file": "Kotlin-Android-Studio/OnKeyListeners and OnClickListeners.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "Kotlin-Android-Studio/Building a Tip Calculator App.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin Basics.md",
+                "file": "Kotlin-Android-Studio/Kotlin Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Lists.md",
+                "file": "Kotlin-Android-Studio/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/RecyclerView.md",
+                "file": "Kotlin-Android-Studio/RecyclerView.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Creating Android Apps.md",
+                "file": "Kotlin-Android-Studio/Creating Android Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,14 +169,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Packages.md",
+                "file": "Kotlin-Android-Studio/Testing/Debugging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d551577ec3dc555b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Packages.md",
+                "file": "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Packages.md",
+                "file": "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Packages.md"
+                "file": "Kotlin-Android-Studio/Testing/Instrumental Tests.md"
               }
             }
           }
@@ -303,30 +315,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db65d22bc8cad56a",
+  "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
-    "Kotlin/RecyclerView.md",
-    "Kotlin/Material Components.md",
-    "Kotlin/Kotlin Basics.md",
+    "Kotlin-Android-Studio/Testing/Testing Practices.md",
+    "Kotlin-Android-Studio/Testing/Debugging.md",
+    "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
+    "Kotlin-Android-Studio/Accessibility.md",
+    "Kotlin-Android-Studio/Testing",
+    "Kotlin-Android-Studio/Packages.md",
+    "Kotlin-Android-Studio/RecyclerView.md",
+    "Kotlin-Android-Studio/Material Components.md",
+    "Kotlin-Android-Studio/Kotlin Basics.md",
     "Resource Annotations.md",
-    "Kotlin/Creating Android Apps.md",
-    "Kotlin/Get User Input (Good Example of Inheritance).md",
-    "Kotlin/OnKeyListeners and OnClickListeners.md",
-    "Kotlin/Packages.md",
+    "Kotlin-Android-Studio/Creating Android Apps.md",
+    "Kotlin-Android-Studio/Get User Input (Good Example of Inheritance).md",
+    "Kotlin-Android-Studio/OnKeyListeners and OnClickListeners.md",
     "Pasted image 20230301170734.png",
-    "Kotlin/Instrumental Tests.md",
-    "Kotlin/Icons.md",
+    "Kotlin-Android-Studio/Icons.md",
     "Algorithms/Selection Sort.md",
     "Graphs.md",
-    "Kotlin/Building a Tip Calculator App.md",
-    "Kotlin/Debugging.md",
-    "Kotlin/Building a Dice App.md",
+    "Kotlin-Android-Studio/Building a Tip Calculator App.md",
+    "Kotlin-Android-Studio/Building a Dice App.md",
     "Pasted image 20230228114540.png",
-    "Kotlin/Lists.md",
-    "Kotlin/Accessibility.md",
-    "Kotlin/App Themes.md",
+    "Kotlin-Android-Studio/Lists.md",
+    "Kotlin-Android-Studio/App Themes.md",
     "Algorithms/Matrices.md",
-    "Kotlin/ConstraintLayouts.md",
+    "Kotlin-Android-Studio/ConstraintLayouts.md",
     "Images/Pasted image 20230226174103.png",
     "Algorithms/Trees/Tree Structures Terminology.md"
   ]
