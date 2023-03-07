@@ -161,7 +161,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "mode": "source",
                 "source": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs.md",
+                "file": "Kotlin/Building a Tip Calculator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs.md"
+                "file": "Kotlin/Building a Tip Calculator App.md"
               }
             }
           }
@@ -297,15 +297,15 @@
   },
   "active": "2c7d730b9bfdec54",
   "lastOpenFiles": [
+    "Kotlin/ConstraintLayouts.md",
+    "Kotlin/Creating Android Apps.md",
+    "Kotlin/Debugging.md",
+    "Kotlin/Get User Input (Good Example of Inheritance).md",
+    "Graphs.md",
     "Algorithms/Linear Search.md",
     "Algorithms/Matrices.md",
     "Topological Sort.md",
     "Recurrence Relations.md",
-    "Graphs.md",
-    "Time Complexity.md",
-    "conflict-files-obsidian-git.md",
-    "Selection Sort.md",
-    "Algorithms/Trees/Tree Structures Terminology.md",
-    "Images/Pasted image 20230217203749.png"
+    "Time Complexity.md"
   ]
 }
