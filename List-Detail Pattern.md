@@ -1,0 +1,2 @@
+- On larger devices, apps do not utilize the entire screen. The List-Detail pattern shows a list of items on one side of the layout and the detail is shown next to it when you tap an item, Using SlidingPaneLayout
+- SlidingPaneLayout - Can be used on both larger and smaller devices. On a smaller screen, the panels overlap each other. The detail pane overlap with the list pane when an item from the list is selected 
