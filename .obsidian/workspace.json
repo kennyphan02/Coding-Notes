@@ -210,9 +210,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd8c005336e93ff9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -339,7 +349,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42f64d0b48ede5e7",
+  "active": "dd8c005336e93ff9",
   "lastOpenFiles": [
     "Kotlin-Android-Studio/Adaptive Layouts.md",
     "Kotlin-Android-Studio/ViewModel.md",
