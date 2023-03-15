@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List-Detail Pattern.md",
+                "file": "Kotlin-Android-Studio/List-Detail Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5558f0c83cd02ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List-Detail Pattern.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List-Detail Pattern.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List-Detail Pattern.md"
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md"
               }
             }
           }
@@ -146,16 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bedbf9add4fffcc0",
+  "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
-    "List-Detail Pattern.md",
+    "Kotlin-Android-Studio/List-Detail Pattern.md",
+    "Kotlin-Android-Studio/CameraX Code Lab.md",
+    "Kotlin-Android-Studio/Lists.md",
     "Kotlin-Android-Studio/ViewModel.md",
     "Kotlin-Android-Studio/Adaptive Layouts.md",
     "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
     "Kotlin-Android-Studio/Testing/Debugging.md",
     "Kotlin-Android-Studio/Creating Android Apps.md",
     "Kotlin-Android-Studio/RecyclerView.md",
-    "Kotlin-Android-Studio/Lists.md",
     "Kotlin-Android-Studio/Kotlin Basics.md",
     "Kotlin-Android-Studio/Building a Tip Calculator App.md",
     "Kotlin-Android-Studio/OnKeyListeners and OnClickListeners.md",
