@@ -1,0 +1,2 @@
+- Add ViewBinding
+- Add Required Dependencies
