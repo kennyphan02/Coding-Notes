@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin-Android-Studio/Companion Objects.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin-Android-Studio/Companion Objects.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin-Android-Studio/Companion Objects.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin-Android-Studio/Companion Objects.md"
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "1946784f1a1d79a5",
   "lastOpenFiles": [
-    "Kotlin-Android-Studio/CameraX Code Lab.md",
     "Kotlin-Android-Studio/Companion Objects.md",
+    "Kotlin-Android-Studio/CameraX Code Lab.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Lists.md",
     "Kotlin-Android-Studio/ViewModel.md",
