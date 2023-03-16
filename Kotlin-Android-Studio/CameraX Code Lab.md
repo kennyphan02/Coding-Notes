@@ -8,3 +8,4 @@
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
    android:maxSdkVersion="28" />
 ```
+- ViewFinder is used to let the user preview the photo/video they will be taking. We need to implement ViewFinder using CameraX Preview Class
