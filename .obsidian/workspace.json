@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Observer Pattern.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Observer Pattern.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Observer Pattern.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Observer Pattern.md"
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
-    "Design Patterns.md",
     "Design Patterns/Observer Pattern.md",
+    "Design Patterns.md",
     "Design Patterns",
     "Kotlin-Android-Studio/CameraX Code Lab.md",
     "Kotlin-Android-Studio/Companion Objects.md",
