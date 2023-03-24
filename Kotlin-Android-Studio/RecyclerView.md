@@ -1,0 +1,12 @@
+- RecyclerView
+	- Reuses views that have been scrolled off screen. RecyclerView reuses that view for the next list item about to be displayed. A list exists in every single app where it be a list of contacts, a list of words and phrases, etc.
+	- ![[Pasted image 20230228114540.png | 300]]
+	- The picture above shows how RecyclerView reuses a view once it is scrolled off-screen. 
+		- One can use **FrameLayout** to hold a single child view for recyclerView
+		- ![[Pasted image 20230301170734.png | 200]]
+	- RecyclerView supports displaying items in different ways such as a linear list or grid
+	- RecyclerView doesn't interact with item views. it deals with **ViewHolders** instead
+		- A ViewHolder represents a single list item view in RecyclerView and can be reused whenever possible.
+		- A ViewHolder Instance holds references to the individual views within a list item layout
+		- ViewHolders also adds information that RecyclerView uses to efficiently move views around the screen
+	- getString() returns a string from the resource id associated with it

@@ -1,4 +1,4 @@
-- Why use a tree over linear data structures such as arrays, linkedlists, stack, and queues?
+ - Why use a tree over linear data structures such as arrays, linkedlists, stack, and queues?
 	- Trees are faster when it comes to accessing data as it is non-linear. 
 - Terminology
 	- Node - Contains a key value and a pointer to its child nodes 

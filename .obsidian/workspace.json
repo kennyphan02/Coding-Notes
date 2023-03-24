@@ -11,12 +11,8 @@
             "id": "95c98fdd2a0c4fd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kotlin/Kotlin Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -159,16 +155,70 @@
             "id": "2c7d730b9bfdec54",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b6e68e865d21ac3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "Kotlin-Android-Studio/Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73be947956d1b4b4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "6ae51b993561c334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Trees/Heaps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf8ca8d8ddc70870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b18c0c6b5aeb293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -234,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Building a Tip Calculator App.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -295,17 +345,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c7d730b9bfdec54",
+  "active": "8b18c0c6b5aeb293",
   "lastOpenFiles": [
+    "Algorithms/Trees/Tree Structures Terminology.md",
+    "conflict-files-obsidian-git.md",
+    "Algorithms/Trees/Heaps.md",
+    "Graphs.md",
+    "Kotlin-Android-Studio/Lists.md",
+    "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/ConstraintLayouts.md",
     "Kotlin/Creating Android Apps.md",
     "Kotlin/Debugging.md",
     "Kotlin/Get User Input (Good Example of Inheritance).md",
-    "Graphs.md",
     "Algorithms/Linear Search.md",
-    "Algorithms/Matrices.md",
-    "Topological Sort.md",
-    "Recurrence Relations.md",
-    "Time Complexity.md"
+    "Algorithms/Matrices.md"
   ]
 }

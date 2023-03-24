@@ -1,0 +1,2 @@
+- Talkback
+	- Google screen reader included on android devices. Talkback is essentially text-to-speech that reads aloud text without looking at the screen out.

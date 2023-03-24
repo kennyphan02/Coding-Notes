@@ -1,0 +1,15 @@
+Launcher icon - graphic that represents an application on the device's home screen
+- Adaptive Icons
+	- Made up of two layers: A foreground and a background layer
+- Difference between a vector drawable and a bitmap image (both describe a graphic)
+	- Bitmap images only retain color information at each pixel (RGB values) 
+	- Vector graphic knows how to draw the shapes that define an image using sets of points, lines, and curves along with color information 
+		- Vector drawables are represented as XML files that store the instructions on how to create an image rather than saving the actual pixels that make up that image. Vector drawables can be scaled up or down without any loss of visual quality or increase in file size.
+		- Vectors are better as they are more flexible with working with images 
+		- Tradeoffs?
+			- Bitmap images should be used for complex pictures with a high level of detail
+- Place app icon files in the `mipmap` resource directories.
+-   Provide different versions of an app icon bitmap image in each density bucket (`mdpi`, `hdpi`, `xhdpi`, `xxhdpi`, `xxxhdpi`) for backwards compatibility with older versions of Android.
+-   Add resource qualifiers onto resource directories to specify resources that should be used on devices with a certain configuration (e.g. `v26`).
+- Material design provides icons
+- 

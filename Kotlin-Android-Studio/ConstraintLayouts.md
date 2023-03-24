@@ -9,3 +9,4 @@
 	```
 	- constraintLeft_toRightof means the left side of buttonB is constrained to the rightSide of buttonA
 	- 
+![[Pasted image 20230226174103.png]]
