@@ -199,7 +199,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "file": "Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md"
+                "file": "Graphs.md"
               }
             }
           }
@@ -335,8 +335,12 @@
   },
   "active": "bf8ca8d8ddc70870",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Recurrence Relations.md",
+    "Resource Annotations.md",
+    "Time Complexity.md",
+    "Algorithms/Topological Sort.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
+    "conflict-files-obsidian-git.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Companion Objects.md",
     "Kotlin-Android-Studio/CameraX Code Lab.md",
