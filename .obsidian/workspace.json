@@ -204,9 +204,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20c82cd7f8ebe3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MergeSort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -272,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs.md",
+                "file": "MergeSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs.md",
+                "file": "MergeSort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs.md"
+                "file": "MergeSort.md"
               }
             }
           }
@@ -333,8 +345,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf8ca8d8ddc70870",
+  "active": "20c82cd7f8ebe3ff",
   "lastOpenFiles": [
+    "Graphs.md",
+    "MergeSort.md",
     "Recurrence Relations.md",
     "Resource Annotations.md",
     "Time Complexity.md",
@@ -347,7 +361,6 @@
     "Design Patterns/Observer Pattern.md",
     "Design Patterns",
     "Algorithms/Trees/Heaps.md",
-    "Graphs.md",
     "Kotlin-Android-Studio/Lists.md",
     "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/ConstraintLayouts.md",
