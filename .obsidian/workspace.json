@@ -4,209 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b71aa7d7145e8f",
+        "id": "be556eda3804788a",
         "type": "tabs",
         "children": [
           {
-            "id": "95c98fdd2a0c4fd7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5eff5dcf77e713c6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b406e2b8e63d549a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230209014449.png"
-              }
-            }
-          },
-          {
-            "id": "f64738fa08e9d745",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230209014449.png"
-              }
-            }
-          },
-          {
-            "id": "d627c43332623936",
+            "id": "bedbf9add4fffcc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Matrices.md",
+                "file": "Kotlin-Android-Studio/List-Detail Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba4514c020fc8d70",
+            "id": "5558f0c83cd02ccb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a52990b59a1e27d",
+            "id": "1946784f1a1d79a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays.md",
+                "file": "Kotlin-Android-Studio/CameraX Code Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4ad7eb0ad7c8e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Trees/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8df169c12c137408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "064ec4a12df5aa6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Linear Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e10373c74a3c5b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85f26783534c767a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bceee129dd9cfcf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recurrence Relations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c7d730b9bfdec54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1b6e68e865d21ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kotlin-Android-Studio/Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73be947956d1b4b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "6ae51b993561c334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Trees/Heaps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf8ca8d8ddc70870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20c82cd7f8ebe3ff",
+            "id": "53bc198b6862aa8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -218,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -345,29 +183,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20c82cd7f8ebe3ff",
+  "active": "53bc198b6862aa8c",
   "lastOpenFiles": [
-    "Graphs.md",
-    "MergeSort.md",
-    "Recurrence Relations.md",
-    "Resource Annotations.md",
-    "Time Complexity.md",
-    "Algorithms/Topological Sort.md",
-    "Algorithms/Trees/Tree Structures Terminology.md",
-    "conflict-files-obsidian-git.md",
-    "Kotlin-Android-Studio/List-Detail Pattern.md",
-    "Kotlin-Android-Studio/Companion Objects.md",
     "Kotlin-Android-Studio/CameraX Code Lab.md",
+    "MergeSort.md",
+    "Algorithms/Topological Sort.md",
     "Design Patterns/Observer Pattern.md",
+    "Design Patterns.md",
     "Design Patterns",
-    "Algorithms/Trees/Heaps.md",
+    "Kotlin-Android-Studio/Companion Objects.md",
+    "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Lists.md",
-    "Kotlin/Building a Tip Calculator App.md",
-    "Kotlin/ConstraintLayouts.md",
-    "Kotlin/Creating Android Apps.md",
-    "Kotlin/Debugging.md",
-    "Kotlin/Get User Input (Good Example of Inheritance).md",
-    "Algorithms/Linear Search.md",
-    "Algorithms/Matrices.md"
+    "Kotlin-Android-Studio/ViewModel.md",
+    "Kotlin-Android-Studio/Adaptive Layouts.md",
+    "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
+    "Kotlin-Android-Studio/Testing/Debugging.md",
+    "Kotlin-Android-Studio/Creating Android Apps.md",
+    "Kotlin-Android-Studio/RecyclerView.md",
+    "Kotlin-Android-Studio/Kotlin Basics.md",
+    "Kotlin-Android-Studio/Building a Tip Calculator App.md",
+    "Kotlin-Android-Studio/OnKeyListeners and OnClickListeners.md",
+    "Kotlin-Android-Studio/ConstraintLayouts.md",
+    "Kotlin-Android-Studio/Icons.md",
+    "Kotlin-Android-Studio/App Themes.md",
+    "Kotlin-Android-Studio/Building a Dice App.md",
+    "Kotlin-Android-Studio/Material Components.md",
+    "Kotlin-Android-Studio/Get User Input (Good Example of Inheritance).md",
+    "Kotlin-Android-Studio/Testing/Testing Practices.md",
+    "Kotlin-Android-Studio/Accessibility.md",
+    "Kotlin-Android-Studio/Testing",
+    "Kotlin-Android-Studio/Packages.md",
+    "Pasted image 20230301170734.png",
+    "Pasted image 20230228114540.png",
+    "Images/Pasted image 20230226174103.png"
   ]
 }
