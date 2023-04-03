@@ -1,0 +1,3 @@
+- Every key can have more than one key and can have more than two children (2-3 means 2 nodes for a key and 3 children nodes per key)
+- B-trees are useful as it can decrease the height signifcantly allowing faster access to key values
+- Keys are stored in increasing order
