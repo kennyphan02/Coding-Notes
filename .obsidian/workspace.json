@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "716f312d2baf3a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Booyer Moore Horspool Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-Trees.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-Trees.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-Trees.md"
+                "file": "Booyer Moore Horspool Algorithm.md"
               }
             }
           }
@@ -189,10 +201,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50f36ce952dd2c4f",
+  "active": "716f312d2baf3a5c",
   "lastOpenFiles": [
-    "Images/Pasted image 20230301170734.png",
     "B-Trees.md",
+    "Booyer Moore Horspool Algorithm.md",
+    "Images/Pasted image 20230301170734.png",
     "Images/Pasted image 20230403152717.png",
     "Images/Pasted image 20230228114540.png",
     "AVL Trees.md",

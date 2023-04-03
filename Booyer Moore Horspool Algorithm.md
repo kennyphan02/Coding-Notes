@@ -1,0 +1,2 @@
+- Construct a Bad Match Table
+	- Value = length - index - 1 
