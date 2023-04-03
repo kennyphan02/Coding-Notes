@@ -7,3 +7,9 @@ Balance Factor for each node = height of left subtree - height of right subtree
 - If the inserted node is in the right subtree of the left subtree of A, rotate the subtree to the left then rotate the full tree to the right
 ![[Pasted image 20230403153158.png]] ![[Pasted image 20230403153201.png]] ![[Pasted image 20230403153203.png]]  ![[Pasted image 20230403153206.png]] ![[Pasted image 20230403153209.png]] 
 - If the inserted node is in the left subtree of the right subtree of A, rotate the subtree to the right then rotate the full tree to the left. 
+
+Example:
+![[Pasted image 20230403154229.png]]
+Insert Node E, gives I a balance factor of 2. The node is inserted in the right subtree of B of left subtree of I. 
+
+![[Pasted image 20230403155034.png]] 
