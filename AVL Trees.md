@@ -10,6 +10,6 @@ Balance Factor for each node = height of left subtree - height of right subtree
 
 Example:
 ![[Pasted image 20230403154229.png]]
-Insert Node E, gives I a balance factor of 2. The node is inserted in the right subtree of B of left subtree of I. 
+Insert Node E, gives I a balance factor of 2. The node is inserted in the left subtree of right subtree of I. Therefore use LR rotation = Left + Right node rotation
 
 ![[Pasted image 20230403155034.png]] 

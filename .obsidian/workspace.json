@@ -23,16 +23,46 @@
             "id": "9c0d026d2e228d44",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230228114540.png"
+              }
+            }
+          },
+          {
+            "id": "ed25fb9b961594d4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230301170734.png"
+              }
+            }
+          },
+          {
+            "id": "b9790a0fe7ce35e7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230301170734.png"
+              }
+            }
+          },
+          {
+            "id": "50f36ce952dd2c4f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "AVL Trees.md",
+                "file": "B-Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AVL Trees.md",
+                "file": "B-Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AVL Trees.md",
+                "file": "B-Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AVL Trees.md"
+                "file": "B-Trees.md"
               }
             }
           }
@@ -159,21 +189,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c0d026d2e228d44",
+  "active": "50f36ce952dd2c4f",
   "lastOpenFiles": [
-    "Pasted image 20230403155034.png",
-    "Pasted image 20230403154229.png",
-    "Pasted image 20230403153209.png",
-    "Pasted image 20230403153206.png",
-    "Pasted image 20230403153203.png",
-    "Pasted image 20230403153201.png",
-    "Pasted image 20230403153158.png",
-    "Pasted image 20230403152738.png",
-    "Pasted image 20230403152736.png",
-    "Pasted image 20230403152729.png",
-    "Pasted image 20230403152725.png",
-    "Transform and Conquer.md",
+    "Images/Pasted image 20230301170734.png",
+    "B-Trees.md",
+    "Images/Pasted image 20230403152717.png",
+    "Images/Pasted image 20230228114540.png",
     "AVL Trees.md",
+    "Images/Pasted image 20230403155034.png",
+    "Images/Pasted image 20230403154229.png",
+    "Images/Pasted image 20230403153209.png",
+    "Images/Pasted image 20230403153206.png",
+    "Images/Pasted image 20230403153203.png",
+    "Images/Pasted image 20230403153201.png",
+    "Images/Pasted image 20230403153158.png",
+    "Transform and Conquer.md",
     "MergeSort.md",
     "Graphs.md",
     "Recurrence Relations.md",
