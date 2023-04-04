@@ -1,6 +1,7 @@
 - Construct a Bad Match Table
 	- Value = length - index - 1 (Every other letter = length)
 - Shift the position based off the value from the bad match table in the last comparison that finds  mismatch 
+- Last character = length of pattern
 
 Difference between Horspool Algorithm and Booyer-Moore algorithms
 - Bad-symbol shift  shfits the position by the value from the bad match table 
@@ -15,4 +16,11 @@ Example of Horspool Algorithm
 Booyer-Moore Algorithm
 - Shifts the position based off the first character's mismatch using its character's value
 - 10 comparisons
-- ![[Pasted image 20230404181938.png]] 
+- ![[Pasted image 20230404181938.png]]
+
+
+Good-suffix shift
+- Applied after 0  < k < m characters were matched
+- d2(k) = distance between matched suffix of size k and its rightmost occurence in the pattern that is not preceded by the same character as the suffix  
+- d2k = good suffix shift
+- d1 = bad suffix shift 
