@@ -14,15 +14,27 @@ Example of Horspool Algorithm
 - 17 comparisons
 
 Booyer-Moore Algorithm
-- Shifts the position based off the first character's mismatch using its character's value
-- 10 comparisons
-- ![[Pasted image 20230404181938.png]]
-
+- Construct the bad symbol shift table 
+	- Value = length - index - 1 (Every other letter = length)
+- Construct Good-suffix shift table
+	- ![[Pasted image 20230404191014.png]]
+	- k = 1  = AB
+	- k = 2 = BAB
+	- k = 3 = OBAB
+	- k = 4 = AOBAB
+	- k = 5 = BAOBAB
+	- d2 = good suffix shift 
 
 Good-suffix shift
+- How to use good-suffix shift in pattern matching?
+	- Construct bad symbol shift table. 
+	- Construct good-suffix shift table 
+	- Find K. K = the number of characters that match each other before finding a mismatch
+	- d2(k) =  ?
 - Applied after 0  < k < m characters were matched
 - d2(k) = distance between matched suffix of size k and its rightmost occurence in the pattern that is not preceded by the same character as the suffix  
 - d2k = good suffix shift
 - d1 = bad suffix shift 
 - d1 = T1(C) - K   where C is the constant and K is the number of characters that match
 - T1(C) = mismatch
+- max(D1,D2) = d
