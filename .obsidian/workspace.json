@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Good Suffix Shift.md",
+                "file": "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Good Suffix Shift.md",
+                "file": "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Good Suffix Shift.md",
+                "file": "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Good Suffix Shift.md"
+                "file": "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md"
               }
             }
           }
@@ -215,9 +215,10 @@
   },
   "active": "060a42ce4427ee7d",
   "lastOpenFiles": [
-    "Graphs.md",
+    "Pasted image 20230404181053.png",
     "Good Suffix Shift.md",
-    "Booyer Moore Horspool Algorithm.md",
+    "Graphs.md",
+    "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md",
     "C++ Notes.md",
     "B-Trees.md",
     "Images/Pasted image 20230301170734.png",
@@ -250,7 +251,6 @@
     "Kotlin/ConstraintLayouts.md",
     "Kotlin/Creating Android Apps.md",
     "Kotlin/Debugging.md",
-    "Kotlin/Get User Input (Good Example of Inheritance).md",
-    "Algorithms/Linear Search.md"
+    "Kotlin/Get User Input (Good Example of Inheritance).md"
   ]
 }

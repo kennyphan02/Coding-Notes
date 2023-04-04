@@ -1,3 +1,0 @@
-- Construct a Bad Match Table
-	- Value = length - index - 1 (Every other letter = length)
-- 
