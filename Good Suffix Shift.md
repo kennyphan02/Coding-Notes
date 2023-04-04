@@ -1,1 +1,2 @@
 If the first character matches the last character, then stop and record how many times its shifted.
+If a pattern matches with another pattern and the first character is compared to a character that doesnt exist, record how many times its shifted
