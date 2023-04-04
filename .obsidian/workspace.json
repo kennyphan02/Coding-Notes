@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md"
+                "file": "Booyer Moore Horspool Algorithm.md"
               }
             }
           }
@@ -215,10 +215,11 @@
   },
   "active": "060a42ce4427ee7d",
   "lastOpenFiles": [
+    "Pasted image 20230404181938.png",
     "Pasted image 20230404181053.png",
     "Good Suffix Shift.md",
     "Graphs.md",
-    "Booyer Moore Horspool Algorithm vs Bad Symbol Shift.md",
+    "Booyer Moore Horspool Algorithm.md",
     "C++ Notes.md",
     "B-Trees.md",
     "Images/Pasted image 20230301170734.png",
@@ -231,7 +232,6 @@
     "Images/Pasted image 20230403153206.png",
     "Images/Pasted image 20230403153203.png",
     "Images/Pasted image 20230403153201.png",
-    "Images/Pasted image 20230403153158.png",
     "Transform and Conquer.md",
     "MergeSort.md",
     "Recurrence Relations.md",
