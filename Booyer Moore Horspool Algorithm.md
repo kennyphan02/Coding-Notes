@@ -24,3 +24,5 @@ Good-suffix shift
 - d2(k) = distance between matched suffix of size k and its rightmost occurence in the pattern that is not preceded by the same character as the suffix  
 - d2k = good suffix shift
 - d1 = bad suffix shift 
+- d1 = T1(C) - K   where C is the constant and K is the number of characters that match
+- T1(C) = mismatch
