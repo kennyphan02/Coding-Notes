@@ -72,9 +72,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "060a42ce4427ee7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Good Suffix Shift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs.md",
+                "file": "Good Suffix Shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs.md",
+                "file": "Good Suffix Shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs.md"
+                "file": "Good Suffix Shift.md"
               }
             }
           }
@@ -201,8 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "716f312d2baf3a5c",
+  "active": "060a42ce4427ee7d",
   "lastOpenFiles": [
+    "Graphs.md",
+    "Good Suffix Shift.md",
     "Booyer Moore Horspool Algorithm.md",
     "C++ Notes.md",
     "B-Trees.md",
@@ -219,7 +233,6 @@
     "Images/Pasted image 20230403153158.png",
     "Transform and Conquer.md",
     "MergeSort.md",
-    "Graphs.md",
     "Recurrence Relations.md",
     "Resource Annotations.md",
     "Time Complexity.md",
@@ -238,7 +251,6 @@
     "Kotlin/Creating Android Apps.md",
     "Kotlin/Debugging.md",
     "Kotlin/Get User Input (Good Example of Inheritance).md",
-    "Algorithms/Linear Search.md",
-    "Algorithms/Matrices.md"
+    "Algorithms/Linear Search.md"
   ]
 }

@@ -1,0 +1,1 @@
+If the first character matches the last character, then stop and record how many times its shifted.
