@@ -23,7 +23,7 @@ Booyer-Moore Algorithm
 	- k = 3 = OBAB
 	- k = 4 = AOBAB
 	- k = 5 = BAOBAB
-	- d2 = good suffix shift 
+	- d2 = good suffix shift = the number of shfits it take to find a pattern matching where the first character is not preceded
 
 Good-suffix shift
 - How to use good-suffix shift in pattern matching?
