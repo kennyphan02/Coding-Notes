@@ -23,18 +23,15 @@ Booyer-Moore Algorithm
 	- k = 3 = OBAB
 	- k = 4 = AOBAB
 	- k = 5 = BAOBAB
-	- d2 = good suffix shift = the number of shfits it take to find a pattern matching where the first character is not preceded
+	- d2  = good suffix shift = d2(k) where k is the number of characters that match. to find the value of d2(k), use the pattern on itself until there is a mismatch 
+		- Example: BAOBAB of K = 1. When k = 1, were looking at AB
+		-          AB          AB        AB
+		- BAOBAB  BAOBAB  BAOBAB     d2(1) = 2  = 2 shfits to the left 
+	- d1 = bad suffix shift = t1(c) - k.  where c is the character's value found from the bad suffix table and k is the number of characters that match
+		- After finding the character that is not preceded by the pattern, find the value of the character and plug it into c for t1(c)
+		- N E W _ A B O U T
+		- B A O B A B      here two characters (AB) match so K = 2. In our bad suffix shift table the character "_" = 6.  So D1 = t1( _ ) - K  = 6 - 2 = 4. 
+	- Find the max of D1 and D2 and that is how much youre shifting the pattern by
+		- D1 = 4 and D2 = 2   Max(D1,D2) = 4
+	-
 
-Good-suffix shift
-- How to use good-suffix shift in pattern matching?
-	- Construct bad symbol shift table. 
-	- Construct good-suffix shift table 
-	- Find K. K = the number of characters that match each other before finding a mismatch
-	- d2(k) =  ?
-- Applied after 0  < k < m characters were matched
-- d2(k) = distance between matched suffix of size k and its rightmost occurence in the pattern that is not preceded by the same character as the suffix  
-- d2k = good suffix shift
-- d1 = bad suffix shift 
-- d1 = T1(C) - K   where C is the constant and K is the number of characters that match
-- T1(C) = mismatch
-- max(D1,D2) = d
