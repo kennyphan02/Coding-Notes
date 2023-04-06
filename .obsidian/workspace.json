@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Theorem.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Theorem.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master Theorem.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master Theorem.md"
+                "file": "Booyer Moore Horspool Algorithm.md"
               }
             }
           }
@@ -227,18 +227,18 @@
   },
   "active": "945b891a43e3ad49",
   "lastOpenFiles": [
+    "C++ Notes.md",
+    "Good Suffix Shift.md",
+    "Master Theorem.md",
     "Time Complexity.md",
     "Resource Annotations.md",
     "Software Test Case Documentation.md",
     "MergeSort.md",
     "Pasted image 20230404181938.png",
-    "Master Theorem.md",
     "Booyer Moore Horspool Algorithm.md",
     "Pasted image 20230404191014.png",
     "Pasted image 20230404181053.png",
-    "Good Suffix Shift.md",
     "Graphs.md",
-    "C++ Notes.md",
     "B-Trees.md",
     "Images/Pasted image 20230301170734.png",
     "Images/Pasted image 20230403152717.png",
