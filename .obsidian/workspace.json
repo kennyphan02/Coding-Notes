@@ -84,9 +84,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "945b891a43e3ad49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Master Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Master Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md"
+                "file": "Master Theorem.md"
               }
             }
           }
@@ -213,14 +225,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "060a42ce4427ee7d",
+  "active": "945b891a43e3ad49",
   "lastOpenFiles": [
-    "Pasted image 20230404191014.png",
+    "Time Complexity.md",
+    "Resource Annotations.md",
+    "Software Test Case Documentation.md",
+    "MergeSort.md",
     "Pasted image 20230404181938.png",
+    "Master Theorem.md",
+    "Booyer Moore Horspool Algorithm.md",
+    "Pasted image 20230404191014.png",
     "Pasted image 20230404181053.png",
     "Good Suffix Shift.md",
     "Graphs.md",
-    "Booyer Moore Horspool Algorithm.md",
     "C++ Notes.md",
     "B-Trees.md",
     "Images/Pasted image 20230301170734.png",
@@ -231,12 +248,8 @@
     "Images/Pasted image 20230403154229.png",
     "Images/Pasted image 20230403153209.png",
     "Images/Pasted image 20230403153206.png",
-    "Images/Pasted image 20230403153203.png",
     "Transform and Conquer.md",
-    "MergeSort.md",
     "Recurrence Relations.md",
-    "Resource Annotations.md",
-    "Time Complexity.md",
     "Algorithms/Topological Sort.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
     "conflict-files-obsidian-git.md",
@@ -250,7 +263,6 @@
     "Kotlin/Building a Tip Calculator App.md",
     "Kotlin/ConstraintLayouts.md",
     "Kotlin/Creating Android Apps.md",
-    "Kotlin/Debugging.md",
-    "Kotlin/Get User Input (Good Example of Inheritance).md"
+    "Kotlin/Debugging.md"
   ]
 }
