@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md"
+                "file": "Booyer Moore Horspool Algorithm.md"
               }
             }
           }
@@ -239,6 +239,7 @@
   },
   "active": "acb30ec0dfd3e563",
   "lastOpenFiles": [
+    "Algorithms/Trees/Tree Structures Terminology.md",
     "Graphs.md",
     "Good Suffix Shift.md",
     "MergeSort.md",
@@ -264,7 +265,6 @@
     "Images/Pasted image 20230403153206.png",
     "Recurrence Relations.md",
     "Algorithms/Topological Sort.md",
-    "Algorithms/Trees/Tree Structures Terminology.md",
     "conflict-files-obsidian-git.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Companion Objects.md",
