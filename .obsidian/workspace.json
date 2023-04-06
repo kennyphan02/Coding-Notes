@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs.md",
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs.md",
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs.md",
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs.md"
+                "file": "Algorithms/Trees/Tree Structures Terminology.md"
               }
             }
           }
@@ -239,8 +239,8 @@
   },
   "active": "acb30ec0dfd3e563",
   "lastOpenFiles": [
-    "Good Suffix Shift.md",
     "Graphs.md",
+    "Good Suffix Shift.md",
     "MergeSort.md",
     "Master Theorem.md",
     "Transform and Conquer.md",
