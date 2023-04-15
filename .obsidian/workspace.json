@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Algorithms/Trees/Tree Structures Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md"
+                "file": "Algorithms/Trees/Tree Structures Terminology.md"
               }
             }
           }
@@ -185,6 +185,17 @@
   },
   "active": "53bc198b6862aa8c",
   "lastOpenFiles": [
+    "Algorithms/Trees/Heaps.md",
+    "Algorithms/Trees/Generic Trees (N-ary trees).md",
+    "Algorithms/Trees/Binary Search Tree.md",
+    "Algorithms/Trees/Binary Search.md",
+    "Graphs.md",
+    "AVL Trees.md",
+    "B-Trees.md",
+    "Master Theorem.md",
+    "Kotlin-Android-Studio/List-Detail Pattern.md",
+    "Kotlin-Android-Studio/Creating Android Apps.md",
+    "Booyer Moore Horspool Algorithm.md",
     "Good Suffix Shift.md",
     "MergeSort.md",
     "Warshalls Algorithm (Transitive closure).md",
@@ -192,7 +203,6 @@
     "Pasted image 20230404191014.png",
     "Pasted image 20230404181938.png",
     "Pasted image 20230404181053.png",
-    "Master Theorem.md",
     "Images/Pasted image 20230403155034.png",
     "Images/Pasted image 20230403154229.png",
     "Images/Pasted image 20230403153209.png",
@@ -200,28 +210,18 @@
     "Images/Pasted image 20230403153203.png",
     "Images/Pasted image 20230403153201.png",
     "Images/Pasted image 20230403153158.png",
-    "Booyer Moore Horspool Algorithm.md",
-    "B-Trees.md",
-    "AVL Trees.md",
     "Kotlin-Android-Studio/CameraX Code Lab.md",
     "Algorithms/Topological Sort.md",
     "Design Patterns/Observer Pattern.md",
     "Design Patterns.md",
     "Design Patterns",
     "Kotlin-Android-Studio/Companion Objects.md",
-    "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Lists.md",
     "Kotlin-Android-Studio/ViewModel.md",
     "Kotlin-Android-Studio/Adaptive Layouts.md",
     "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
     "Kotlin-Android-Studio/Testing/Debugging.md",
-    "Kotlin-Android-Studio/Creating Android Apps.md",
     "Kotlin-Android-Studio/RecyclerView.md",
-    "Kotlin-Android-Studio/Kotlin Basics.md",
-    "Kotlin-Android-Studio/Building a Tip Calculator App.md",
-    "Kotlin-Android-Studio/OnKeyListeners and OnClickListeners.md",
-    "Kotlin-Android-Studio/ConstraintLayouts.md",
-    "Kotlin-Android-Studio/Icons.md",
     "Kotlin-Android-Studio/Testing"
   ]
 }
