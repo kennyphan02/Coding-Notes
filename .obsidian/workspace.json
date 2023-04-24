@@ -132,9 +132,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b82c2683e6cc397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knapsack Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traveling Salesman.md",
+                "file": "Knapsack Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traveling Salesman.md",
+                "file": "Knapsack Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traveling Salesman.md"
+                "file": "Knapsack Problem.md"
               }
             }
           }
@@ -261,10 +273,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecc45155eb5eeea7",
+  "active": "7b82c2683e6cc397",
   "lastOpenFiles": [
-    "Time Complexity.md",
     "Traveling Salesman.md",
+    "Knapsack Problem.md",
+    "Time Complexity.md",
     "Transform and Conquer.md",
     "Graphs.md",
     "B-Trees.md",
@@ -301,7 +314,6 @@
     "Kotlin-Android-Studio/CameraX Code Lab.md",
     "Design Patterns/Observer Pattern.md",
     "Design Patterns",
-    "Algorithms/Trees/Heaps.md",
-    "Kotlin-Android-Studio/Lists.md"
+    "Algorithms/Trees/Heaps.md"
   ]
 }
