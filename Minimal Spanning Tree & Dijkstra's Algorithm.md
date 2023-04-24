@@ -1,4 +1,6 @@
-Minimal Spanning Tree - a weighted graph where all the nodes are connected and has the least total cost. Only works on undirected graphs. Can handle negative weights with prim's algorithm
+Minimal Spanning Tree - a weighted graph where all the nodes are connected and has the least total cost. 
+	- Only works on undirected graphs. 
+	- Can handle negative weights with prim's algorithm
 	-Use min heap for priority queue
 
 
@@ -12,3 +14,6 @@ Prim's algorithm
 
 Dijkstra's Algorithm - find the shortest path between a source node and a target node
 - Only works when all the edge-weight are nonnegative
+- Works on undirected graphs and directed graphs
+- Keep track of shortest path from source to each of the vertices
+
