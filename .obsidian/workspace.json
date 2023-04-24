@@ -120,9 +120,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecc45155eb5eeea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traveling Salesman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Complexity.md",
+                "file": "Traveling Salesman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Complexity.md",
+                "file": "Traveling Salesman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Complexity.md"
+                "file": "Traveling Salesman.md"
               }
             }
           }
@@ -249,8 +261,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "058e57d9d9e8501d",
+  "active": "ecc45155eb5eeea7",
   "lastOpenFiles": [
+    "Time Complexity.md",
+    "Traveling Salesman.md",
     "Transform and Conquer.md",
     "Graphs.md",
     "B-Trees.md",
@@ -266,7 +280,6 @@
     "Recurrence Relations.md",
     "Resource Annotations.md",
     "Software Test Case Documentation.md",
-    "Time Complexity.md",
     "Warshalls Algorithm (Transitive closure).md",
     "Good Suffix Shift.md",
     "Images/Pasted image 20230404181053.png",
@@ -289,7 +302,6 @@
     "Design Patterns/Observer Pattern.md",
     "Design Patterns",
     "Algorithms/Trees/Heaps.md",
-    "Kotlin-Android-Studio/Lists.md",
-    "Kotlin/Building a Tip Calculator App.md"
+    "Kotlin-Android-Studio/Lists.md"
   ]
 }
