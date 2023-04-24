@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Algorithms/Selection Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Algorithms/Selection Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Algorithms/Selection Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md"
+                "file": "Algorithms/Selection Sort.md"
               }
             }
           }
@@ -251,24 +251,24 @@
   },
   "active": "058e57d9d9e8501d",
   "lastOpenFiles": [
-    "Warshalls Algorithm (Transitive closure).md",
-    "Minimal Spanning Tree & Dijkstra's Algorithm.md",
     "MergeSort.md",
+    "Graphs.md",
+    "Master Theorem.md",
+    "Minimal Spanning Tree & Dijkstra's Algorithm.md",
     "Recurrence Relations.md",
+    "Resource Annotations.md",
+    "Software Test Case Documentation.md",
+    "Time Complexity.md",
+    "Warshalls Algorithm (Transitive closure).md",
+    "Transform and Conquer.md",
+    "Good Suffix Shift.md",
+    "Booyer Moore Horspool Algorithm.md",
     "Images/Pasted image 20230404181053.png",
     "Images/Pasted image 20230404181938.png",
     "Images/Pasted image 20230424010904.png",
-    "Graphs.md",
     "conflict-files-obsidian-git.md",
-    "Good Suffix Shift.md",
-    "Master Theorem.md",
-    "Booyer Moore Horspool Algorithm.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
-    "Transform and Conquer.md",
     "C++ Notes.md",
-    "Time Complexity.md",
-    "Resource Annotations.md",
-    "Software Test Case Documentation.md",
     "Images/Pasted image 20230404191014.png",
     "B-Trees.md",
     "Images/Pasted image 20230301170734.png",
