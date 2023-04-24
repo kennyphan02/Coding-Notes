@@ -108,9 +108,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6db28371c582415f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -237,10 +249,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acb30ec0dfd3e563",
+  "active": "6db28371c582415f",
   "lastOpenFiles": [
-    "Good Suffix Shift.md",
     "Graphs.md",
+    "conflict-files-obsidian-git.md",
+    "Good Suffix Shift.md",
     "Master Theorem.md",
     "MergeSort.md",
     "Booyer Moore Horspool Algorithm.md",
@@ -265,7 +278,6 @@
     "Images/Pasted image 20230403153206.png",
     "Recurrence Relations.md",
     "Algorithms/Topological Sort.md",
-    "conflict-files-obsidian-git.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Companion Objects.md",
     "Kotlin-Android-Studio/CameraX Code Lab.md",
