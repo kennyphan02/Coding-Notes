@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minimal Spanning Tree.md",
+                "file": "Minimal Spanning Tree & Dijkstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minimal Spanning Tree.md",
+                "file": "Minimal Spanning Tree & Dijkstra's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minimal Spanning Tree.md",
+                "file": "Minimal Spanning Tree & Dijkstra's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minimal Spanning Tree.md"
+                "file": "Minimal Spanning Tree & Dijkstra's Algorithm.md"
               }
             }
           }
@@ -251,14 +251,17 @@
   },
   "active": "058e57d9d9e8501d",
   "lastOpenFiles": [
-    "Pasted image 20230424010904.png",
+    "MergeSort.md",
+    "Recurrence Relations.md",
+    "Images/Pasted image 20230404181053.png",
+    "Images/Pasted image 20230404181938.png",
+    "Minimal Spanning Tree & Dijkstra's Algorithm.md",
+    "Images/Pasted image 20230424010904.png",
     "Warshalls Algorithm (Transitive closure).md",
-    "Minimal Spanning Tree.md",
     "Graphs.md",
     "conflict-files-obsidian-git.md",
     "Good Suffix Shift.md",
     "Master Theorem.md",
-    "MergeSort.md",
     "Booyer Moore Horspool Algorithm.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
     "Transform and Conquer.md",
@@ -266,9 +269,7 @@
     "Time Complexity.md",
     "Resource Annotations.md",
     "Software Test Case Documentation.md",
-    "Pasted image 20230404181938.png",
-    "Pasted image 20230404191014.png",
-    "Pasted image 20230404181053.png",
+    "Images/Pasted image 20230404191014.png",
     "B-Trees.md",
     "Images/Pasted image 20230301170734.png",
     "Images/Pasted image 20230403152717.png",
@@ -277,8 +278,6 @@
     "Images/Pasted image 20230403155034.png",
     "Images/Pasted image 20230403154229.png",
     "Images/Pasted image 20230403153209.png",
-    "Images/Pasted image 20230403153206.png",
-    "Recurrence Relations.md",
     "Algorithms/Topological Sort.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Companion Objects.md",
