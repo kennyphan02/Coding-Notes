@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knapsack Problem.md",
+                "file": "Traveling Salesman.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knapsack Problem.md",
+                "file": "Traveling Salesman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knapsack Problem.md",
+                "file": "Traveling Salesman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knapsack Problem.md"
+                "file": "Traveling Salesman.md"
               }
             }
           }
@@ -275,9 +275,11 @@
   },
   "active": "7b82c2683e6cc397",
   "lastOpenFiles": [
-    "Traveling Salesman.md",
-    "Knapsack Problem.md",
     "Time Complexity.md",
+    "Traveling Salesman.md",
+    "Resource Annotations.md",
+    "Master Theorem.md",
+    "Knapsack Problem.md",
     "Transform and Conquer.md",
     "Graphs.md",
     "B-Trees.md",
@@ -288,10 +290,8 @@
     "Notes.pdf",
     "Unconfirmed 57047.crdownload",
     "MergeSort.md",
-    "Master Theorem.md",
     "Minimal Spanning Tree & Dijkstra's Algorithm.md",
     "Recurrence Relations.md",
-    "Resource Annotations.md",
     "Software Test Case Documentation.md",
     "Warshalls Algorithm (Transitive closure).md",
     "Good Suffix Shift.md",
