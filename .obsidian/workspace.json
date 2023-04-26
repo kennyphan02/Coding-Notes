@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knapsack Problem.md",
+                "file": "Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knapsack Problem.md",
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knapsack Problem.md",
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knapsack Problem.md"
+                "file": "Graphs.md"
               }
             }
           }
@@ -207,6 +207,7 @@
   },
   "active": "95494c5b57d6b15e",
   "lastOpenFiles": [
+    "Knapsack Problem.md",
     "Time Complexity.md",
     "Traveling Salesman.md",
     "conflict-files-obsidian-git.md",
@@ -217,7 +218,6 @@
     "Graphs.md",
     "Notes.pdf",
     "Minimal Spanning Tree & Dijkstra's Algorithm.md",
-    "Knapsack Problem.md",
     "Images/Pasted image 20230424010904.png",
     "Images/Pasted image 20230404191014.png",
     "Images/Pasted image 20230404181938.png",
