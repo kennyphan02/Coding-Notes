@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs.md",
+                "file": "Kotlin-Android-Studio/Building a Tip Calculator App.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs.md",
+                "file": "Kotlin-Android-Studio/Building a Tip Calculator App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs.md",
+                "file": "Kotlin-Android-Studio/Building a Tip Calculator App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs.md"
+                "file": "Kotlin-Android-Studio/Building a Tip Calculator App.md"
               }
             }
           }
@@ -207,6 +207,13 @@
   },
   "active": "95494c5b57d6b15e",
   "lastOpenFiles": [
+    "Kotlin-Android-Studio/App Themes.md",
+    "Kotlin-Android-Studio/Adaptive Layouts.md",
+    "Kotlin-Android-Studio/Packages.md",
+    "Booyer Moore Horspool Algorithm.md",
+    "C++ Notes.md",
+    "Good Suffix Shift.md",
+    "Graphs.md",
     "Knapsack Problem.md",
     "Time Complexity.md",
     "Traveling Salesman.md",
@@ -215,7 +222,6 @@
     "IMG_7237.jpg",
     "IMG_7238.jpg",
     "IMG_7239.jpg",
-    "Graphs.md",
     "Notes.pdf",
     "Minimal Spanning Tree & Dijkstra's Algorithm.md",
     "Images/Pasted image 20230424010904.png",
@@ -223,10 +229,7 @@
     "Images/Pasted image 20230404181938.png",
     "Images/Pasted image 20230404181053.png",
     "Class_dump_3_22 (1).zip",
-    "Good Suffix Shift.md",
-    "C++ Notes.md",
     "B-Trees.md",
-    "Booyer Moore Horspool Algorithm.md",
     "AVL Trees.md",
     "Algorithms/Selection Sort.md",
     "Algorithms/Topological Sort.md",
@@ -239,12 +242,9 @@
     "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Creating Android Apps.md",
     "Warshalls Algorithm (Transitive closure).md",
-    "Transform and Conquer.md",
     "Pasted image 20230404191014.png",
     "Pasted image 20230404181938.png",
     "Pasted image 20230404181053.png",
-    "Kotlin-Android-Studio/CameraX Code Lab.md",
-    "Design Patterns/Observer Pattern.md",
     "Design Patterns",
     "Kotlin-Android-Studio/Testing"
   ]
