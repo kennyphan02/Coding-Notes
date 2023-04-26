@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "file": "Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md",
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Trees/Tree Structures Terminology.md"
+                "file": "Graphs.md"
               }
             }
           }
@@ -185,18 +185,22 @@
   },
   "active": "53bc198b6862aa8c",
   "lastOpenFiles": [
-    "Algorithms/Trees/Heaps.md",
+    "Good Suffix Shift.md",
+    "C++ Notes.md",
+    "B-Trees.md",
+    "Booyer Moore Horspool Algorithm.md",
+    "AVL Trees.md",
+    "Algorithms/Selection Sort.md",
+    "Algorithms/Topological Sort.md",
+    "Algorithms/Trees/Tree Structures Terminology.md",
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
+    "Algorithms/Trees/Heaps.md",
     "Algorithms/Trees/Binary Search Tree.md",
     "Algorithms/Trees/Binary Search.md",
     "Graphs.md",
-    "AVL Trees.md",
-    "B-Trees.md",
     "Master Theorem.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Creating Android Apps.md",
-    "Booyer Moore Horspool Algorithm.md",
-    "Good Suffix Shift.md",
     "MergeSort.md",
     "Warshalls Algorithm (Transitive closure).md",
     "Transform and Conquer.md",
@@ -211,7 +215,6 @@
     "Images/Pasted image 20230403153201.png",
     "Images/Pasted image 20230403153158.png",
     "Kotlin-Android-Studio/CameraX Code Lab.md",
-    "Algorithms/Topological Sort.md",
     "Design Patterns/Observer Pattern.md",
     "Design Patterns.md",
     "Design Patterns",
@@ -219,9 +222,6 @@
     "Kotlin-Android-Studio/Lists.md",
     "Kotlin-Android-Studio/ViewModel.md",
     "Kotlin-Android-Studio/Adaptive Layouts.md",
-    "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
-    "Kotlin-Android-Studio/Testing/Debugging.md",
-    "Kotlin-Android-Studio/RecyclerView.md",
     "Kotlin-Android-Studio/Testing"
   ]
 }
