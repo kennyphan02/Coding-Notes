@@ -1,0 +1,2 @@
+Find the shortest path in which all nodes are visited then returned back to the starting node.
+- Exhaustive search - every item of a set is checked before a decision is made. (Test all possible combinations)
