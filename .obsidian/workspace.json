@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin-Android-Studio/List-Detail Pattern.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin-Android-Studio/Building a Tip Calculator App.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin-Android-Studio/Building a Tip Calculator App.md",
+                "file": "Booyer Moore Horspool Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin-Android-Studio/Building a Tip Calculator App.md"
+                "file": "Booyer Moore Horspool Algorithm.md"
               }
             }
           }
@@ -205,8 +204,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95494c5b57d6b15e",
+  "active": "bedbf9add4fffcc0",
   "lastOpenFiles": [
+    "MergeSort.md",
+    "Kotlin-Android-Studio/List-Detail Pattern.md",
+    "Kotlin-Android-Studio/CameraX Code Lab.md",
+    "Kotlin-Android-Studio/Building a Tip Calculator App.md",
     "Kotlin-Android-Studio/App Themes.md",
     "Kotlin-Android-Studio/Adaptive Layouts.md",
     "Kotlin-Android-Studio/Packages.md",
@@ -218,7 +221,6 @@
     "Time Complexity.md",
     "Traveling Salesman.md",
     "conflict-files-obsidian-git.md",
-    "MergeSort.md",
     "IMG_7237.jpg",
     "IMG_7238.jpg",
     "IMG_7239.jpg",
@@ -239,9 +241,6 @@
     "Algorithms/Trees/Binary Search Tree.md",
     "Algorithms/Trees/Binary Search.md",
     "Master Theorem.md",
-    "Kotlin-Android-Studio/List-Detail Pattern.md",
-    "Kotlin-Android-Studio/Creating Android Apps.md",
-    "Warshalls Algorithm (Transitive closure).md",
     "Pasted image 20230404191014.png",
     "Pasted image 20230404181938.png",
     "Pasted image 20230404181053.png",
