@@ -17,6 +17,8 @@ Graph data structure - a collection of vertices and edges (V,E)
 	- Complete graph - every vertex has an edge to every other vertex 
 	- Directed Acyclic Graph (a directed graph with no directed cycles)
 	- Topological Sort - takes
+	- Sparse graph - A graph with as few edges as possible 
+	- Dense graph - A graph with the maximal number of edges possible
 - How are graphs represented? 
 	- Adjacency Matrix: 2D array of V x V vertices. Each row and column represent a vertice
 		- If the value at `a[i][j]` is 1, it indicate there is an edge (i,j) 

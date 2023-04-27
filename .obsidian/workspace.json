@@ -144,9 +144,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fefa93f2ad5995a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbbb9859d1ba10a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -212,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Theorem.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master Theorem.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master Theorem.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -273,8 +297,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b82c2683e6cc397",
+  "active": "fbbb9859d1ba10a7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Time Complexity.md",
+    "Master Theorem.md",
+    "Good Suffix Shift.md",
     "Traveling Salesman.md",
     "IMG_7239.jpg",
     "IMG_7239.jpg.crdownload",
@@ -282,9 +310,7 @@
     "IMG_7238.jpg.crdownload",
     "IMG_7237.jpg",
     "IMG_7237.jpg.crdownload",
-    "Time Complexity.md",
     "Resource Annotations.md",
-    "Master Theorem.md",
     "Knapsack Problem.md",
     "Transform and Conquer.md",
     "Graphs.md",
@@ -300,11 +326,9 @@
     "Recurrence Relations.md",
     "Software Test Case Documentation.md",
     "Warshalls Algorithm (Transitive closure).md",
-    "Good Suffix Shift.md",
     "Images/Pasted image 20230404181053.png",
     "Images/Pasted image 20230404181938.png",
     "Images/Pasted image 20230424010904.png",
-    "conflict-files-obsidian-git.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
     "C++ Notes.md",
     "Images/Pasted image 20230404191014.png",
