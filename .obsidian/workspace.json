@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traveling Salesman.md",
+                "file": "Master Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traveling Salesman.md",
+                "file": "Master Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traveling Salesman.md",
+                "file": "Master Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traveling Salesman.md"
+                "file": "Master Theorem.md"
               }
             }
           }
@@ -275,6 +275,7 @@
   },
   "active": "7b82c2683e6cc397",
   "lastOpenFiles": [
+    "Traveling Salesman.md",
     "IMG_7239.jpg",
     "IMG_7239.jpg.crdownload",
     "IMG_7238.jpg",
@@ -282,7 +283,6 @@
     "IMG_7237.jpg",
     "IMG_7237.jpg.crdownload",
     "Time Complexity.md",
-    "Traveling Salesman.md",
     "Resource Annotations.md",
     "Master Theorem.md",
     "Knapsack Problem.md",
@@ -311,7 +311,6 @@
     "Images/Pasted image 20230301170734.png",
     "Images/Pasted image 20230403152717.png",
     "Images/Pasted image 20230228114540.png",
-    "Images/Pasted image 20230403155034.png",
     "Algorithms/Topological Sort.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Companion Objects.md",
