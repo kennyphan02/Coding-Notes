@@ -151,26 +151,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbbb9859d1ba10a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AVL Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -236,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AVL Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AVL Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "AVL Trees.md"
               }
             }
           }
@@ -297,10 +285,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbbb9859d1ba10a7",
+  "active": "fefa93f2ad5995a5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "B-Trees.md",
+    "AVL Trees.md",
     "Time Complexity.md",
+    "conflict-files-obsidian-git.md",
     "Master Theorem.md",
     "Good Suffix Shift.md",
     "Traveling Salesman.md",
@@ -314,9 +304,7 @@
     "Knapsack Problem.md",
     "Transform and Conquer.md",
     "Graphs.md",
-    "B-Trees.md",
     "Booyer Moore Horspool Algorithm.md",
-    "AVL Trees.md",
     "Algorithms/Selection Sort.md",
     "Class_dump_3_22 (1).zip",
     "Notes.pdf",
