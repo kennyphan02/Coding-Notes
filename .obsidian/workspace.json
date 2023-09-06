@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Recurrence Relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Recurrence Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md",
+                "file": "Recurrence Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Booyer Moore Horspool Algorithm.md"
+                "file": "Recurrence Relations.md"
               }
             }
           }
@@ -204,20 +204,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bedbf9add4fffcc0",
+  "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems",
     "MergeSort.md",
+    "Knapsack Problem.md",
+    "Master Theorem.md",
+    "Warshalls Algorithm (Transitive closure).md",
+    "Kotlin-Android-Studio/Lists.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
+    "Kotlin-Android-Studio/Building a Dice App.md",
+    "Booyer Moore Horspool Algorithm.md",
     "Kotlin-Android-Studio/CameraX Code Lab.md",
     "Kotlin-Android-Studio/Building a Tip Calculator App.md",
     "Kotlin-Android-Studio/App Themes.md",
     "Kotlin-Android-Studio/Adaptive Layouts.md",
     "Kotlin-Android-Studio/Packages.md",
-    "Booyer Moore Horspool Algorithm.md",
     "C++ Notes.md",
     "Good Suffix Shift.md",
     "Graphs.md",
-    "Knapsack Problem.md",
     "Time Complexity.md",
     "Traveling Salesman.md",
     "conflict-files-obsidian-git.md",
@@ -236,11 +241,6 @@
     "Algorithms/Selection Sort.md",
     "Algorithms/Topological Sort.md",
     "Algorithms/Trees/Tree Structures Terminology.md",
-    "Algorithms/Trees/Generic Trees (N-ary trees).md",
-    "Algorithms/Trees/Heaps.md",
-    "Algorithms/Trees/Binary Search Tree.md",
-    "Algorithms/Trees/Binary Search.md",
-    "Master Theorem.md",
     "Pasted image 20230404191014.png",
     "Pasted image 20230404181938.png",
     "Pasted image 20230404181053.png",
