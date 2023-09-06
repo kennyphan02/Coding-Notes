@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2 Processes and Limited Direction Execution.md",
+                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9976b16bd4dd5de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,6 +183,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c85b7fe18c0c7097",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -192,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2 Processes and Limited Direction Execution.md",
+                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2 Processes and Limited Direction Execution.md",
+                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2 Processes and Limited Direction Execution.md"
+                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md"
               }
             }
           }
@@ -253,10 +273,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d46b00efa0b8adc4",
+  "active": "9976b16bd4dd5de2",
   "lastOpenFiles": [
+    "Software Test Case Documentation.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
-    "Chapter 2 Processes and Limited Direction Execution.md",
+    "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "conflict-files-obsidian-git.md",
     "Recurrence Relations.md",
     "CSCE311 Operating Systems",
@@ -290,7 +311,6 @@
     "Class_dump_3_22 (1).zip",
     "B-Trees.md",
     "AVL Trees.md",
-    "Algorithms/Selection Sort.md",
     "Pasted image 20230404191014.png",
     "Pasted image 20230404181938.png",
     "Pasted image 20230404181053.png",
