@@ -1,0 +1,14 @@
+
+- CPU virtualization
+	- Many virtal CPUs exist 
+	- Time sharing: running one process, then stopping it and running another
+		- Potential cost is performance
+- A process is a running program
+	- Process contains memory (contains instructions and data)
+	- Process contains registers 
+- Process API
+	- Create
+	- Destroy
+	- Wait
+	- Miscellaneous Control
+	- Status
