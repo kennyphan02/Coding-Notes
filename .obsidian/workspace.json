@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "fb6c0b8a41062dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5b74578dad56344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eff61918284d6848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5558f0c83cd02ccb",
             "type": "leaf",
             "state": {
@@ -77,7 +113,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recurrence Relations.md",
+                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recurrence Relations.md",
+                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recurrence Relations.md"
+                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md"
               }
             }
           }
@@ -206,6 +243,9 @@
   },
   "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "CSCE311 Operating Systems/Introduction Chapter 1.md",
+    "Recurrence Relations.md",
     "CSCE311 Operating Systems",
     "MergeSort.md",
     "Knapsack Problem.md",
@@ -225,7 +265,6 @@
     "Graphs.md",
     "Time Complexity.md",
     "Traveling Salesman.md",
-    "conflict-files-obsidian-git.md",
     "IMG_7237.jpg",
     "IMG_7238.jpg",
     "IMG_7239.jpg",
@@ -240,7 +279,6 @@
     "AVL Trees.md",
     "Algorithms/Selection Sort.md",
     "Algorithms/Topological Sort.md",
-    "Algorithms/Trees/Tree Structures Terminology.md",
     "Pasted image 20230404191014.png",
     "Pasted image 20230404181938.png",
     "Pasted image 20230404181053.png",
