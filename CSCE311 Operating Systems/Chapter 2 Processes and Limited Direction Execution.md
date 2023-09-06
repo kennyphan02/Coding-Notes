@@ -17,4 +17,11 @@
 	- Loads a program code into memory and fills in an address space
 	1. OS loads the process lazily (only essential pieces of code are loaded during program execution)
 	- Eagerly means everything is loaded prior to program execution
-	2.  The run time stack is allocated. This means is that after program execution the run time stack is used to store and handle variables. Every call performed in a thread stored in the stack 
+	2.  The run time stack is allocated. This means is that after program execution the run time stack is used to store and handle variables (local variables, return address, function parameters). Every call performed in a thread stored in the stack 
+			   To initalize the stack, call argc and argv array of main() function
+	3. Heap is created 
+		1. Heap memory is a type of dynamic memory allocation used for storing objects and data structures that require a longer lifespan than stack memory
+		2. requests space by calling malloc() and free it by calling free()
+	4. 
+	Difference between heap memory and stack memory?
+		Heap is used by all parts of an application and it is where objects are stored in. The stack memory contains the return address to it.
