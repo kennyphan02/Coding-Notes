@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "f552a43a0dde4195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE311 Operating Systems/CSCE 311 HW 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5558f0c83cd02ccb",
             "type": "leaf",
             "state": {
@@ -138,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
+                "file": "CSCE311 Operating Systems/CSCE 311 HW 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
+                "file": "CSCE311 Operating Systems/CSCE 311 HW 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md"
+                "file": "CSCE311 Operating Systems/CSCE 311 HW 1.md"
               }
             }
           }
@@ -273,11 +285,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9976b16bd4dd5de2",
+  "active": "f552a43a0dde4195",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
     "Software Test Case Documentation.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
-    "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "conflict-files-obsidian-git.md",
     "Recurrence Relations.md",
     "CSCE311 Operating Systems",
@@ -310,7 +323,6 @@
     "Images/Pasted image 20230404181053.png",
     "Class_dump_3_22 (1).zip",
     "B-Trees.md",
-    "AVL Trees.md",
     "Pasted image 20230404191014.png",
     "Pasted image 20230404181938.png",
     "Pasted image 20230404181053.png",
