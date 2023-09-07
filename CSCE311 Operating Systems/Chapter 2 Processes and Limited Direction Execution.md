@@ -22,6 +22,7 @@
 	3. Heap is created 
 		1. Heap memory is a type of dynamic memory allocation used for storing objects and data structures that require a longer lifespan than stack memory
 		2. requests space by calling malloc() and free it by calling free()
-	4. 
+	4. OS does other initalization tasks
+		1. (input/ouput)
 	Difference between heap memory and stack memory?
 		Heap is used by all parts of an application and it is where objects are stored in. The stack memory contains the return address to it.
