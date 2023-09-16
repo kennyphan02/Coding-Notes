@@ -8,3 +8,13 @@
 - Customer
 - Release Planning
 	- To start with release planning, we analyze the product backlog and identify the user-stories they want to put into this release backlog
+		- Sprints are planned to complete the user-stories within a release backlog to a ship-ready state (meaning features should be completed and tested with no bugs)
+		- Sprints are short-duration milestones that allows teams to tackle on in a team project. Generally range from a couple of days to 30 days in length. 
+		- Sprints are assigned into a sprint backlog
+		- At the end of each sprint, one should have a fully tested product with all the features of that sprint 100% complete.
+- Burndown Chart 
+	- #1 one reason for scrum's popularity
+	- project visibility tool to ensure a project is progressing smoothly
+	- Chart provides a day-by-day measure of the amount of work that remains in a given sprint or release.  (Shows the total amount of work remaining )
+- Daily scrums
+	- Stands up where team members discuss what they have done and completed from the previous day
