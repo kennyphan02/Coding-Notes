@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
+                "file": "CSCE490 Notes/Decision-Making Process Workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
+                "file": "CSCE490 Notes/Decision-Making Process Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
+                "file": "CSCE490 Notes/Decision-Making Process Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md"
+                "file": "CSCE490 Notes/Decision-Making Process Workflow.md"
               }
             }
           }
@@ -299,8 +299,8 @@
   },
   "active": "70e4f53880a2fde0",
   "lastOpenFiles": [
-    "Untitled.md",
     "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
+    "Untitled.md",
     "CSCE490 Notes/Decision-Making Process Workflow.md",
     "CSCE490 Notes/Scrum Notes",
     "Arrays.md",
