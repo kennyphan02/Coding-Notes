@@ -1,0 +1,10 @@
+- Features are typically written from the perspective of the end-user
+	- Features are known as user-stories
+	- Collection of user-stories is called a product backlog (think of it as a wishlist)
+- Product owner - make sure the right features make it into the product backlog. The owner represents the users and customers of the product.
+- Scrum master - manages members of a team and ensures that each team member are completing tasks that is essential to the product. sets up meetings, leads daily stand-ups, monitors work being done
+- Developer
+- Tester
+- Customer
+- Release Planning
+	- To start with release planning, we analyze the product backlog and identify the user-stories they want to put into this release backlog
