@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE490 Notes/Decision-Making Process Workflow.md",
+                "file": "CSCE311 Operating Systems/CSCE 311 HW 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE490 Notes/Decision-Making Process Workflow.md",
+                "file": "CSCE311 Operating Systems/CSCE 311 HW 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE490 Notes/Decision-Making Process Workflow.md",
+                "file": "CSCE311 Operating Systems/CSCE 311 HW 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE490 Notes/Decision-Making Process Workflow.md"
+                "file": "CSCE311 Operating Systems/CSCE 311 HW 2.md"
               }
             }
           }
@@ -299,13 +299,14 @@
   },
   "active": "70e4f53880a2fde0",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+    "CSCE490 Notes/Decision-Making Process Workflow.md",
     "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
     "Untitled.md",
-    "CSCE490 Notes/Decision-Making Process Workflow.md",
     "CSCE490 Notes/Scrum Notes",
     "Arrays.md",
     "CSCE490 Notes",
-    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
     "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "Software Test Case Documentation.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
@@ -327,7 +328,6 @@
     "Kotlin-Android-Studio/Packages.md",
     "C++ Notes.md",
     "Good Suffix Shift.md",
-    "Graphs.md",
     "IMG_7237.jpg",
     "IMG_7238.jpg",
     "IMG_7239.jpg",
