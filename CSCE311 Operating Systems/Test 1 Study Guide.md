@@ -10,7 +10,10 @@ Process Control Block - Stores the state of processes.
 	- all jobs use the CPU
 	- run-time of each job is known
 - Performance metric: Turnaround time
-	- Formula: Tcompletion - Tarrival 
+	- Formula: Tcompletion - Tarrival = Tturnaround
+- Performance metric: Burst time
+	- Burst time refers to the time required in miliseconds by a process for its execution. Also called execution time. (Changes from running state to completed state)
+	- Burst time = completion time - waiting time 
 - Performance metric: fairness
 	- often at odds
 - First in, First out (FIFO)
