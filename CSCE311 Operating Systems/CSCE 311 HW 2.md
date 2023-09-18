@@ -3,7 +3,7 @@
 Which of the following CPU scheduling algorithms are preemptive, as discussed in class? choose one 
 FCFS 
 HFCS 
-SJF (a.k.a. SJN)
+SJF (a.k.a. SJN)  <--- apparently its this one
 ***STCF***
 
 
@@ -71,7 +71,7 @@ disables kernel mode
 Uses the source (program counter, stack pointer, etc.) to determine which segment to access. 
 
 Memory compaction is an attempt to reduce internal fragmentation true or false
-True.
+FALSE
 
 Memory compaction is a technique used to reduce internal fragmentation in a memory management system. It involves rearranging the allocated memory blocks to eliminate or reduce the gaps or holes between them, making it possible to use memory more efficiently and reduce wastage caused by internal fragmentation.
 
