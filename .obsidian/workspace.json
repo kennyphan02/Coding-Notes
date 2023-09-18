@@ -107,9 +107,11 @@
             "id": "014385a648fb14ef",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
+                "mode": "source",
+                "source": false
               }
             }
           },

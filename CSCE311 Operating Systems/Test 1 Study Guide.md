@@ -22,6 +22,9 @@ Process Control Block - Stores the state of processes.
 		The picture above is a ganatt chart. The average turnaround time is the sum of the turnaround time divided by the number of processes
 	- FIFO is not that great when each process no longer runs for the same amount of time. see example below
 	![[Pasted image 20230918135235.png]]
-- Shortest Job First
+- Shortest Job First (SJF)
 	- run shortest job first, then next shortest, and so on
 	- non-preemptive scheduler 
+
+Pre-emptive vs nonemptive scheduling
+- 
