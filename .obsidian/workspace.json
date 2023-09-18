@@ -104,6 +104,16 @@
             }
           },
           {
+            "id": "014385a648fb14ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "5558f0c83cd02ccb",
             "type": "leaf",
             "state": {
@@ -162,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -279,6 +289,16 @@
                 "file": "CSCE311 Operating Systems/Test 1 Study Guide.md"
               }
             }
+          },
+          {
+            "id": "653e6c5090b8843e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -297,7 +317,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70e4f53880a2fde0",
+  "active": "014385a648fb14ef",
   "lastOpenFiles": [
     "Pasted image 20230918135235.png",
     "Pasted image 20230918134558.png",
