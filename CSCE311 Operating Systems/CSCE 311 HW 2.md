@@ -34,11 +34,26 @@ The following issues are most likely to be experienced in a system that prealloc
 2. **Smaller programs may not be able to run as there is too much space between the stack and heap:** With a fixed allocation of 512 MB, smaller programs may find it challenging to fit within this large preallocated space, and there could be a significant gap between the stack and heap. This can lead to inefficient use of memory and may prevent smaller programs from running efficiently.
     
 
-For a system using basic base and bounds registers (one pair per process), explain how an operating system may move/relocate a non-running process in memory.
-Assume the bounds register is _size_ of the virtual address space (and not the last address in physical memory).
 
-Select a large enough region of memory and change the bounds register in some sort of process structure (like a PCB).
+5. For a system using basic base and bounds registers (one pair per process), explain how an operating system may move/relocate a non-running process in memory. Assume the bounds register is size of the virtual address space (and not the last address in physical memory).
+Select a large enough region of memory and change the base register in some sort of process structure (like a PCB).
+Select a large enough region of memory and change the bounds register in some sort of process structure (like a PCB). 
+Change the base register. 
+Change the bounds register.
+The correct answer is: "Change the base register."
 
+To move or relocate a non-running process in memory in a system using basic base and bounds registers, the operating system can change the base register associated with that process. Here's how it works:
+
+1. **Base and Bounds Registers**: In such a system, each process has its own pair of base and bounds registers. The base register specifies the starting address of the process's allocated memory, and the bounds register indicates the size of the virtual address space for that process.
+    
+2. **Moving/Relocating a Process**: When the operating system needs to move or relocate a non-running process in memory, it can select a new region of memory where it wants the process to be placed.
+    
+3. **Changing the Base Register**: To relocate the process, the operating system updates the base register associated with that process. The new base register value points to the starting address of the selected memory region, effectively moving the entire process's address space to the new location in physical memory.
+    
+
+Changing the bounds register is not typically used for relocating a process in memory. The bounds register typically represents the size of the virtual address space for the process and is typically set when the process is created. Changing the bounds register would fundamentally alter the size of the process's address space, which is not the intended operation when relocating a process.
+
+So, the correct approach to move a non-running process is to change the base register while keeping the bounds register unchanged.
 
   
 In a system using a base and bounds register approach for memory management, the operating system needs to be involved in the following situations:
