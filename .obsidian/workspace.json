@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CSCE 311 HW 2.md"
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md"
               }
             }
           }
@@ -299,8 +299,10 @@
   },
   "active": "70e4f53880a2fde0",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
+    "Pasted image 20230918134558.png",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+    "CSCE311 Operating Systems/Test 1 Study Guide.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
     "CSCE490 Notes/Decision-Making Process Workflow.md",
     "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
     "Untitled.md",
@@ -326,8 +328,6 @@
     "Kotlin-Android-Studio/App Themes.md",
     "Kotlin-Android-Studio/Adaptive Layouts.md",
     "Kotlin-Android-Studio/Packages.md",
-    "C++ Notes.md",
-    "Good Suffix Shift.md",
     "IMG_7237.jpg",
     "IMG_7238.jpg",
     "IMG_7239.jpg",
