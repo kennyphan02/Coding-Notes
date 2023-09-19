@@ -10,7 +10,8 @@ Process Control Block - Stores the state of processes.
 	- all jobs use the CPU
 	- run-time of each job is known
 - Performance metric: Turnaround time
-	- Formula: Tcompletion - Tarrival = Tturnaround
+	- Formula: Texit - Tarrival = Tturnaround
+	- find the average: just divide by the number of processes
 - Performance metric: Burst time
 	- Burst time refers to the time required in miliseconds by a process for its execution. Also called execution time. (Changes from running state to completed state)
 	- Burst time = completion time - waiting time 
@@ -20,7 +21,7 @@ Process Control Block - Stores the state of processes.
 - Performance metric: Waiting time 
 	- waiting time = turnaround time - burst time 
 - First in, First out (FIFO)
-	- also known as FCFS (First come, first served)
+	- also known as FCFS (First come, first served). nonpreemptive
 	![[Pasted image 20230918134558.png]]
 		The picture above is a ganatt chart. The average turnaround time is the sum of the turnaround time divided by the number of processes
 	- FIFO is not that great when each process no longer runs for the same amount of time. see example below
@@ -29,7 +30,7 @@ Process Control Block - Stores the state of processes.
 	- run shortest job first, then next shortest, and so on
 	- non-preemptive scheduler 
 - Shortest time to completion (STFC)
-		- pretty much adding preemptive to shortest job first 
+		- pretty much adding preemptive to shortest job first. Preemptive refer to paper 
 - Pre-emptive vs nonemptive scheduling
 	- Preemptive scheduling
 	- When a process switches from running state to ready state or block/wait state to ready state. Resources are assigned to the process for a particular time and then removed. If the resources have remaining burst time, process is placed back into ready queue until it is given the chance to execute again 
