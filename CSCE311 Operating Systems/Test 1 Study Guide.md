@@ -32,4 +32,5 @@ Process Control Block - Stores the state of processes.
 	- A process can move from a running state to ready state if it needs to wait for a resource to become avaliable or due to priority issues when another process is assigned that has higher priority. 
 	- Nonemptive scheduling
 		- Processes in their ready state are queued waiting to be ran and executed. Processes are ran one at a time and hae to wait on each other. Ignores arrival time pretty much. Example of this is fcfs 
-- 
+- Round Robin 
+	- proccesses run for a fixed time 
