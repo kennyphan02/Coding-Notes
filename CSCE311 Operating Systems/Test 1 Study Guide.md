@@ -16,6 +16,9 @@ Process Control Block - Stores the state of processes.
 	- Burst time = completion time - waiting time 
 - Performance metric: fairness
 	- often at odds
+
+- Performance metric: Waiting time 
+	- waiting time = turnaround time - burst time 
 - First in, First out (FIFO)
 	- also known as FCFS (First come, first served)
 	![[Pasted image 20230918134558.png]]
@@ -25,7 +28,8 @@ Process Control Block - Stores the state of processes.
 - Shortest Job First (SJF)
 	- run shortest job first, then next shortest, and so on
 	- non-preemptive scheduler 
-
+- Shortest time to completion (STFC)
+		- pretty much adding preemptive to shortest job first 
 - Pre-emptive vs nonemptive scheduling
 	- Preemptive scheduling
 	- When a process switches from running state to ready state or block/wait state to ready state. Resources are assigned to the process for a particular time and then removed. If the resources have remaining burst time, process is placed back into ready queue until it is given the chance to execute again 
@@ -33,4 +37,4 @@ Process Control Block - Stores the state of processes.
 	- Nonemptive scheduling
 		- Processes in their ready state are queued waiting to be ran and executed. Processes are ran one at a time and hae to wait on each other. Ignores arrival time pretty much. Example of this is fcfs 
 - Round Robin 
-	- proccesses run for a fixed time 
+	- proccesses run for a fixed time before moving on to the next process based on the quantum. 
