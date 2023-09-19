@@ -48,8 +48,8 @@ Process Control Block - Stores the state of processes.
 - # Paging
 	- Paging allows a computer to simulate having more RAM than it actually does by utilizing hard disk space.
 	- - A region of virtual memory
-	- Paging splits address space into fixed units called a page (virtual memory)
-	- Physical memory is split into page frames (physical memory)
+	- Paging splits address space into fixed units called a page (blocks of virtual memory)
+	- Physical memory is split into page frames (blocks of physical memory)
 	- Advantages of paging:
 		- flexibility
 		- simplicity - page in address space and page frame are same size. 
