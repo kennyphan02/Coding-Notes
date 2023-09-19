@@ -20,6 +20,7 @@ Process Control Block - Stores the state of processes.
 
 - Performance metric: Waiting time 
 	- waiting time = turnaround time - burst time 
+	- or waiting time = texit - tarrival - burst time 
 - First in, First out (FIFO)
 	- also known as FCFS (First come, first served). nonpreemptive
 	![[Pasted image 20230918134558.png]]
