@@ -90,3 +90,6 @@ Process Control Block - Stores the state of processes.
 		- 1 KB = 2^10 bytes 8 = 2^3 bytes = 2^13 bytes this is the offset number for a virtual address.
 	- c. If a single level page table is used, what is the maximum number of entries in this table?
 		- We know 39 bits are required from answer A. and 13 bits is the offset number. That means the max number of entries would be 2^26 
+
+- Page Replacement Table 
+	- 
