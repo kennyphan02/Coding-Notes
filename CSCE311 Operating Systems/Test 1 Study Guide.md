@@ -43,3 +43,17 @@ Process Control Block - Stores the state of processes.
 - Priority Scheduling
 	- 1. Low number = high priority
 	- 2. preemptive
+
+
+- Paging
+	- - A region of virtual memory
+	- Paging splits address space into fixed units called a page (virtual memory)
+	- Physical memory is split into page frames (physical memory)
+	- Advantages of paging:
+		- flexibility
+		- simplicity - page in address space and page frame are same size. 
+	- Two components in virtual address:
+		- VPN: virtual page number
+		- Offset: offset within the page 
+	- Page tables can get large (32 bit address space)
+		- stored in memory
