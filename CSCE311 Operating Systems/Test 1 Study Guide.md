@@ -57,3 +57,15 @@ Process Control Block - Stores the state of processes.
 		- Offset: offset within the page 
 	- Page tables can get large (32 bit address space)
 		- stored in memory
+		- page tables maps virtual page numbers (VPN) to physical frame numbers 
+			- Page table is a data structure that maps virtual address to physical address with an array
+		- pages: small sized chunks (powers of 2) of virtual address space. Each is gonna be stuck in a physical frame
+	- Common flags of page table entry
+		- valid bit - valid transition
+			- protection bit - tells where page could be read from, written to, or executed from
+			- present bit - tells if page is in physical memory or on disk
+			- dirty bit - tells if page has been modified
+			- reference bit - indiciates page has been acccessed 
+	- Page table entry
+		- to find pte, need to know the starting location of the pte
+		- paging requires to perform one extra memory referenec 
