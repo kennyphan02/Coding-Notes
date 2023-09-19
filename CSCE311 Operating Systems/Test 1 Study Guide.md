@@ -92,4 +92,9 @@ Process Control Block - Stores the state of processes.
 		- We know 39 bits are required from answer A. and 13 bits is the offset number. That means the max number of entries would be 2^26 
 
 - Page Replacement Table 
-	- 
+	- Page faults: count the amount of numbers that appear in the table
+	- Page frame tables and reference string 
+	- FIFO approach
+		- Replace the one that has been in queue the longest.
+	- OPT/MIN approach
+		- Replace the page that will be referenced furthest in the future or not at all
