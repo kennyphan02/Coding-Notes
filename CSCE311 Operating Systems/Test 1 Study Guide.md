@@ -70,4 +70,16 @@ Process Control Block - Stores the state of processes.
 	- Page table entry
 		- entry in a page table that stores information about a page of memory. can contain information such as the different flags listed above. (protection, present, dirty, and reference)
 		- to find pte, need to know the starting location of the pte
-		- paging requires to perform one extra memory referenec 
+		- paging requires to perform one extra memory reference
+- Standard Convention for binary prefixes
+	- 1 KB = 2^10 Bytes 
+	- 1 MB = 2^20 Bytes
+	- 1 GB = 2^30 Bytes
+	- 1 Tb = 2^40 Bytes
+
+
+- 1. Consider a 64-bit architecture machine where physical memory is 128GB. 
+	- a. If we would like to run processes as big as 512GB how many bits would be required for the logical address? 
+		- 1 GB = 2^30 bytes  512 = 2^9 bytes   =  2^39 bytes 
+	- b. If we are using pages of size 8KB, how many bits are needed for displacement into a page?****
+		- 1 KB = 2^10 bytes 8 = 2^3 bytes = 2^13 bytes 
