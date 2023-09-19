@@ -26,7 +26,10 @@ Process Control Block - Stores the state of processes.
 	- run shortest job first, then next shortest, and so on
 	- non-preemptive scheduler 
 
-Pre-emptive vs nonemptive scheduling
-- Preemptive scheduling
+- Pre-emptive vs nonemptive scheduling
+	- Preemptive scheduling
 	- When a process switches from running state to ready state or block/wait state to ready state. Resources are assigned to the process for a particular time and then removed. If the resources have remaining burst time, process is placed back into ready queue until it is given the chance to execute again 
 	- A process can move from a running state to ready state if it needs to wait for a resource to become avaliable or due to priority issues when another process is assigned that has higher priority. 
+	- Nonemptive scheduling
+		- Processes in their ready state are queued waiting to be ran and executed. Processes are ran one at a time and hae to wait on each other. Ignores arrival time pretty much. Example of this is fcfs 
+- 
