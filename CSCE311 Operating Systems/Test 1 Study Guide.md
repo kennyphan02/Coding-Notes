@@ -45,7 +45,8 @@ Process Control Block - Stores the state of processes.
 	- 2. preemptive
 
 
-- Paging
+- # Paging
+	- Paging allows a computer to simulate having more RAM than it actually does by utilizing hard disk space.
 	- - A region of virtual memory
 	- Paging splits address space into fixed units called a page (virtual memory)
 	- Physical memory is split into page frames (physical memory)
@@ -67,5 +68,6 @@ Process Control Block - Stores the state of processes.
 			- dirty bit - tells if page has been modified
 			- reference bit - indiciates page has been acccessed 
 	- Page table entry
+		- entry in a page table that stores information about a page of memory. can contain information such as the different flags listed above. (protection, present, dirty, and reference)
 		- to find pte, need to know the starting location of the pte
 		- paging requires to perform one extra memory referenec 
