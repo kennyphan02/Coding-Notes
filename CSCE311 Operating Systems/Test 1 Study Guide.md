@@ -40,3 +40,6 @@ Process Control Block - Stores the state of processes.
 		- Processes in their ready state are queued waiting to be ran and executed. Processes are ran one at a time and hae to wait on each other. Ignores arrival time pretty much. Example of this is fcfs 
 - Round Robin 
 	- proccesses run for a fixed time before moving on to the next process based on the quantum. 
+- Priority Scheduling
+	- 1. Low number = high priority
+	- 2. preemptive
