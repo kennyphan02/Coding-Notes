@@ -74,7 +74,7 @@ Process Control Block - Stores the state of processes.
 
 - TLB/Page Table
 	- ![[Pasted image 20230919160723.png]]
-	- 
+	- PFN - giant array of page numbers. goes by 8 bytes 
 
 - Standard Convention for binary prefixes
 	- 1 KB = 2^10 Bytes 
