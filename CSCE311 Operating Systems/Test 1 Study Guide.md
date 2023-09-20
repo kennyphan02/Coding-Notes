@@ -106,6 +106,8 @@ Process Control Block - Stores the state of processes.
   - each page table entry is 8 bits. The the 1st bit on the farmost-left is the valid bit. If it is 1, go to the level 2 bit. If its 0, then dont. 
   5aa8 =  101 1010 1010 1000 .  this is split into 5 bits per vpn. it will end up as
      10110  10101  01000    L1 = 22  L2 = 21  offset = 8.   
-     Start at L1. Look at page directory base register. Afterwards, starting from the end of the page count by increments of 2. PDBR = 57 in base 10. Go to page 57. Since L1 = 22, go to index 22 Count from 32 cause its a 32b page size. Shift twice to the leftand decrease the counter by 1. Keep doing it until u reach 22. answer is A7. Convert A7 to binary 
-     A7 = 10100111 = 1 | 0100111 = 39.  The high order bit is the valid bit and the 0100111 is the phys
+     Start at L1. Look at page directory base register. Afterwards, starting from the end of the page count by increments of 2. PDBR = 57 in base 10. Go to page 57. Since L1 = 22, go to index 22 Count from 32 cause its a 32b page size. Shift twice to the leftand decrease the counter by 1. Keep doing it until u reach 22. answer is 0xA7. Convert 0xA7 to binary 
+	     A7 = 10100111 = 1 | 0100111 = 39.  The high order bit is the valid bit and the 0100111 is the physical frame number.
+	     We move on to level 2. We go to page 39. Since L2 = 21 B, start from the right and count to the left (32-21). Answer is 0xC9  =  1| 1001001 = valid bit = 73 base 10 
+	     go to page 73 and use the offset number: 8. start from the left this time though. Start counting at 0 
   
