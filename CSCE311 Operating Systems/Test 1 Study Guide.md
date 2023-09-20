@@ -75,14 +75,11 @@ Process Control Block - Stores the state of processes.
 - TLB/Page Table
 	- ![[Pasted image 20230919160723.png]]
 	- PFN - giant array of page numbers. goes by 8 bytes 
-
 - Standard Convention for binary prefixes
 	- 1 KB = 2^10 Bytes 
 	- 1 MB = 2^20 Bytes
 	- 1 GB = 2^30 Bytes
 	- 1 Tb = 2^40 Bytes
-
-
 - 1. Consider a 64-bit architecture machine where physical memory is 128GB. 
 	- a. If we would like to run processes as big as 512GB how many bits would be required for the logical address? 
 		- 1 GB = 2^30 bytes  512 = 2^9 bytes   =  2^39 bytes.  so 39 bits would be required
@@ -90,7 +87,6 @@ Process Control Block - Stores the state of processes.
 		- 1 KB = 2^10 bytes 8 = 2^3 bytes = 2^13 bytes this is the offset number for a virtual address.
 	- c. If a single level page table is used, what is the maximum number of entries in this table?
 		- We know 39 bits are required from answer A. and 13 bits is the offset number. That means the max number of entries would be 2^26 
-
 - Page Replacement Table 
 	- Page faults: count the amount of numbers that appear in the table
 	- Page frame tables and reference string 
@@ -98,7 +94,6 @@ Process Control Block - Stores the state of processes.
 		- Replace the one that has been in queue the longest.
 	- OPT/MIN approach
 		- Replace the page that will be referenced furthest in the future or not at all
-
 - Paging example:
   ![[Pasted image 20230919224019.png]]
   - 15b virtual address = meaning that the size is 15 bytes (i.e 100 0110 0000 0000)
@@ -110,4 +105,51 @@ Process Control Block - Stores the state of processes.
 	     A7 = 10100111 = 1 | 0100111 = 39.  The high order bit is the valid bit and the 0100111 is the physical frame number.
 	     We move on to level 2. We go to page 39. Since L2 = 21 B, start from the right and count to the left (32-21). Answer is 0xC9  =  1| 1001001 = valid bit = 73 base 10 
 	     go to page 73 and use the offset number: 8. start from the left this time though. Start counting at 0 
-  
+
+
+- CPU/Memory Virtualization
+	- 
+- Why do we keep talking about hardware in an Operating System course?
+- CPU vs. Memory Virtualization which is harder? How does it work? Goals, etc.
+	- Memory virtualization because there is a lot of more data. 
+- Program vs. Process
+	- Program is a set of instrunctions written to perform a task while a process is a running program. Process is started when a program is executed. 
+- Where are processes stored? Programs?
+- Process States: Running, Ready, Blocked
+- PCB
+- Limited Direct Execution (LDE)
+- Stack vs. Heap
+- User vs. Kernel mode and LDE
+- System Call Who makes system calls? Who handles? How do they work?
+- LDE and Hardware
+- Timer Interrupts (Why?)
+- CPU Scheduling approaches (will be done with Gantt charts)
+    - Average Turnaround time vs. Waiting Time vs. Response Time
+    - Preemptive vs. Non-preemptive
+    - I/O and scheduling
+- Address Spaces
+    - Why do we want large virtual address spaces?
+- MMU
+- Base and Bounds
+- Segmentation
+- Segmentation compare/contrast to Base and Bounds
+- Internal vs. External Fragmentation (esp. comparison and explanation for base and bounds, segmentation, paging….)
+- Multiprogramming and Protection and LDE
+- Implicit vs Explicit Segment identification
+- Virtual vs Physical Address
+- Dynamic relocation
+- Segmentation Fault
+- Memory Compaction for _____________ memory virtualization approach
+- Paging: understand in depth
+    - What is Page Table? What is TLB? Why use both? What do they do?
+    - Why is paging good?
+    - Paging and fragmentation?
+    - VPN?
+    - PFN?
+    - Page vs. Frame?
+    - PTBR/PDBR?
+    - PDE vs PTE vs pages of memory
+    - Multi-level paging tradeoffs (memory? Speed?)
+    - What’s stored in Page table entry (PTE?)
+    - Hybrid segmentation/paging approach and segments? External Fragmentation and why?
+    - TLB as a cache: Temporal vs. Spatial locality
