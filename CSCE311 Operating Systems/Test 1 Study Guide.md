@@ -73,6 +73,7 @@ Process Control Block - Stores the state of processes.
 		- entry in a page table that stores information about a page of memory. can contain information such as the different flags listed above. (protection, present, dirty, and reference)
 		- to find pte, need to know the starting location of the pte
 		- paging requires to perform one extra memory reference
+- Page table contains page table entry. Stores information about a particular page of memory. contains information such as the physical address of the page in memory, if page is present in memory or not.
 
 - TLB/Page Table
 	- ![[Pasted image 20230919160723.png]]
