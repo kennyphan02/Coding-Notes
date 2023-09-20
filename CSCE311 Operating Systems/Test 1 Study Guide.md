@@ -98,3 +98,14 @@ Process Control Block - Stores the state of processes.
 		- Replace the one that has been in queue the longest.
 	- OPT/MIN approach
 		- Replace the page that will be referenced furthest in the future or not at all
+
+- Paging example:
+  ![[Pasted image 20230919224019.png]]
+  - 15b virtual address = meaning that the size is 15 bytes (i.e 100 0110 0000 0000)
+  - 5 bits for page directory for L1, 5 bits for L2, 5 bit offset
+  - each page table entry is 8 bits. The the 1st bit on the farmost-left is the valid bit. If it is 1, go to the level 2 bit. If its 0, then dont. 
+  5aa8 =  101 1010 1010 1000 .  this is split into 5 bits per vpn. it will end up as
+     10110  10101  01000    L1 = 22  L2 = 21  offset = 8.   
+     Start at L1. Look at page directory base register. Afterwards, starting from the end of the page count by increments of 2. PDBR = 57 in base 10. Go to page 57. Since L1 = 22, go to index 22 Count from 32 cause its a 32b page size. Shift twice to the leftand decrease the counter by 1. Keep doing it until u reach 22. answer is A7. Convert A7 to binary 
+     A7 = 10100111 = 1 | 0100111 = 39.  The high order bit is the valid bit and the 0100111 is the phys
+  

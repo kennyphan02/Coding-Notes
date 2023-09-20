@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Paging",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,6 +322,7 @@
   },
   "active": "014385a648fb14ef",
   "lastOpenFiles": [
+    "Pasted image 20230919224019.png",
     "Pasted image 20230919160723.png",
     "Pasted image 20230919160716.png",
     "Pasted image 20230918135235.png",
@@ -361,7 +362,6 @@
     "Images/Pasted image 20230424010904.png",
     "Images/Pasted image 20230404191014.png",
     "Images/Pasted image 20230404181938.png",
-    "Images/Pasted image 20230404181053.png",
     "Class_dump_3_22 (1).zip",
     "Design Patterns",
     "Kotlin-Android-Studio/Testing"
