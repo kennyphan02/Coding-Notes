@@ -108,9 +108,11 @@ Process Control Block - Stores the state of processes.
 	     We move on to level 2. We go to page 39. Since L2 = 21 B, start from the right and count to the left (32-21). Answer is 0xC9  =  1| 1001001 = valid bit = 73 base 10 
 	     go to page 73 and use the offset number: 8. start from the left this time though. Start counting at 0 
 
-
+- Memory - an array of bytes
+	- to access memory, one must specify an address to be able to acess the data stored there 
 - CPU/Memory Virtualization
-	- virtualization allows many programs to run 
+	- turning a physical cpu into infinite amounts of virtual cpus allowing many programs to run at once
+	- virtualization allows many programs to run, sharing the cpu/memory 
 - Why do we keep talking about hardware in an Operating System course?
 - CPU vs. Memory Virtualization which is harder? How does it work? Goals, etc.
 	- Memory virtualization because there is a lot of more data. 
