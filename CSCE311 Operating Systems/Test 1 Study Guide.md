@@ -3,6 +3,8 @@ Process Control Block - Stores the state of processes.
 	- New state - This is the state the process will be in while the process creation is taking place 
 	- Ready state - After process creation is completed, the state is changed into the ready state. It is loaded into the main memory and will be placed in the queue of processes which are waiting for CPU allocation.
 	- Running state - when CPU is allocated to the process the states changes to running 
+	- Blocked state - when a process is unable to proceed with its execution because its waiting for some resource to become avaliable. when in blocked state, it is not consuming CPU time and it is paused until the blocking condition is resolved 
+		- One example i/o operations (reading from a file, waiting for user input). process is blocked until i/o operation is completed 
 **CPU Scheduling **
 - Workload Assumptions
 	- Each job runs for the same amount of time
@@ -108,7 +110,7 @@ Process Control Block - Stores the state of processes.
 
 
 - CPU/Memory Virtualization
-	- 
+	- virtualization allows many programs to run 
 - Why do we keep talking about hardware in an Operating System course?
 - CPU vs. Memory Virtualization which is harder? How does it work? Goals, etc.
 	- Memory virtualization because there is a lot of more data. 
