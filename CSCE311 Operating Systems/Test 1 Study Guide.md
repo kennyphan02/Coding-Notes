@@ -118,9 +118,13 @@ Process Control Block - Stores the state of processes.
 	- Memory virtualization because there is a lot of more data. 
 - Program vs. Process
 	- Program is a set of instrunctions written to perform a task while a process is a running program. Process is started when a program is executed. 
-- Where are processes stored? Programs?
-- Process States: Running, Ready, Blocked
+- Where are processes stored? Programs? processes are stored in the computer's ram while programs are stored on the computer's hard drive 
+- Process States: Running, Ready, Blocked 
+	- Running state is when a cpu allocates itself to the process 
+	- ready state is when a process is ready to be executed 
+	- blocked state - when a process is unable to go through its entire execution because its waiting for some resource to be avaliable 
 - PCB
+	- process control block manages the states 
 - Limited Direct Execution (LDE)
 - Stack vs. Heap
 - User vs. Kernel mode and LDE
