@@ -170,15 +170,17 @@ Process Control Block - Stores the state of processes.
 	- memory access on segmented to illegal address 
 - Memory Compaction for _____________ memory virtualization approach
 - Paging: understand in depth
-    - What is Page Table? What is TLB? Why use both? What do they do?
+    - What is Page Table? What is TLB? Why use both? What do they do? tlb - high speed cache. tracks page table entries that have been used hit tells if a entry is present and miss tells if it hasnt. 
     - Why is paging good?
     - Paging and fragmentation?
-    - VPN? vpn is apart of a virtual address that
-    - PFN?
+    - VPN? vpn is apart of a virtual addressS. Depending on how many address bits it have, it tells you how many records a pagemap can have 
+    - PFN? PAGE FRAME NUMBER. used to issue the load to physical memory 
     - Page vs. Frame?
     - PTBR/PDBR?
+	    - ptbr stores base address of a page table 
+	    - pdbr stores base address of a page directory
     - PDE vs PTE vs pages of memory
     - Multi-level paging tradeoffs (memory? Speed?)
-    - What’s stored in Page table entry (PTE?)
+    - What’s stored in Page table entry (PTE?) holds mapping between virtual and physical address 
     - Hybrid segmentation/paging approach and segments? External Fragmentation and why?
     - TLB as a cache: Temporal vs. Spatial locality
