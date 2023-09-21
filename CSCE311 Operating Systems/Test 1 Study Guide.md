@@ -143,6 +143,8 @@ Process Control Block - Stores the state of processes.
 - Timer Interrupts (Why?)
 - CPU Scheduling approaches (will be done with Gantt charts)
     - Average Turnaround time vs. Waiting Time vs. Response Time
+	    - turnaroudn time: exit - arrival / # of processors 
+	    - waiting time: 
     - Preemptive vs. Non-preemptive
     - I/O and scheduling
 - Address Spaces
