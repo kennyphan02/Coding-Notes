@@ -129,6 +129,8 @@ Process Control Block - Stores the state of processes.
 - Limited Direct Execution (LDE)
 	- Direct execution means running the program directly straight onto the CPU. When a program starts running, it creates a process entry in a process list, then allocates memory for it, then loads the program code into memory (from disk), locates entry point, set up stack, clear registers, execute call main(0)
 - Stack vs. Heap
+	- Difference between heap memory and stack memory?
+		Heap is used by all parts of an application and it is where objects are stored in. The stack memory contains the return address to it. heap dynamically allocates mrm
 - User vs. Kernel mode and LDE
 - System Call Who makes system calls? Who handles? How do they work?
 - LDE and Hardware
