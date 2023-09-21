@@ -141,6 +141,7 @@ Process Control Block - Stores the state of processes.
 - LDE and Hardware
 	- 
 - Timer Interrupts (Why?)
+	- OS will start a timer as a way to get control back of the OS 
 - CPU Scheduling approaches (will be done with Gantt charts)
     - Average Turnaround time vs. Waiting Time vs. Response Time
 	    - turnaroudn time: exit - arrival / # of processors 
