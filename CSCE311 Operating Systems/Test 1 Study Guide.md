@@ -152,13 +152,16 @@ Process Control Block - Stores the state of processes.
 - Address Spaces
     - Why do we want large virtual address spaces?
 - MMU
+	- translates virtual addresses to physical addresses 
 - Base and Bounds
 	- inefficient b/c big chunk of free space and takes up physical memory 
 	- OS can relocate any address space anywhere with base and bounds registers. When a program starts running OS decides where in physical memory it should be loaded then sets the *base* register. When contents of base register is added to virtual address, it turns into a physical address. 
 - Segmentation
+	- when a base and bounds register is assigned per logical segment of the address space 
 - Segmentation compare/contrast to Base and Bounds
 - Internal vs. External Fragmentation (esp. comparison and explanation for base and bounds, segmentation, paging….)
 	- external fragmentation - when theres multiple holes of free space
+	- internal fragmentation - allocator hands out chunks of memory bigger than that requested 
 - Multiprogramming and Protection and LDE
 - Implicit vs Explicit Segment identification
 - Virtual vs Physical Address
