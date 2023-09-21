@@ -179,8 +179,15 @@ Process Control Block - Stores the state of processes.
     - PTBR/PDBR?
 	    - ptbr stores base address of a page table 
 	    - pdbr stores base address of a page directory
+	    - Page directory stores a number of 
     - PDE vs PTE vs pages of memory
+    - page directory stores a number of page directory entries 
     - Multi-level paging tradeoffs (memory? Speed?)
+	    - time-space tradeoff 
+	    - advantages: allocates page-table space in proportion to the amount of address space youre using
+	    - efficient use of memory 
     - What’s stored in Page table entry (PTE?) holds mapping between virtual and physical address 
     - Hybrid segmentation/paging approach and segments? External Fragmentation and why?
     - TLB as a cache: Temporal vs. Spatial locality
+	    - temporal locality - an instruction that has been accessed will likely be reaccessed soon in the future
+	    - spatial locality - if a program access at address x, then it will likely soon access memory near x. 
