@@ -130,9 +130,14 @@ Process Control Block - Stores the state of processes.
 	- Direct execution means running the program directly straight onto the CPU. When a program starts running, it creates a process entry in a process list, then allocates memory for it, then loads the program code into memory (from disk), locates entry point, set up stack, clear registers, execute call main(0)
 - Stack vs. Heap
 	- Difference between heap memory and stack memory?
-		Heap is used by all parts of an application and it is where objects are stored in. The stack memory contains the return address to it. heap dynamically allocates mrm
-- User vs. Kernel mode and LDE
+		Heap is used by all parts of an application and it is where objects are stored in. The stack memory contains the return address to it. heap dynamically allocates memory. Stack contains return addresses, variables 
+- User vs. Kernel mode and LDE 
+	- User mode: Applications don't have full access to hardware resources
+		- kernel mode: OS has access to the full resources of the machine 
 - System Call Who makes system calls? Who handles? How do they work?
+	- System call allow the kernel to expose certain key pieces of functionality 
+		- managing processes
+		- accessing memory 
 - LDE and Hardware
 - Timer Interrupts (Why?)
 - CPU Scheduling approaches (will be done with Gantt charts)
@@ -156,7 +161,7 @@ Process Control Block - Stores the state of processes.
     - What is Page Table? What is TLB? Why use both? What do they do?
     - Why is paging good?
     - Paging and fragmentation?
-    - VPN?
+    - VPN? vpn is apart of a virtual address that
     - PFN?
     - Page vs. Frame?
     - PTBR/PDBR?
