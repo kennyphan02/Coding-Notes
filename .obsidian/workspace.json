@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
+                "file": "Kotlin-Android-Studio/Kotlin Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
+                "file": "Kotlin-Android-Studio/Kotlin Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
+                "file": "Kotlin-Android-Studio/Kotlin Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md"
+                "file": "Kotlin-Android-Studio/Kotlin Basics.md"
               }
             }
           },
@@ -321,9 +321,11 @@
   },
   "active": "014385a648fb14ef",
   "lastOpenFiles": [
+    "Kotlin-Android-Studio/RecyclerView.md",
+    "Design Patterns/Observer Pattern.md",
+    "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "CSCE311 Operating Systems/Test 1 Study Guide.md",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
-    "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
     "CSCE311 Operating Systems/CSCE 311 HW 1.md",
     "Pasted image 20230919224019.png",
@@ -353,7 +355,6 @@
     "Kotlin-Android-Studio/Building a Tip Calculator App.md",
     "Kotlin-Android-Studio/App Themes.md",
     "Kotlin-Android-Studio/Adaptive Layouts.md",
-    "Kotlin-Android-Studio/Packages.md",
     "IMG_7237.jpg",
     "IMG_7238.jpg",
     "IMG_7239.jpg",
