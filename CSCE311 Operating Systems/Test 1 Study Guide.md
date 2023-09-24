@@ -179,7 +179,7 @@ Process Control Block - Stores the state of processes.
     - PTBR/PDBR?
 	    - ptbr stores base address of a page table 
 	    - pdbr stores base address of a page directory
-	    - Page directory stores a number of 
+	    - Page directory stores a number of page directory entries 
     - PDE vs PTE vs pages of memory
     - page directory stores a number of page directory entries 
     - Multi-level paging tradeoffs (memory? Speed?)
