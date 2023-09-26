@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Matrices.md",
+                "file": "Linux/Basic commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Matrices.md",
+                "file": "Linux/Basic commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Matrices.md",
+                "file": "Linux/Basic commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Matrices.md"
+                "file": "Linux/Basic commands.md"
               }
             }
           },
@@ -331,8 +331,9 @@
   },
   "active": "7927ce5a2dd16b5b",
   "lastOpenFiles": [
-    "Algorithms/Selection Sort.md",
     "Algorithms/Matrices.md",
+    "Linux/Basic commands.md",
+    "Algorithms/Selection Sort.md",
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
     "Algorithms/Trees/Heaps.md",
     "AVL Trees.md",
@@ -366,7 +367,6 @@
     "CSCE311 Operating Systems",
     "MergeSort.md",
     "Knapsack Problem.md",
-    "Master Theorem.md",
     "Images/IMG_7238.jpg",
     "Images/IMG_7239.jpg",
     "Notes.pdf",
