@@ -4,4 +4,5 @@ Hi my name is kenny phan and i'm a senior majoring in computer science. Over the
 - Trane technologies
 	- https://careers.tranetechnologies.com/global/en/job/2304447/2024-Information-Technology-Intern
 	- Questions:
-		- I took a look As someone who has experience in java and kotlin, 
+		- I took a look at the 2024 it intern job posting on your website As someone who has experience in java and kotlin, How would my skills be relevant to the job? 
+		- How is the interview process? is there a technical interview? 
