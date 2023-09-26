@@ -126,6 +126,18 @@
             }
           },
           {
+            "id": "4eac3ecb529c6c18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career fair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5558f0c83cd02ccb",
             "type": "leaf",
             "state": {
@@ -184,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -258,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Basic commands.md",
+                "file": "Career fair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Basic commands.md",
+                "file": "Career fair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Basic commands.md"
+                "file": "Career fair.md"
               }
             }
           },
@@ -329,10 +341,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7927ce5a2dd16b5b",
+  "active": "4eac3ecb529c6c18",
   "lastOpenFiles": [
-    "Algorithms/Matrices.md",
     "Linux/Basic commands.md",
+    "Career fair.md",
+    "Algorithms/Matrices.md",
     "Algorithms/Selection Sort.md",
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
     "Algorithms/Trees/Heaps.md",
@@ -366,7 +379,6 @@
     "conflict-files-obsidian-git.md",
     "CSCE311 Operating Systems",
     "MergeSort.md",
-    "Knapsack Problem.md",
     "Images/IMG_7238.jpg",
     "Images/IMG_7239.jpg",
     "Notes.pdf",
