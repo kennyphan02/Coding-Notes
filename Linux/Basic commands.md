@@ -11,7 +11,6 @@
 	- Linux shell is case sensitive!
 - LS  (list)
 	- views contents of a current working directory
-	- If you want to see contents of other directories:
-	```
+	- If you want to see contents of other directories:	```
 	ls absolutepath  i.e s /home/kenny
-	```
+	- `ls -r` will list all files in all sub-directories. 
