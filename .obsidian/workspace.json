@@ -138,6 +138,18 @@
             }
           },
           {
+            "id": "97befc7fb1785b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career fair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5558f0c83cd02ccb",
             "type": "leaf",
             "state": {
@@ -196,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -341,7 +353,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eac3ecb529c6c18",
+  "active": "97befc7fb1785b58",
   "lastOpenFiles": [
     "Linux/Basic commands.md",
     "Career fair.md",
