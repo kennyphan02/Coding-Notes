@@ -8,3 +8,5 @@ Hi my name is kenny phan and i'm a senior majoring in computer science. Over the
 		- How is the interview process? is there a technical interview? 
 		- What are some current projects that trane technologies is making that is contributing to improving sustanability? 
 - Schaeffler -wednesday
+	- https://jobs.schaeffler.com/job/Fort-Mill%2C-SC-IT-Co-Op-SC-29715/982599201/ schaeffler it coop program career wednesday
+	- 
