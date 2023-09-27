@@ -7,6 +7,8 @@ Hi my name is kenny phan and i'm a senior majoring in computer science. Over the
 		- I took a look at the 2024 it intern job posting on your website As someone who has experience in java and kotlin, How would my skills be relevant to the job? 
 		- How is the interview process? is there a technical interview? 
 		- What are some current projects that trane technologies is making that is contributing to improving sustanability? 
+		- job opening in nc, davidson
 - Schaeffler -wednesday
 	- https://jobs.schaeffler.com/job/Fort-Mill%2C-SC-IT-Co-Op-SC-29715/982599201/ schaeffler it coop program career wednesday
 	- what technologies are yall looking to make to combat greenhouse gas emissions in the atmosphere? 
+- Windstream 
