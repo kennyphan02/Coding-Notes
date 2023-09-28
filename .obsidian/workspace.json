@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career fair.md",
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career fair.md",
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career fair.md",
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career fair.md"
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md"
               }
             }
           },
@@ -355,8 +355,8 @@
   },
   "active": "97befc7fb1785b58",
   "lastOpenFiles": [
-    "Linux/Basic commands.md",
     "Career fair.md",
+    "Linux/Basic commands.md",
     "Algorithms/Matrices.md",
     "Algorithms/Selection Sort.md",
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
