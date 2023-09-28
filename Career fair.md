@@ -11,4 +11,4 @@ Hi my name is kenny phan and i'm a senior majoring in computer science. Over the
 - Schaeffler -wednesday
 	- https://jobs.schaeffler.com/job/Fort-Mill%2C-SC-IT-Co-Op-SC-29715/982599201/ schaeffler it coop program career wednesday
 	- what technologies are yall looking to make to combat greenhouse gas emissions in the atmosphere? 
-- Windstream 
+- Windstream Elaborate on pair programming and how would it work. what team builder activities are there?
