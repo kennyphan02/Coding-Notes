@@ -1,0 +1,1 @@
+- We can utilize a physical cpu and turn it into multiple virtual cpus through virtualization which allows multiple programs to run at the same time 

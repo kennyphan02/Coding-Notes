@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE490 Notes/Software Development Methodologies.md",
+                "file": "CSCE311 Operating Systems/Concurrency.md",
                 "mode": "source",
                 "source": false
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE490 Notes/Software Development Methodologies.md",
+                "file": "CSCE311 Operating Systems/Concurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE490 Notes/Software Development Methodologies.md",
+                "file": "CSCE311 Operating Systems/Concurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE490 Notes/Software Development Methodologies.md"
+                "file": "CSCE311 Operating Systems/Concurrency.md"
               }
             }
           },
@@ -367,8 +367,10 @@
   },
   "active": "a7599af6aba57a42",
   "lastOpenFiles": [
-    "CSCE490 Notes/Decision-Making Process Workflow.md",
+    "CSCE311 Operating Systems/Untitled 1.md",
+    "CSCE311 Operating Systems/Concurrency.md",
     "CSCE490 Notes/Software Development Methodologies.md",
+    "CSCE490 Notes/Decision-Making Process Workflow.md",
     "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
     "CSCE311 Operating Systems/Test 1 Study Guide.md",
     "Career fair.md",
@@ -399,9 +401,7 @@
     "Images/Pasted image 20230918135235.png",
     "Untitled.md",
     "CSCE490 Notes/Scrum Notes",
-    "Arrays.md",
     "CSCE490 Notes",
-    "conflict-files-obsidian-git.md",
     "CSCE311 Operating Systems",
     "Images/IMG_7238.jpg",
     "Images/IMG_7239.jpg",
