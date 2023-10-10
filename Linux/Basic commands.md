@@ -14,3 +14,11 @@
 	- If you want to see contents of other directories:	```
 	ls absolutepath  i.e s /home/kenny
 	- `ls -r` will list all files in all sub-directories. 
+
+
+- CAT
+	- Concatenation
+	- used to list the contents of a file  (i.e cat file.txt)
+	- Can be used to concatenate files too. 
+	- cat > file.txt creates a new file with content in it
+	- cat file1 file 2 > file3 joins file1 and file2 together and stores the output in file3

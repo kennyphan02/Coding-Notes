@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/Concurrency.md",
+                "file": "Kotlin-Android-Studio/Kotlin Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/Concurrency.md",
+                "file": "Kotlin-Android-Studio/Kotlin Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/Concurrency.md",
+                "file": "Kotlin-Android-Studio/Kotlin Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/Concurrency.md"
+                "file": "Kotlin-Android-Studio/Kotlin Basics.md"
               }
             }
           },
@@ -367,14 +367,16 @@
   },
   "active": "a7599af6aba57a42",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/Untitled 1.md",
+    "Kotlin-Android-Studio/Accessibility.md",
+    "Linux/Basic commands.md",
+    "Arrays.md",
     "CSCE311 Operating Systems/Concurrency.md",
+    "CSCE311 Operating Systems/Untitled 1.md",
     "CSCE490 Notes/Software Development Methodologies.md",
     "CSCE490 Notes/Decision-Making Process Workflow.md",
     "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
     "CSCE311 Operating Systems/Test 1 Study Guide.md",
     "Career fair.md",
-    "Linux/Basic commands.md",
     "Algorithms/Matrices.md",
     "Algorithms/Selection Sort.md",
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
@@ -397,9 +399,7 @@
     "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
-    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
     "Images/Pasted image 20230918135235.png",
-    "Untitled.md",
     "CSCE490 Notes/Scrum Notes",
     "CSCE490 Notes",
     "CSCE311 Operating Systems",
