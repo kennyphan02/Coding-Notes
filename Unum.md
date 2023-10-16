@@ -1,1 +1,1 @@
-Unum is an insurance company that provides insurance products to 
+Unum is an insurance company that specializes in providing insurance products with a focus on disability insurance 
