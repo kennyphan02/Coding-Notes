@@ -47,7 +47,7 @@ what makes me happiest when working with others is that i maintain some sort of 
 
 **What goals have you set for yourself in the past?  How do these fit you with your goals for the future?  Have you been able to reach the goals you have set for yourself to date?**
 
-One of the goals ive set myself in the past is being a good leader when it came to any subject. Being a leader comes with many goals within it and there were many key areas that I keep in the back of my mind on a day to day basis such as being able to manage conflict and decision-making. I tend to self-reflect often at the end of every day noticin
+One of the goals ive set myself in the past is being a good leader when it came to any subject. Being a leader comes with many goals within it and there were many key areas that I keep in the back of my mind on a day to day basis such as being able to manage conflict and decision-making. I tend to self-reflect often at the end of every day recognizing the decisions i've made and how I could improve in some areas as I strive for improvement everyday. Over the past couple years I would say that I've made significant progress in terms of making rational decision-making and being able to manage conflict within my friendships, relationships, and peers I've worked with in a business setting. Being a well-rounded individual and knowing how to communicate and make decisions is important for my future goals.
 
 
 
