@@ -40,11 +40,14 @@ One of the major goals of mine after I graduate is to
 I used to work in a 4-man group project for my software engineering class where we had to create an internship system console application. I was responsible for coding the 4 main user stories of our application as that was a requirement for our project along with being the scrum master and ensuring that deadlines were being met. I had another team member that was responsible for creating the backbone of our application by creating the data and singleton classes that contained information such as holding the data of the different internships and user login information. While I was coding the user stories using the data and singleton classes, I encountered bugs that were due to improper functionality within these classes. We were approaching a strict deadline so I was communicating with them about the bugs I found and that it needed to be fix as soon as he can and he went ahead and fixed them. I was able to code the test cases afterwards and it really taught me that team communication is essential.
 Start RecordingRecord
 
+**What makes you the happiest and most effective when working with others?**
+what makes me happiest when working with others is that i maintain some sort of personal relationship with my peers. I think its important that theyre just not employees; they are also humans that youre gonna be working with on a day to day basis. by establishing a healthy relationship with my peers it helps me learn and grow in an environment where i can perform to the best of my ability
 
 
 
+**What goals have you set for yourself in the past?  How do these fit you with your goals for the future?  Have you been able to reach the goals you have set for yourself to date?**
 
-
+One of the goals ive set myself in the past is being a good leader when it came to any subject. Being a leader comes with many goals within it and there were many key areas that I keep in the back of my mind on a day to day basis such as being able to manage conflict and decision-making. I tend to self-reflect often at the end of every day noticin
 
 
 
