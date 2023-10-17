@@ -37,7 +37,7 @@ One of the major goals of mine after I graduate is to
 
 **When was a time you faced a challenge and overcame a setback? What happened in that situation? What did you learn from the experience?**
 
-I used to work in a 4-man group project for my software engineering class where we had to create an internship system console application. I was responsible for coding the 4 main user stories of our application as that was a requirement for our project along with being the scrum master and ensuring that deadlines were being met. I had another team member that was responsible for creating the backbone of our application by creating the data and singleton classes that contained information such as 
+I used to work in a 4-man group project for my software engineering class where we had to create an internship system console application. I was responsible for coding the 4 main user stories of our application as that was a requirement for our project along with being the scrum master and ensuring that deadlines were being met. I had another team member that was responsible for creating the backbone of our application by creating the data and singleton classes that contained information such as holding the data of the different internships and user login information. While I was coding the user stories using the data and singleton classes, I encountered bugs that were due to improper functionality within these classes. We were approaching a strict deadline so I was communicating with them about the bugs I found and that it needed to be fix as soon as he can and he went ahead and fixed them. I was able to code the test cases afterwards and it really taught me that team communication is essential.
 Start RecordingRecord
 
 
