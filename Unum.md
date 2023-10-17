@@ -1,6 +1,6 @@
 Unum is an insurance company that specializes in providing insurance products with a focus on disability insurance 
 
-I would love to work for UNUM considering my qualities as a fast-paced learner and the culture I would love to express and share among people that i'm surrounded by.  With the past team projects I've worked on in school for software development as a scrum master and a coder I enjoy being in a environment where I get to cooperate with my teammates and ensure that deadlines are being met. 
+I would love to work for UNUM considering my qualities as a fast-paced learner and the culture I would love to express and share among people that i'm surrounded by.  With the past team projects I've worked on in school for software development as a scrum master, ui/ux designer and a coder I enjoy being in a environment where I get to cooperate with my teammates.  This IT intern position would allow me to apply my skills as being a strategic and tactical thinker for projects i'll be working on which would ultimately help me develop my growth as an individual and learn new technologies and concepts by the day. 
 
 questions: 
 What technologies and tools will i be using during my internship?
@@ -15,3 +15,6 @@ could you provide more information regarding community service activities?
 
 
 Questions
+
+
+I grew up in columbia, south carolina my entire life and university of south carolina was my first choice for college because I chose to live with my parents due to financial reasons and wanting to to take care of my family as they are getting old. I value family as important as education so I would want to commute from home so I can get to see them more often. The reason why i chose computer science as my major is pretty cool i would like to think. I've been freelancing as a video editor in high school and I would work with adobe products producing videos for different clients. Part of the production process included utilizing java expressions to produce
