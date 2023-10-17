@@ -28,3 +28,30 @@ For campus involvement i am apart of the vietnamese student organization along w
 
 
 Going back to what i said about being the director of visual arts for a business, it has helped me think both tactically and strategically when it came to achieving our clients needs and goals and ultimately setting the business forward. Utilizing our clients feedback to hone in a higher quality product has helped improve my relationships with the people on my team and with our client too. These skills would carry over being an IT intern at unum where I get to work and collaborate with other team members. What excites me most is the different technologies I would get to work with and grow as an indivdual from learning. Looking at the past intern projects, one of them included prototyping and working with a scrum team to perpare documentation and implement multiple products. As someone who was responsible for being the UI/UX designer and scrum master for a group project in a software engineering class, I would love to establish my skills in this position so that I get to improve as a learner. 
+
+**Do you have any post-graduation goals?**
+	On top of constantly learning new technologies, A major goal of mine is that Id like to be with a company where i feel a sense of security and loyalty and being passionate about what im doing. I like the feeling of making a positive contribution for the company I work for. 
+One of the major goals of mine after I graduate is to 
+
+
+
+**When was a time you faced a challenge and overcame a setback? What happened in that situation? What did you learn from the experience?**
+
+I used to work in a 4-man group project for my software engineering class where we had to create an internship system console application. I was responsible for coding the 4 main user stories of our application as that was a requirement for our project along with being the scrum master and ensuring that deadlines were being met. I had another team member that was responsible for creating the backbone of our application by creating the data and singleton classes that contained information such as 
+Start RecordingRecord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
