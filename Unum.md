@@ -1,6 +1,6 @@
 Unum is an insurance company that specializes in providing insurance products with a focus on disability insurance 
 
-I would love to work for UNUM considering my qualities as a fast-paced learner and the culture I would love to express and share among people that i'm surrounded by. 
+I would love to work for UNUM considering my qualities as a fast-paced learner and the culture I would love to express and share among people that i'm surrounded by.  With the past team projects I've worked on in school for software development as a scrum master and a coder I enjoy being in a environment where I get to cooperate with my teammates and ensure that deadlines are being met. 
 
 questions: 
 What technologies and tools will i be using during my internship?
