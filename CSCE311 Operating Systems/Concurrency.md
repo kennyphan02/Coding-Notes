@@ -8,3 +8,7 @@ A single thread contains a program counter that tracks where the program is fetc
 	- To store the states of the threads, a ***thread control block*** is needed to store the state of each thread of a process
 	- Address space remains the same when we do a context switch 
 	- Threads share the same address space and access the same data 
+![[Pasted image 20231018194241.png]]
+- The address space on the left represents a single thread process where it only contain one stack. The address space on the right represents a multi threaded process where theres 2 stacks. Any variables stored on the stack will be placed in a ***thread-local storage***, the stack of the relevant thread.
+### Why Use Threads?
+
