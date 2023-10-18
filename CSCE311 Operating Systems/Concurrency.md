@@ -7,3 +7,4 @@ A single thread contains a program counter that tracks where the program is fetc
 	- If 2 threads are running on a single processor, when switching from one thread to another, a **context switch** must take place. Register state of thread 1 must be saved and register state of thread 2 restored before running thread 2. 
 	- To store the states of the threads, a ***thread control block*** is needed to store the state of each thread of a process
 	- Address space remains the same when we do a context switch 
+	- Threads share the same address space and access the same data 

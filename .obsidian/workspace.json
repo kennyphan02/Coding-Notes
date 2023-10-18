@@ -177,9 +177,11 @@
             "id": "326597e70fe55dcc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "CSCE311 Operating Systems/Concurrency.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -316,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unum.md",
+                "file": "CSCE311 Operating Systems/Concurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unum.md",
+                "file": "CSCE311 Operating Systems/Concurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unum.md"
+                "file": "CSCE311 Operating Systems/Concurrency.md"
               }
             }
           },
