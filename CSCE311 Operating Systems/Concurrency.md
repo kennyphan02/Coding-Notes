@@ -23,3 +23,6 @@ A single thread contains a program counter that tracks where the program is fetc
 Threads can be created and ran immeaditely after creation. Threads can wait until another thread is created before running. The ***OS scheduler*** is responsible for the order of thread creation. 
 ![[Pasted image 20231020175155.png]]
 - This program counts *upwards* to 2,000,000 due to using 2 threads. Sometimes the program doesn't go all the way up to 2,000,000 and produces a counter of say, 1,987,354.
+- ***Data race*** - results depend on the timing execution of the code. The result of the program above is inconsistent and is known as indeterminate. Multiple threads executing this code can cause a data race and this is known as a ***critical section***. 
+- ***Critical Section*** - a piece of code that is shared that must not be concurrently executed by more than one thread. 
+- Solution to fixing the issue of causing a data race: implement ***mutual exclusion***. If one thread is being executed within the critical section, prevent the other threads from running, 
