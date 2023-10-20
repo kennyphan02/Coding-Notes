@@ -25,7 +25,7 @@ Threads can be created and ran immeaditely after creation. Threads can wait unti
 - This program counts *upwards* to 2,000,000 due to using 2 threads. Sometimes the program doesn't go all the way up to 2,000,000 and produces a counter of say, 1,987,354.
 - ***Data race*** - results depend on the timing execution of the code. The result of the program above is inconsistent and is known as indeterminate. Multiple threads executing this code can cause a data race and this is known as a ***critical section***. 
 - ***Critical Section*** - a piece of code that is shared that must not be concurrently executed by more than one thread. 
-	- a piece of code that s
+	- a piece of code that accesses a shared variable/resource. 
 - Solution to fixing the issue of causing a data race: implement ***mutual exclusion***. If one thread is being executed within the critical section, prevent the other threads from running.
 	- Atomicity
 	- Solution: Synchronization primitives - hardware support + help from the OS will help us build multi-threaded code that accesses critical sections in a controlled manner. 
