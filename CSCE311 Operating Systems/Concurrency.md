@@ -15,3 +15,9 @@ A single thread contains a program counter that tracks where the program is fetc
 	- Example: Incrementing each integer of a large array by one on a single-thread process is straightforward. iterate through the array one by one; However, utilizing multiple threads allows one to speed up the process of this by using multiple CPUs. This is called ***parallelization***. 
 - Avoid blocking program progress due to slow I/O
 	- Example: waiting to receive a message. Instead of waiting, by utilizing threads, a program can do something else like utilizing the CPU to perform computation. 
+
+
+### More information about threads
+- Given a sequence of instructions within two threads, there are different possibilities. For instance:
+-![[Pasted image 20231020145057.png]]
+Threads can be created and ran immeaditely after creation. Threads can wait until another thread is created before running. The ***OS scheduler*** is responsible for the order of thread creation. 
