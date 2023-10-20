@@ -21,3 +21,5 @@ A single thread contains a program counter that tracks where the program is fetc
 - Given a sequence of instructions within two threads, there are different possibilities. For instance:
 -![[Pasted image 20231020145057.png]]
 Threads can be created and ran immeaditely after creation. Threads can wait until another thread is created before running. The ***OS scheduler*** is responsible for the order of thread creation. 
+![[Pasted image 20231020175155.png]]
+- This program counts *upwards* to 2,000,000 due to using 2 threads. Sometimes the program doesn't go all the way up to 2,000,000 and produces a counter of say, 1,987,354.
