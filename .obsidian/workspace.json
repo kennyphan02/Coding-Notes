@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHP 27 Thread API.md",
+                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
                 "mode": "source",
                 "source": false
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHP 27 Thread API.md",
+                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHP 27 Thread API.md",
+                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHP 27 Thread API.md"
+                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md"
               }
             }
           },
@@ -404,7 +404,7 @@
   "active": "1ddd9f8354379cdc",
   "lastOpenFiles": [
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
-    "CHP 27 Thread API.md",
+    "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
     "Pasted image 20231020175155.png",
     "Pasted image 20231020145057.png",
     "Pasted image 20231020145049.png",
