@@ -179,7 +179,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/Concurrency.md",
+                "file": "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ddd9f8354379cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHP 27 Thread API.md",
                 "mode": "source",
                 "source": false
               }
@@ -244,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -302,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307.5
   },
   "right": {
     "id": "23f9c1ae56db8504",
@@ -318,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/Concurrency.md",
+                "file": "CHP 27 Thread API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/Concurrency.md",
+                "file": "CHP 27 Thread API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/Concurrency.md"
+                "file": "CHP 27 Thread API.md"
               }
             }
           },
@@ -389,8 +401,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "326597e70fe55dcc",
+  "active": "1ddd9f8354379cdc",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
+    "CHP 27 Thread API.md",
     "Pasted image 20231020175155.png",
     "Pasted image 20231020145057.png",
     "Pasted image 20231020145049.png",
@@ -401,7 +415,6 @@
     "Kotlin-Android-Studio/Accessibility.md",
     "Linux/Basic commands.md",
     "Arrays.md",
-    "CSCE311 Operating Systems/Concurrency.md",
     "CSCE311 Operating Systems/Untitled 1.md",
     "CSCE490 Notes/Software Development Methodologies.md",
     "CSCE490 Notes/Decision-Making Process Workflow.md",
@@ -431,7 +444,6 @@
     "CSCE490 Notes/Scrum Notes",
     "CSCE490 Notes",
     "CSCE311 Operating Systems",
-    "Images/IMG_7238.jpg",
     "Notes.pdf",
     "Class_dump_3_22 (1).zip",
     "Design Patterns",
