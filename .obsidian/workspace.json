@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
+                "file": "CSCE490 Notes/Software Development Methodologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
+                "file": "CSCE490 Notes/Software Development Methodologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
+                "file": "CSCE490 Notes/Software Development Methodologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md"
+                "file": "CSCE490 Notes/Software Development Methodologies.md"
               }
             }
           },
@@ -401,8 +401,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "1ddd9f8354379cdc",
   "lastOpenFiles": [
+    "Recurrence Relations.md",
     "Untitled",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
@@ -430,7 +431,6 @@
     "Linux",
     "Time Complexity.md",
     "Software Test Case Documentation.md",
-    "Recurrence Relations.md",
     "Resource Annotations.md",
     "Images/IMG_7237.jpg",
     "Images/Pasted image 20230918134558.png",
