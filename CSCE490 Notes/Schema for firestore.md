@@ -4,12 +4,20 @@ This is a bit further down the line when we start coding but I was thinking for 
 users 
 	user
 		id (from firebase auth that holds the username and password)
-		display name
+		display name: "Kenny"
 
 rewards
-	reward
-		id
-		name
-		cost
-		description
-		due date
+	reward: 
+		id: 001
+			name: Crayons
+			points: 200
+			description: Good for coloring
+			avaliable: yes
+
+tasks
+	task
+		id: 21dkoik
+			name: Wash dishes
+			description: dishes are dirty. needs to be washed
+			points: 300
+		
