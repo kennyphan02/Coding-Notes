@@ -2,22 +2,24 @@ This is a bit further down the line when we start coding but I was thinking for 
 
 
 users 
-	user
+	Kenny
 		id (from firebase auth that holds the username and password)
-		display name: "Kenny"
 
 rewards
-	reward: 
+	Crayons 
 		id: 001
-			name: Crayons
-			points: 200
-			description: Good for coloring
-			avaliable: yes
+		points: 200
+		description: Good for coloring
+		avaliable: yes
+	Markers
+		id: 002
+		points: 100
+		description: yummy dessert
+		avaliable: yes
 
 tasks
-	task
-		id: 21dkoik
-			name: Wash dishes
-			description: dishes are dirty. needs to be washed
-			points: 300
+	Wash dishes
+		id: 003
+		description: dishes are dirty. needs to be washed
+		points: 300
 		
