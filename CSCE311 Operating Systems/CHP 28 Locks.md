@@ -25,6 +25,17 @@ Pthread_mutex_unlock(&lock);
 Basic criteria:
 - mutual exclusion - multiple threads can't be entered in a critical section at the same time.
 - fairness - does each thread contending for the lock get a fair shot at acquiring it once it's free? (balanced)
-- performance -
+- performance
 
+### Implementing a Spin Lock using a Test-and-Set
+```C
+int TestAndSet(int *old_ptr, int new) { 
+	int old = *old_ptr; // fetch old value at old_ptr
+	*old_ptr = new; // store ’new’ into old_ptr 
+	return old; // return the old value 5 
+	}
+
+```
+![[Pasted image 20231023190651.png]]
+Initializing the lock. Lock's flag is equal to 0. When we call the lock() method, the thread calls testandset method. We keep the
 
