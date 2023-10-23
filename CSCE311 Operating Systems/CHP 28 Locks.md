@@ -45,4 +45,6 @@ If another thread calls the lock, it will be spinning until the lock is released
 
 ### Evaluating spin locks
 - correctness - provides mutual exclusion
+- fairness - doesn't provide fairness since a thread may be spinning forever
+- performance - spin locks don't work well on a single cpu, but does on multiple cpus. 
 
