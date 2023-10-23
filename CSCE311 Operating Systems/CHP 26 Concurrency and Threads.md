@@ -27,5 +27,5 @@ Threads can be created and ran immeaditely after creation. Threads can wait unti
 - ***Critical Section*** - a piece of code that is shared that must not be concurrently executed by more than one thread. 
 	- a piece of code that accesses a shared variable/resource. 
 - Solution to fixing the issue of causing a data race: implement ***mutual exclusion***. If one thread is being executed within the critical section, prevent the other threads from running.
-	- Atomicity
+	- Atomicity - means that executing a sequence of instructions that can't be interrupted. 
 	- Solution: Synchronization primitives - hardware support + help from the OS will help us build multi-threaded code that accesses critical sections in a controlled manner. 
