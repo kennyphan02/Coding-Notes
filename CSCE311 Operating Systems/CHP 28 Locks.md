@@ -37,5 +37,12 @@ int TestAndSet(int *old_ptr, int new) {
 
 ```
 ![[Pasted image 20231023190651.png]]
-Initializing the lock. Lock's flag is equal to 0. When we call the lock() method, the thread calls testandset method. We keep the
+Initializing the lock. Lock's flag is equal to 0. When we call the lock() method, the thread calls testandset method. We keep the current flag value (which is 0) to an `int old` and set the current's flag value to 1. We return the old value of the flag so that we dont spin in the while loop. Thread atomatically sets the value to 1 within the testandset method. 
+If another thread calls the lock, it will be spinning until the lock is released. Then this thread holds the lock. 
+- By making both the test (of the old lock value) and set (of the new lock value) a single atomic operation, we ensure one thread acquires the lock.
+- locks spin using CPU cycles until the lock becomes avaliable. 
+- To work correctly on a single processor it requires a preemptive scheduler (one that will interrupt a thread via a timer, in order to run from a different thread) without preemption, spin locks don't make much sense on a single CPU, as a thread spinning on a CPU will never relinquish it. 
+
+### Evaluating spin locks
+- correctness - provides mutual exclusion
 
