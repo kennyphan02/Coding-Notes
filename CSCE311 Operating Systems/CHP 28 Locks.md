@@ -7,3 +7,24 @@
 	- If another thread tries to call the lock() on that same lock variable, it will not return. 
 - ***unlock()*** . Unlocks the lock. If no other threads are waiting for the lock it will change to a free state; However, if other threads are waiting for the lock to be unlocked, The next thread will accquire the lock and enter the critical section. 
 - *Important*: Threads are scheduled by the OS. We use locks to have some control of scheduling. 
+
+### Pthread locks
+- name that POSIX library uses for a lock is mutex as it is used to provide mutual exclusion between threads. (means once one thread is in the critical section other threads are prevented from entering the critical section)
+-```
+```
+pthread_mutex_t lock = PTHREAD_MUTEX_INITIALIZER; 
+Pthread_mutex_lock(&lock); // wrapper; exits on failure 
+balance = balance + 1; 
+Pthread_mutex_unlock(&lock);
+```
+- Passes the variable `lock` to lock and unlock. We can have multiple locks to protect different variables. This increases concurrency. 
+- ***Coarse Grained Strategy*** - using one big lock any time when a critical section is accessed
+- ***Fine Grained Approach*** - using multiple locks to protect different variables and allowing more threads to be in locked code at once
+
+### More about locks
+Basic criteria:
+- mutual exclusion - multiple threads can't be entered in a critical section at the same time.
+- fairness - does each thread contending for the lock get a fair shot at acquiring it once it's free? (balanced)
+- performance -
+
+
