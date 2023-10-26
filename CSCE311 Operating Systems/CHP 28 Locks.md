@@ -49,5 +49,9 @@ If another thread calls the lock, it will be spinning until the lock is released
 - performance - spin locks don't work well on a single cpu, but does on multiple cpus. 
 
 
-	- Spin locks can be deemed inefficient. Imagine that a thread acquires a lock and it is in the critical section and gets interrupted. A second thread can try to acquire the lock but finds that it is held. it will forever spin and spin. A timer interrupt goes off where thread 0 is run again which releases the lock. How can we develop a lock that doesn't needlessly waste time spinning on the CPU 
+	- Spin locks can be deemed inefficient. Imagine that a thread acquires a lock and it is in the critical section and gets interrupted. A second thread can try to acquire the lock but finds that it is held. it will forever spin and spin. A timer interrupt goes off where thread 0 is run again which releases the lock. How can we develop a lock that doesn't needlessly waste time spinning on the CPU?
+
+### How do we prevent spinning on threads?
+Give up the cpu to another thread. We call the yield() method which a thread can call to give up the CPU and let another thread run. 
+- A thread can be in 1 of 3 states, (running, ready, or blocked). Yield is a system call that changes the state of a thread from running to ready. The thread ***deschedules*** itself. 
 
