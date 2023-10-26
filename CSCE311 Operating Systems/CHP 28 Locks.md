@@ -48,3 +48,6 @@ If another thread calls the lock, it will be spinning until the lock is released
 - fairness - doesn't provide fairness since a thread may be spinning forever
 - performance - spin locks don't work well on a single cpu, but does on multiple cpus. 
 
+
+	- Spin locks can be deemed inefficient. Imagine that a thread acquires a lock and it is in the critical section and gets interrupted. A second thread can try to acquire the lock but finds that it is held. it will forever spin and spin. A timer interrupt goes off where thread 0 is run again which releases the lock. How can we develop a lock that doesn't needlessly waste time spinning on the CPU 
+

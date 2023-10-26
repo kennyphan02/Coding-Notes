@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
+                "file": "CSCE311 Operating Systems/CHP 28 Locks.md",
                 "mode": "source",
                 "source": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
+                "file": "CSCE311 Operating Systems/CHP 28 Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
+                "file": "CSCE311 Operating Systems/CHP 28 Locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md"
+                "file": "CSCE311 Operating Systems/CHP 28 Locks.md"
               }
             }
           },
@@ -341,8 +341,8 @@
   },
   "active": "e4d0f718a2ff9410",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
+    "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
     "Pasted image 20231023190651.png",
     "CSCE311 Operating Systems/CSCE 311 HW 1.md",
