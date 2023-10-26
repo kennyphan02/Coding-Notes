@@ -54,4 +54,6 @@ If another thread calls the lock, it will be spinning until the lock is released
 ### How do we prevent spinning on threads?
 Give up the cpu to another thread. We call the yield() method which a thread can call to give up the CPU and let another thread run. 
 - A thread can be in 1 of 3 states, (running, ready, or blocked). Yield is a system call that changes the state of a thread from running to ready. The thread ***deschedules*** itself. 
+- With two threads, this works well. If 1 thread calls lock() and another thread calls lock() and finds that it is held, it will yield the CPU. 
+- With 100 threads though, 99 will execute the run and yield pattern before the thread holding the lock gets to run again
 
