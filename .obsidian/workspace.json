@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
+                "file": "CSCE490 Notes/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
+                "file": "CSCE490 Notes/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
+                "file": "CSCE490 Notes/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/exam 2 study guide.md"
+                "file": "CSCE490 Notes/Git.md"
               }
             }
           },
@@ -341,9 +341,10 @@
   },
   "active": "e4d0f718a2ff9410",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/exam 2 study guide.md",
+    "CSCE490 Notes/Git.md",
     "Pasted image 20231028060512.png",
     "CSCE311 Operating Systems/CHP 28 Locks.md",
-    "CSCE311 Operating Systems/exam 2 study guide.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
     "Pasted image 20231023190651.png",
@@ -379,7 +380,6 @@
     "Images/Pasted image 20230918134558.png",
     "Images/Pasted image 20230919160716.png",
     "Images/Pasted image 20230919160723.png",
-    "Images/Pasted image 20230919224019.png",
     "CSCE490 Notes/Scrum Notes",
     "CSCE490 Notes",
     "CSCE311 Operating Systems",
