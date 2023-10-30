@@ -13,7 +13,6 @@ B. to figure this out, we need to utilize the need matrix and take a look at our
 
 ### Resource Allocation Chart
 A set of vertices V and a set of edges E
-claim edge - Process has an edge to a resource  
 ![[Pasted image 20231029224632.png]]
 - If a graph contains no cycles, there is no deadlock
 - if a graph contains a cycle, 
@@ -31,3 +30,16 @@ Order of processes ran P2 -> P1 -> P3 -> P4
 ### Different states
 Safe state
 	systems in safe state if in a sequence of process, for each process that requests a resource, it can be satisfied due to avaliable resources + resources held by the other processes (like bankers algorithm ensures this)
+If a system is in a safe state -> no deadlocks
+If a system is in an unsafe state -> possibility of deadlocks
+Avoidance -> ensure a system will never enter an unsafe state
+- Single instance of a resource type
+	- use resource-allocation graph
+- Multiple instances of a resource type
+	- use bankers algorithm
+
+### Different edges
+claim edge - Process has an edge to a resource  that may request the resource
+claim edge converts to request edge when a process requests a resource 
+request edge converts to assignment edge when resource is allocated to process
+when resource is released by process, assignment edge reconverts to a claim edge 
