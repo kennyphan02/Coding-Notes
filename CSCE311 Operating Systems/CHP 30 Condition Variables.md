@@ -1,0 +1,2 @@
+To wait for a condition to become true, a thread can make use of a condition variable.
+	Condition variables - explicit queue that threads can put themselves on when some condition is not as desired (by waiting on the condition)

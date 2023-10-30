@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
+                "file": "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
+                "file": "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
+                "file": "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/exam 2 study guide.md"
+                "file": "CSCE311 Operating Systems/CHP 30 Condition Variables.md"
               }
             }
           },
@@ -341,15 +341,17 @@
   },
   "active": "e4d0f718a2ff9410",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 31 Semaphores.md",
+    "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
+    "CSCE311 Operating Systems/CHP 28 Locks.md",
+    "CSCE311 Operating Systems/exam 2 study guide.md",
     "Pasted image 20231030001259.png",
     "Pasted image 20231029231622.png",
     "Pasted image 20231029224632.png",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
     "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "CSCE490 Notes/Git.md",
-    "CSCE311 Operating Systems/exam 2 study guide.md",
     "Pasted image 20231028060512.png",
-    "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
     "Pasted image 20231023190651.png",
@@ -376,10 +378,8 @@
     "Algorithms/Matrices.md",
     "Algorithms/Selection Sort.md",
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
-    "Algorithms/Trees/Heaps.md",
     "Linux",
     "Images/IMG_7237.jpg",
-    "Images/Pasted image 20230918134558.png",
     "CSCE490 Notes/Scrum Notes",
     "CSCE490 Notes",
     "CSCE311 Operating Systems",
