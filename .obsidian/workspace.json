@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE490 Notes/Git.md",
+                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE490 Notes/Git.md",
+                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE490 Notes/Git.md",
+                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE490 Notes/Git.md"
+                "file": "CSCE311 Operating Systems/exam 2 study guide.md"
               }
             }
           },
@@ -341,8 +341,11 @@
   },
   "active": "e4d0f718a2ff9410",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/exam 2 study guide.md",
+    "Pasted image 20231029224632.png",
+    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+    "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "CSCE490 Notes/Git.md",
+    "CSCE311 Operating Systems/exam 2 study guide.md",
     "Pasted image 20231028060512.png",
     "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
@@ -372,10 +375,7 @@
     "Algorithms/Selection Sort.md",
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
     "Algorithms/Trees/Heaps.md",
-    "AVL Trees.md",
     "Linux",
-    "Time Complexity.md",
-    "Software Test Case Documentation.md",
     "Images/IMG_7237.jpg",
     "Images/Pasted image 20230918134558.png",
     "Images/Pasted image 20230919160716.png",

@@ -7,3 +7,11 @@ B. to figure this out, we need to utilize the need matrix and take a look at our
 - P1 is executed since we have the avaliable resources to execute P1. (A and B)
 - When P1 is executed, we deallocate the resources needed and add it to avaliable (use the allocation matrix to add from not the need matrix)
 	- Avaliable (1,2,0,1) to (2,2,1,2)
+
+
+
+
+### Resource Allocation Chart
+A set of vertices V and a set of edges E
+claim edge - Process has an edge to a resource  
+![[Pasted image 20231029224632.png]]
