@@ -48,3 +48,4 @@ claim edge - Process has an edge to a resource  that may request the resource
 claim edge converts to request edge when a process requests a resource 
 request edge converts to assignment edge when resource is allocated to process
 when resource is released by process, assignment edge reconverts to a claim edge 
+
