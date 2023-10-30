@@ -15,3 +15,7 @@ B. to figure this out, we need to utilize the need matrix and take a look at our
 A set of vertices V and a set of edges E
 claim edge - Process has an edge to a resource  
 ![[Pasted image 20231029224632.png]]
+- If a graph contains no cycles, there is no deadlock
+- if a graph contains a cycle, 
+	- if 1 instance per resource type, then deadlock
+	- if several instances per resource type, possibility of deadlock
