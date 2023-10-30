@@ -9,6 +9,11 @@ B. to figure this out, we need to utilize the need matrix and take a look at our
 	- Avaliable (1,2,0,1) to (2,2,1,2)
 
 
+![[Pasted image 20231030001259.png]]
+- Request for (0,2,0) by process 0 be granted? What we do is:
+	- Means we need 2 more resources for B in P0, so it goes from (0,1,0) to (0,3,0). Then we change the need from (7,4,3) to (7,2,3). Then we change the avaliable from (2,3,0) to (2,1,0)
+
+
 
 
 ### Resource Allocation Chart
