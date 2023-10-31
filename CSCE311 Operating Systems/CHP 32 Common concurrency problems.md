@@ -7,3 +7,4 @@
 
 ### Deadlock
 - deadlock occurs when  thread 1 is holding a lock L1 and waiting for another one L2. Thread 2 however, holds L2 and is waiting for L1 to be released. 
+4 Conditions for deadlock:
