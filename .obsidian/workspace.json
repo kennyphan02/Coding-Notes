@@ -186,6 +186,18 @@
             }
           },
           {
+            "id": "fb2716e429d7dbf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41c498c9fa616d59",
             "type": "leaf",
             "state": {
@@ -194,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -268,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 28 Locks.md",
+                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 28 Locks.md",
+                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 28 Locks.md"
+                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md"
               }
             }
           },
@@ -339,13 +351,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4d0f718a2ff9410",
+  "active": "fb2716e429d7dbf4",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+    "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
     "CSCE311 Operating Systems/exam 2 study guide.md",
-    "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "Pasted image 20231030001259.png",
@@ -376,8 +390,6 @@
     "CSCE311 Operating Systems/Test 1 Study Guide.md",
     "Career fair.md",
     "Algorithms/Matrices.md",
-    "Algorithms/Selection Sort.md",
-    "Algorithms/Trees/Generic Trees (N-ary trees).md",
     "Linux",
     "Images/IMG_7237.jpg",
     "CSCE490 Notes/Scrum Notes",
