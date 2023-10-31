@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+                "file": "CSCE311 Operating Systems/exam 2 study guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md"
+                "file": "CSCE311 Operating Systems/exam 2 study guide.md"
               }
             }
           },
@@ -353,8 +353,8 @@
   },
   "active": "fb2716e429d7dbf4",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+    "Untitled 1.md",
     "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
