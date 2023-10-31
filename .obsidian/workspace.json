@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
+                "file": "CSCE311 Operating Systems/CHP 28 Locks.md",
                 "mode": "source",
                 "source": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
+                "file": "CSCE311 Operating Systems/CHP 28 Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
+                "file": "CSCE311 Operating Systems/CHP 28 Locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 30 Condition Variables.md"
+                "file": "CSCE311 Operating Systems/CHP 28 Locks.md"
               }
             }
           },
