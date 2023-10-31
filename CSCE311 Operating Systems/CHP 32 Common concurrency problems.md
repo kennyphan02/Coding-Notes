@@ -12,4 +12,8 @@
 - hold-and-wait - threads hold resources allocated to them (locks that they have already acquired) while waiting for other resources (locks that they wish to acquire)
 - no preemption - resources can't be removed from threads that are holding them
 - circular wait - circular
-preventing circular wei
+preventing circular wait - total ordering (ensuring one lock is received before another lock)
+preventing hold-and-wait - acquiring locks all at once 
+preventing no preemption 
+
+livelock - two threads repeatedly running a sequence of instructions and making no progress. can add a random delay
