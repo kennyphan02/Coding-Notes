@@ -8,3 +8,7 @@
 ### Deadlock
 - deadlock occurs when  thread 1 is holding a lock L1 and waiting for another one L2. Thread 2 however, holds L2 and is waiting for L1 to be released. 
 4 Conditions for deadlock:
+- mutual exclusion - prevents multiple threads from accessing a shared resource
+- hold-and-wait - threads hold resources allocated to them (locks that they have already acquired) while waiting for other resources (locks that they wish to acquire)
+- no preemption - resources can't be removed from threads that are holding them
+- circular wait - circular
