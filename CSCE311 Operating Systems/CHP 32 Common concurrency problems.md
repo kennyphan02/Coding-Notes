@@ -12,3 +12,4 @@
 - hold-and-wait - threads hold resources allocated to them (locks that they have already acquired) while waiting for other resources (locks that they wish to acquire)
 - no preemption - resources can't be removed from threads that are holding them
 - circular wait - circular
+preventing circular wei
