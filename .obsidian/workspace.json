@@ -203,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MART371/Working with Actors.md",
+                "file": "The Odin Project Notes/Computer Basic Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MART371/Working with Actors.md",
+                "file": "The Odin Project Notes/Computer Basic Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MART371/Working with Actors.md",
+                "file": "The Odin Project Notes/Computer Basic Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MART371/Working with Actors.md"
+                "file": "The Odin Project Notes/Computer Basic Terminology.md"
               }
             }
           },
@@ -363,11 +363,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "aa36410c877b8b96",
   "lastOpenFiles": [
+    "MART371/Working with Actors.md",
+    "The Odin Project Notes/Computer Basic Terminology.md",
     "The Odin Project Notes",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
-    "MART371/Working with Actors.md",
     "MART371",
     "CSCE311 Operating Systems/exam 2 study guide.md",
     "Untitled 1.md",
@@ -409,7 +410,6 @@
     "CSCE490 Notes",
     "CSCE311 Operating Systems",
     "Notes.pdf",
-    "Class_dump_3_22 (1).zip",
-    "Design Patterns"
+    "Class_dump_3_22 (1).zip"
   ]
 }

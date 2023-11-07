@@ -1,0 +1,2 @@
+### What is a computer?
+an electronic device that stores data, retrieves data, and processes data. Contains hardware which is the physical structure of the computer, and contains software which is a set of instructions that tells the comptuer what to do
