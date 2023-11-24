@@ -203,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin-Android-Studio/ConstraintLayouts.md",
+                "file": "Kotlin-Android-Studio/List-Detail Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin-Android-Studio/ConstraintLayouts.md",
+                "file": "Kotlin-Android-Studio/List-Detail Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin-Android-Studio/ConstraintLayouts.md",
+                "file": "Kotlin-Android-Studio/List-Detail Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin-Android-Studio/ConstraintLayouts.md"
+                "file": "Kotlin-Android-Studio/List-Detail Pattern.md"
               }
             }
           },
@@ -365,6 +365,20 @@
   },
   "active": "aa36410c877b8b96",
   "lastOpenFiles": [
+    "Kotlin-Android-Studio/Building a Dice App.md",
+    "Kotlin-Android-Studio/CameraX Code Lab.md",
+    "Kotlin-Android-Studio/Companion Objects.md",
+    "Kotlin-Android-Studio/ConstraintLayouts.md",
+    "Kotlin-Android-Studio/Creating Android Apps.md",
+    "Kotlin-Android-Studio/Get User Input (Good Example of Inheritance).md",
+    "Kotlin-Android-Studio/Icons.md",
+    "Kotlin-Android-Studio/Kotlin Basics.md",
+    "Kotlin-Android-Studio/List-Detail Pattern.md",
+    "Kotlin-Android-Studio/Lists.md",
+    "Kotlin-Android-Studio/Material Components.md",
+    "Kotlin-Android-Studio/OnKeyListeners and OnClickListeners.md",
+    "Kotlin-Android-Studio/RecyclerView.md",
+    "Kotlin-Android-Studio/Packages.md",
     "Kotlin-Android-Studio/Adaptive Layouts.md",
     "CSCE490 Notes/Git.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
@@ -379,31 +393,17 @@
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
     "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
-    "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "Pasted image 20231030001259.png",
     "Pasted image 20231029231622.png",
     "Pasted image 20231029224632.png",
-    "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "Pasted image 20231028060512.png",
     "Pasted image 20231023190651.png",
-    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
-    "CSCE490 Notes/Schema for firestore.md",
-    "CSCE490 Notes/Software Development Methodologies.md",
-    "Recurrence Relations.md",
     "Untitled",
     "Pasted image 20231020175155.png",
     "Pasted image 20231020145057.png",
     "Pasted image 20231020145049.png",
     "Pasted image 20231018194241.png",
-    "Kotlin-Android-Studio/Kotlin Basics.md",
-    "Unum.md",
     "Companies",
-    "Kotlin-Android-Studio/Accessibility.md",
-    "Linux/Basic commands.md",
-    "Arrays.md",
-    "CSCE311 Operating Systems/Untitled 1.md",
-    "CSCE490 Notes/Decision-Making Process Workflow.md",
-    "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
     "Linux",
     "Images/IMG_7237.jpg",
     "CSCE490 Notes/Scrum Notes",
