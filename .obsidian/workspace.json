@@ -203,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 31 Semaphores.md",
+                "file": "CSCE490 Notes/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 31 Semaphores.md",
+                "file": "CSCE490 Notes/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 31 Semaphores.md",
+                "file": "CSCE490 Notes/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 31 Semaphores.md"
+                "file": "CSCE490 Notes/Git.md"
               }
             }
           },
@@ -365,8 +365,8 @@
   },
   "active": "aa36410c877b8b96",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
+    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "CSCE311 Operating Systems/exam 2 study guide.md",
     "The Odin Project Notes/Computer Basic Terminology.md",
     "MART371/Working with Actors.md",
