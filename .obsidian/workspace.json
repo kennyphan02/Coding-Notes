@@ -203,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin-Android-Studio/List-Detail Pattern.md",
+                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin-Android-Studio/List-Detail Pattern.md",
+                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin-Android-Studio/List-Detail Pattern.md",
+                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin-Android-Studio/List-Detail Pattern.md"
+                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md"
               }
             }
           },
@@ -365,6 +365,18 @@
   },
   "active": "aa36410c877b8b96",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+    "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+    "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
+    "CSCE311 Operating Systems/CHP 31 Semaphores.md",
+    "CSCE490 Notes/Software Development Methodologies.md",
+    "CSCE490 Notes/Schema for firestore.md",
+    "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
+    "CSCE490 Notes/Git.md",
+    "CSCE490 Notes/Decision-Making Process Workflow.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
+    "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Building a Dice App.md",
     "Kotlin-Android-Studio/CameraX Code Lab.md",
     "Kotlin-Android-Studio/Companion Objects.md",
@@ -373,26 +385,14 @@
     "Kotlin-Android-Studio/Get User Input (Good Example of Inheritance).md",
     "Kotlin-Android-Studio/Icons.md",
     "Kotlin-Android-Studio/Kotlin Basics.md",
-    "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Lists.md",
     "Kotlin-Android-Studio/Material Components.md",
     "Kotlin-Android-Studio/OnKeyListeners and OnClickListeners.md",
     "Kotlin-Android-Studio/RecyclerView.md",
     "Kotlin-Android-Studio/Packages.md",
     "Kotlin-Android-Studio/Adaptive Layouts.md",
-    "CSCE490 Notes/Git.md",
-    "CSCE311 Operating Systems/CHP 31 Semaphores.md",
-    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
-    "CSCE311 Operating Systems/exam 2 study guide.md",
-    "The Odin Project Notes/Computer Basic Terminology.md",
-    "MART371/Working with Actors.md",
     "The Odin Project Notes",
     "MART371",
-    "Untitled 1.md",
-    "CSCE311 Operating Systems/CHP 28 Locks.md",
-    "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
-    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
-    "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
     "Pasted image 20231030001259.png",
     "Pasted image 20231029231622.png",
     "Pasted image 20231029224632.png",
