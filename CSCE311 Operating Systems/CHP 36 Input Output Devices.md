@@ -30,7 +30,18 @@ While (STATUS == BUSY)
 ### How can we avoid the costs of polling? Interrupts
 OS can issue a request and put the process to sleep and context switch to another task. When the device is finished, a hardware interrupt occurs causing the CPU to jump into the OS at a predetermined interrupt handler. 
 	Handler is a piece of code that will finish the request and wake the process waiting for the I/O
-- ***Interrupts*** are used to allow devices to signal when an event needs immediate attention
+- ***Interrupts*** are used to allow devices to signal when an event needs immediate attention. Interrupts allows for overlaps of computation and I/O
+
+### Interrupts vs Polling when to use?
+- If a device is fast, use polling. The cost of using an interrupts and switching from one process to another is rather expensive.
+- If a device is slow, use interrupts. 
+- If the speed of the device is not known, use a hybrid (Polls for a while and if device is not finished, interrupt)
+
+### DMA 
+When using programmed I/O (PIO) to transfer a large chunk of data to a device, CPU is utilized inefficiently. CPU spends too much time moving data to and from devices by hand. How can we offload this work and utilize the CPU more effectively?
+***Direct Memory Access*** - a device within a system that can control transfers between devices and main memory without much CPU intervention. 
+![[Pasted image 20231126210035.png]]
+To transfer data to the device (marked as c), the OS programs the DMA to do this feat by telling where the data is in memory and how much data to copy and which device to send it to 
 
 
 
