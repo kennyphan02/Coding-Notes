@@ -37,4 +37,8 @@ also known as a cache. Small amount of memory that the drive can use to hold dat
 Random workload - issues small reads to random locations on the disk
 Sequential workload - reads a large number of sectors consecutively from the disk without jumping around
 
+Sequential workload is typically faster for reading/writing data from a disk so SSDs are used. HDDs are used for storing large data. 
+
+### Disk Scheduling
+
 
