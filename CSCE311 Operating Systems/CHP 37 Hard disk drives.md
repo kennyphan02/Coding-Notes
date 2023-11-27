@@ -50,4 +50,5 @@ Sequential workload is typically faster for reading/writing data from a disk so 
 
 ### HDD vs SSD 
 - Hard disk drives are cost-effective compared to SSDs for storing data. Hard disk drives generally can store more data than SSDs
+- Hard disk drives are persistent (they save data after its turned off )
 - SSDs are faster for reading and writing data compared to hard disk drives 
