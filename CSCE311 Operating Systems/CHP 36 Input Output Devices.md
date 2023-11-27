@@ -41,7 +41,14 @@ OS can issue a request and put the process to sleep and context switch to anothe
 When using programmed I/O (PIO) to transfer a large chunk of data to a device, CPU is utilized inefficiently. CPU spends too much time moving data to and from devices by hand. How can we offload this work and utilize the CPU more effectively?
 ***Direct Memory Access*** - a device within a system that can control transfers between devices and main memory without much CPU intervention. 
 ![[Pasted image 20231126210035.png]]
-To transfer data to the device (marked as c), the OS programs the DMA to do this feat by telling where the data is in memory and how much data to copy and which device to send it to 
+To transfer data to the device (marked as c), the OS programs the DMA to do this feat by telling where the data is in memory and how much data to copy and which device to send it to. 
+***Our goal is to copy data from memory and transfer it to the disk***. By utilizing a DMA, it free's up the CPU's work on having to copy data from memory and can move on to working on another process. 
+
+
+### How does the OS communicate with the device?
+Two primary methods of device communication
+1. Explicit I/O instructions 
+	- These instructions specify a way for the OS to send data to specific data registers. (I.e, using in and out instructions on x86). for example, to send data to a device, caller specifies a register with the data in it, and a port which names the device. These instructions are ***privileged***.
 
 
 
