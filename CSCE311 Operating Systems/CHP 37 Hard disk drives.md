@@ -10,3 +10,15 @@ Cylinder - collection of all tracks that are the same distance
 ### Rotational Delay 
 ![[Pasted image 20231126224553.png]]
 If our goal is to read sector 0. we wait for 0 to be rotated under the head. Currently, 6 is under the head. This happens in modern drives. we call this the rotational delay. worst case scenario is if we have to get sector 5. 
+
+### Seek Time
+
+![[Pasted image 20231126230750.png]]
+if we have multiple tracks, in order to access a given sector, the arm must have to move to the correct track. This process is known as ***seek***. After seeking, we wait for rotational delay. When the correct sector is under the head, the last stage is transferring. Data is either read/written from or written to the surface. 
+
+4 stages of seek:
+1. acceleration - arm gets moving
+2. coasting - arm moving at full speed
+3. deceleration - arm slows down
+4. settling - head is carefully positioned over correct track. 
+
