@@ -55,4 +55,5 @@ Two primary methods of device communication
 
 
 
+
 Firmware - software within a hardware device 

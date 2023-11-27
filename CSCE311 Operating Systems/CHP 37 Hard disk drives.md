@@ -40,5 +40,7 @@ Sequential workload - reads a large number of sectors consecutively from the dis
 Sequential workload is typically faster for reading/writing data from a disk so SSDs are used. HDDs are used for storing large data. 
 
 ### Disk Scheduling
+- The ***disk scheduler*** decides which I/O requests are scheduled next. Disk scheduler will try to follow ***Shortest Job First*** in its operation.
+	- ***Shortest-seek-first*** - orderes the queue of I/O requests by track, picking requests on the nearest track to complete first. problem with SSF is the drive geometry is not avaliable to the host OS 
 
 
