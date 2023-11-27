@@ -22,3 +22,9 @@ if we have multiple tracks, in order to access a given sector, the arm must have
 3. deceleration - arm slows down
 4. settling - head is carefully positioned over correct track. 
 
+Multi-zoned disk drives - Disk is organized into multiple zones. A zone is a consecutive set of tracks on a surface. Outer trackers have more sectors than inner tracks because there is more room out there. 
+
+### Track buffer
+also known as a cache. Small amount of memory that the drive can use to hold data read from or writtten to the disk. 
+1. Use case: An entire sector can be read from a track. The sectors would be stored in the cache. This allows the drive to quickly respond to any requests on the same track.
+
