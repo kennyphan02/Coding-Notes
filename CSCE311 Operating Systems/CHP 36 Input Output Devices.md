@@ -28,7 +28,9 @@ While (STATUS == BUSY)
 
 
 ### How can we avoid the costs of polling? Interrupts
-
+OS can issue a request and put the process to sleep and context switch to another task. When the device is finished, a hardware interrupt occurs causing the CPU to jump into the OS at a predetermined interrupt handler. 
+	Handler is a piece of code that will finish the request and wake the process waiting for the I/O
+- ***Interrupts*** are used to allow devices to signal when an event needs immediate attention
 
 
 
