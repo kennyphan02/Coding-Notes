@@ -33,4 +33,8 @@ also known as a cache. Small amount of memory that the drive can use to hold dat
 -  T I/O Time = Tseek + Trotation + Ttransfer
 - R I/O Rate = SizeTtransfer / T I/O Time
 
+### Random Vs Sequential Access
+Random workload - issues small reads to random locations on the disk
+Sequential workload - reads a large number of sectors consecutively from the disk without jumping around
+
 
