@@ -41,6 +41,10 @@ Sequential workload is typically faster for reading/writing data from a disk so 
 
 ### Disk Scheduling
 - The ***disk scheduler*** decides which I/O requests are scheduled next. Disk scheduler will try to follow ***Shortest Job First*** in its operation.
-	- ***Shortest-seek-first*** - orderes the queue of I/O requests by track, picking requests on the nearest track to complete first. problem with SSF is the drive geometry is not avaliable to the host OS 
+	- ***Shortest-seek-first*** - orderes the queue of I/O requests by track, picking requests on the nearest track to complete first. 
+		- problem with SSF is the drive geometry is not avaliable to the host OS, rather it sees an array of blocks. 
+		- another problem: ***starvation***. requests to other tracks would be ignored. 
+			- Solution to starvation? ***SCAN*** - moves back and forth across the disk servicing requests in order across the trasks
+		- Solution? implement ***nearest-block-first***. schedules request with the nearest block (sector) address next. 
 
 
