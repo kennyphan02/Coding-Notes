@@ -28,3 +28,9 @@ Multi-zoned disk drives - Disk is organized into multiple zones. A zone is a con
 also known as a cache. Small amount of memory that the drive can use to hold data read from or writtten to the disk. 
 1. Use case: An entire sector can be read from a track. The sectors would be stored in the cache. This allows the drive to quickly respond to any requests on the same track.
 
+
+### Time vs Rate
+-  T I/O Time = Tseek + Trotation + Ttransfer
+- R I/O Rate = SizeTtransfer / T I/O Time
+
+
