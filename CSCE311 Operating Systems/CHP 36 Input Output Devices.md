@@ -49,6 +49,9 @@ To transfer data to the device (marked as c), the OS programs the DMA to do this
 Two primary methods of device communication
 1. Explicit I/O instructions 
 	- These instructions specify a way for the OS to send data to specific data registers. (I.e, using in and out instructions on x86). for example, to send data to a device, caller specifies a register with the data in it, and a port which names the device. These instructions are ***privileged***.
+2. memory-mapped I/O
+
+- Device drivers contain specifics of device interactions and are encapsulated within
 
 
 
