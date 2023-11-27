@@ -203,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
                 "mode": "source",
                 "source": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md"
+                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md"
               }
             }
           },
@@ -365,8 +365,8 @@
   },
   "active": "aa36410c877b8b96",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
     "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+    "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "Pasted image 20231126230750.png",
     "Pasted image 20231126224553.png",

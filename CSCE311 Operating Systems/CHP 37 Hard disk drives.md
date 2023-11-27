@@ -1,4 +1,4 @@
-Understanding some of the components of a modern disk 
+~~Understanding~~ some of the components of a modern disk 
 ### Basic Geometry
 Platter - a circular hard surface where data is stored via inducing magnetic changes to it. A disk may have one or more platters. Platters are made with hard metal (like aluminum)
 Spindle - Bounds the platters together. Spindle is connected to a motor that spins the platters around at a fixed rate. Rate of rotation is measured in RPM. Usually we are only interested in the time of a single rotation. 
@@ -48,3 +48,6 @@ Sequential workload is typically faster for reading/writing data from a disk so 
 		- Solution? implement ***nearest-block-first***. schedules request with the nearest block (sector) address next. 
 
 
+### HDD vs SSD 
+- Hard disk drives are cost-effective compared to SSDs for storing data. Hard disk drives generally can store more data than SSDs
+- SSDs are faster for reading and writing data compared to hard disk drives 
