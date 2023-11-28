@@ -38,6 +38,7 @@ Chunk sizes affect performance of the array. Small chunk size implies many files
 - When reading a block from a mirrored array, RAID has a choice of reading from either copy. I.E reading 5 RAID chooses to read from disk 2 or 3. when writing a block, no choice exists. RAID must update both copies of the data to main reliability. 
 - mirroring good for tolerating disk faults. but raid-1 is expensive due to having multiple copies. 
 - same latency on a single disk. for single read request. disk write is different. requires 2 physical writes to complete before its due but in terms of latency its roughly the same as a single disk write since the 2 physical writes happen in parallel. The thing is that the write must wait for both physical writes to complete which makes performance worse. 
+- RAID-1 Sequential Write and Sequential Read: N * S/2  N = number of disks and S = number of sectors
 
 ### Raid Level 4: Parity
 redundancy - the ability to sustain multiple disk failures 
@@ -49,12 +50,15 @@ So P = 0 because 2 1 even bits = 0
 P in row 2 is equal to 1 because 1 1 bit = odd = 1. 
 Lets say C2 column value is gone. We have 0,0,1,0. = 1 for C2
 - Raid 4 can only tolerate 1 disk failure. if more than one disk is lost, there is simply no way to reconstruct lost data. 
+- Raid 4 utilizes an extra disk 
 - when writing big chunk of data to disk, raid-4 can do full-stripe write
 - ***additive parity*** - computing the new value of parity block after overwriting a block. We read in all of the other data blocks in the stripe in parallel and xor it with the new block to get the new parity block. The problem with this technique is that it scales with the number of disks and thus in larger RAIDs require a higher number of reads to compute parity. 
 - subtractive parity - flip the parity bit if a block gets overwrite with a new value thats different from the old value. 
+- Raid 4 has small write problems (bottleneck on parity)
 
 ### Raid level 5: rotating parity
 same as raid level 4 but parity rotates. across drives 
+stripes the parity as well. 
 ![[Pasted image 20231127231830.png]]
 
 
