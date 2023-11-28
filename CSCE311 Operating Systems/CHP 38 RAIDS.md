@@ -13,7 +13,15 @@ Evaluate each RAID design along 3 axes
 1. Capacity - given N disks and B sectors, how much useful capacity is avaliable to clients of the RAID
 2. Reliability - how many disk faults can the given design tolerate?
 3. Performance
+
 3 Important RAID designs:
 1. RAID level 0 (stripping)
 2. RAID level 1 (mirroring)
 3. RAID levels 4/5 (parity-based redundancy)
+
+### RAID level 0: Striping
+Serves as an upperbound on performance and capacity.  Helps optimize the speed of your hard drives. If one drive fails though, you will lose all of your data. 
+![[Pasted image 20231127213232.png]]
+spread the blocks of the array across the disks in a round-robin fashion. We call the blocks in the same row a ***stripe*** 
+![[Pasted image 20231127213605.png]]
+Chunk sizes affect performance of the array. Small chunk size implies many files will get striped across many disks. Large chunk size reduces parallelism 
