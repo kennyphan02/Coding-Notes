@@ -43,3 +43,12 @@ Chunk sizes affect performance of the array. Small chunk size implies many files
 redundancy - the ability to sustain multiple disk failures 
 - parity based approach attempt to use less capacity.
 - a parity block stores the redundant information for the stripes of blocks 
+- Uses XOR. if there are even number of 1s in the bits, return 0. if there are odd number of 1s in the bits, return 1. 
+-![[Pasted image 20231127224722.png]]
+So P = 0 because 2 1 even bits = 0 
+P in row 2 is equal to 1 because 1 1 bit = odd = 1. 
+Lets say C2 column value is gone. We have 0,0,1,0. = 1 for C2
+- Raid 4 can only tolerate 1 disk failure. if more than one disk is lost, there is simply no way to reconstruct lost data. 
+- when writing big chunk of data to disk, raid-4 can do full-stripe write
+- ***additive parity*** - computing the new value of parity block after overwriting a block. We read in all of the other data blocks in the stripe in parallel and xor it with the new block to get the new parity block. The problem with this technique is that it scales with the number of disks and thus in larger RAIDs require a higher number of reads to compute parity. 
+- subtractive parity
