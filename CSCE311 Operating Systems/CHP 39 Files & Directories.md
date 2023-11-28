@@ -16,4 +16,9 @@ Inode is a persistent data structure kept by the file system that has informatio
 ### Hard Links
 removing a file is performed via unlink().
 link() - takes 2 arguments. an old pathname and a new one. When you link a new file name to an old one, you create another way to refer to the same file. `ln` is used to do this `ln` is hard link.  (Think of pointers). Both files refers to the same inode number 
-- 
+- When creating a file two things happen. 
+	- 1. You create the inode structure that tracks information about the file (size, where its located on the sectors)
+	- 2. Linking a human-readable name to that file and putting that link into a directory 
+- After creating a hard link to a file, the file system perceives no difference between the original file name (file) and the newly created file name (file2)
+![[Pasted image 20231128161747.png]]
+This works b/c when the file system unlinks file, it checks the reference count within the inode number. This allows the file system to check to see how many times the inode number is referenced. When unlink() is called it removes the link between the human-readable name to the given inode number and decrements the reference count. 
