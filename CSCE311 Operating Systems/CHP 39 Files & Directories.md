@@ -11,3 +11,8 @@
 
 ### INode
 Inode is a persistent data structure kept by the file system that has information. all inodes reside on disk. copy of active ones are cached in memory. 
+
+
+### Hard Links
+removing a file is performed via unlink().
+link()
