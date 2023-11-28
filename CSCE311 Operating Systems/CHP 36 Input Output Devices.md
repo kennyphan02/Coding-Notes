@@ -30,7 +30,7 @@ While (STATUS == BUSY)
 ### How can we avoid the costs of polling? Interrupts
 OS can issue a request and put the process to sleep and context switch to another task. When the device is finished, a hardware interrupt occurs causing the CPU to jump into the OS at a predetermined interrupt handler. 
 	Handler is a piece of code that will finish the request and wake the process waiting for the I/O
-- ***Interrupts*** are used to allow devices to signal when an event needs immediate attention. Interrupts allows for overlaps of computation and I/O
+- ***Interrupts*** are used to allow devices to signal when an event needs immediate attention. Interrupts allows for overlaps of computation and I/O. OS will be notified when work is to be done. 
 
 ### Interrupts vs Polling when to use?
 - If a device is fast, use polling. The cost of using an interrupts and switching from one process to another is rather expensive.
@@ -51,6 +51,8 @@ Two primary methods of device communication
 	- These instructions specify a way for the OS to send data to specific data registers. (I.e, using in and out instructions on x86). for example, to send data to a device, caller specifies a register with the data in it, and a port which names the device. These instructions are ***privileged***.
 2. memory-mapped I/O
 
+### Drivers 
+- Hardware-specific code to interface with Operating Systems
 - Device drivers contain specifics of device interactions and are encapsulated within
 
 

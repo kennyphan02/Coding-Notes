@@ -35,9 +35,12 @@ also known as a cache. Small amount of memory that the drive can use to hold dat
 
 ### Random Vs Sequential Access
 Random workload - issues small reads to random locations on the disk
-Sequential workload - reads a large number of sectors consecutively from the disk without jumping around
+Sequential workload - reads a large number of sectors consecutively from the disk without jumping around. reads faster. 
 
 Sequential workload is typically faster for reading/writing data from a disk so SSDs are used. HDDs are used for storing large data. 
+
+### Track buffer
+technique were HDD will read entire track (or what's under head) 
 
 ### Disk Scheduling
 - The ***disk scheduler*** decides which I/O requests are scheduled next. Disk scheduler will try to follow ***Shortest Job First*** in its operation.

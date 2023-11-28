@@ -215,7 +215,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
+                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -304,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
+                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
+                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md"
+                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md"
               }
             }
           },
@@ -377,7 +377,13 @@
   },
   "active": "e6dbb2de47c3cb4e",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
+    "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "CSCE311 Operating Systems/CHP 38 RAIDS.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
+    "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
+    "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
     "Pasted image 20231127231830.png",
     "Pasted image 20231127224722.png",
@@ -385,23 +391,17 @@
     "Pasted image 20231127213605.png",
     "Pasted image 20231127213232.png",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
-    "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
     "CSCE311 Operating Systems/Untitled",
-    "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
-    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "Pasted image 20231126230750.png",
     "Pasted image 20231126224553.png",
     "Pasted image 20231126210035.png",
     "Pasted image 20231126193409.png",
-    "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
-    "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE490 Notes/Software Development Methodologies.md",
     "CSCE490 Notes/Schema for firestore.md",
     "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
     "CSCE490 Notes/Git.md",
     "CSCE490 Notes/Decision-Making Process Workflow.md",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
-    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
     "Kotlin-Android-Studio/Building a Dice App.md",
     "Kotlin-Android-Studio/CameraX Code Lab.md",
