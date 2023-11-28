@@ -15,4 +15,4 @@ Inode is a persistent data structure kept by the file system that has informatio
 
 ### Hard Links
 removing a file is performed via unlink().
-link()
+link() - takes 
