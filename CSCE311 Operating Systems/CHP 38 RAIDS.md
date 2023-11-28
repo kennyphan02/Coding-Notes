@@ -33,4 +33,13 @@ Chunk sizes affect performance of the array. Small chunk size implies many files
 
 
 ### Raid level 1: Mirroring
-- Making more than one copy of each block in the system. each copy should be placed on a separate disk. 
+- Making more than one copy of each block in the system. each copy should be placed on a separate disk, tolerating disk faults. 
+![[Pasted image 20231127223725.png]]
+- When reading a block from a mirrored array, RAID has a choice of reading from either copy. I.E reading 5 RAID chooses to read from disk 2 or 3. when writing a block, no choice exists. RAID must update both copies of the data to main reliability. 
+- mirroring good for tolerating disk faults. but raid-1 is expensive due to having multiple copies. 
+- same latency on a single disk. for single read request. disk write is different. requires 2 physical writes to complete before its due but in terms of latency its roughly the same as a single disk write since the 2 physical writes happen in parallel. The thing is that the write must wait for both physical writes to complete which makes performance worse. 
+
+### Raid Level 4: Parity
+redundancy - the ability to sustain multiple disk failures 
+- parity based approach attempt to use less capacity.
+- a parity block stores the redundant information for the stripes of blocks 
