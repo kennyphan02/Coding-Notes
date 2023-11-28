@@ -10,4 +10,4 @@
 	- The directroy hiearchy starts at a root directory. uses a separator (/) to name subdirectories
 
 ### INode
-Inode is a persistent data structure 
+Inode is a persistent data structure kept by the file system that has information. all inodes reside on disk. copy of active ones are cached in memory. 
