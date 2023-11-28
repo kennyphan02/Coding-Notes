@@ -210,6 +210,18 @@
             }
           },
           {
+            "id": "e6dbb2de47c3cb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41c498c9fa616d59",
             "type": "leaf",
             "state": {
@@ -218,7 +230,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -363,7 +375,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa36410c877b8b96",
+  "active": "e6dbb2de47c3cb4e",
   "lastOpenFiles": [
     "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
     "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
