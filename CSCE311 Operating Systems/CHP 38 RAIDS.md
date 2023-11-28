@@ -21,7 +21,16 @@ Evaluate each RAID design along 3 axes
 
 ### RAID level 0: Striping
 Serves as an upperbound on performance and capacity.  Helps optimize the speed of your hard drives. If one drive fails though, you will lose all of your data. 
+- Striping improves performance by dividing data into sectors and writing those sectors simultaneously across multiple drives 
 ![[Pasted image 20231127213232.png]]
 spread the blocks of the array across the disks in a round-robin fashion. We call the blocks in the same row a ***stripe*** 
 ![[Pasted image 20231127213605.png]]
 Chunk sizes affect performance of the array. Small chunk size implies many files will get striped across many disks. Large chunk size reduces parallelism 
+- Low latency (time it takes from data to transfer from one to another) due to utilizing multiple disks 
+- disadvantages of raid 0 is that if one disk fails, all data in the is at risk. doesn't provide fault tolerance. 
+- risk of data loss . 
+- lack of redundancy 
+
+
+### Raid level 1: Mirroring
+- Making more than one copy of each block in the system. each copy should be placed on a separate disk. 
