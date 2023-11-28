@@ -215,7 +215,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md",
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
                 "mode": "source",
                 "source": false
               }
@@ -304,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md",
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md",
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md"
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md"
               }
             }
           },
@@ -377,13 +377,14 @@
   },
   "active": "e6dbb2de47c3cb4e",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 38 RAIDS.md",
+    "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
     "Pasted image 20231127231830.png",
     "Pasted image 20231127224722.png",
     "Pasted image 20231127223725.png",
     "Pasted image 20231127213605.png",
     "Pasted image 20231127213232.png",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
-    "CSCE311 Operating Systems/CHP 38 RAIDS.md",
     "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
     "CSCE311 Operating Systems/Untitled",
     "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
@@ -415,7 +416,6 @@
     "The Odin Project Notes",
     "MART371",
     "Pasted image 20231030001259.png",
-    "Pasted image 20231029231622.png",
     "Untitled",
     "Companies",
     "Linux",
