@@ -215,7 +215,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md",
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
                 "mode": "source",
                 "source": false
               }
@@ -304,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md",
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md",
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 38 RAIDS.md"
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md"
               }
             }
           },
@@ -377,10 +377,10 @@
   },
   "active": "e6dbb2de47c3cb4e",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 38 RAIDS.md",
     "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
     "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
-    "CSCE311 Operating Systems/CHP 38 RAIDS.md",
     "CSCE311 Operating Systems/CSCE 311 HW 1.md",
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
