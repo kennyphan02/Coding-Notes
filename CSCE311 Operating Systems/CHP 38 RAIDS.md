@@ -51,4 +51,4 @@ Lets say C2 column value is gone. We have 0,0,1,0. = 1 for C2
 - Raid 4 can only tolerate 1 disk failure. if more than one disk is lost, there is simply no way to reconstruct lost data. 
 - when writing big chunk of data to disk, raid-4 can do full-stripe write
 - ***additive parity*** - computing the new value of parity block after overwriting a block. We read in all of the other data blocks in the stripe in parallel and xor it with the new block to get the new parity block. The problem with this technique is that it scales with the number of disks and thus in larger RAIDs require a higher number of reads to compute parity. 
-- subtractive parity
+- subtractive parity - flip the parity bit if a block gets overwrite with a new value thats different from the old value. 
