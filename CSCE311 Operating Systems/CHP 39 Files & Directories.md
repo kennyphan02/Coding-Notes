@@ -22,3 +22,8 @@ link() - takes 2 arguments. an old pathname and a new one. When you link a new f
 - After creating a hard link to a file, the file system perceives no difference between the original file name (file) and the newly created file name (file2)
 ![[Pasted image 20231128161747.png]]
 This works b/c when the file system unlinks file, it checks the reference count within the inode number. This allows the file system to check to see how many times the inode number is referenced. When unlink() is called it removes the link between the human-readable name to the given inode number and decrements the reference count. 
+- Hard links can be used to create backup copies without duplicating data (i.e shortcuts)
+- Can't be used 
+
+
+### Soft Link
