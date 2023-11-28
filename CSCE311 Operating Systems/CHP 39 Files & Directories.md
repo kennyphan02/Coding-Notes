@@ -8,3 +8,6 @@
 	- For example, a file is named called "foo" but has the low-level name "10". The directory that this file reside in would have an entry of ("foo","10") that maps the user readable name to the low-level name. 
 - Directories within directories is called a directory tree/hiearchy
 	- The directroy hiearchy starts at a root directory. uses a separator (/) to name subdirectories
+
+### INode
+Inode is a persistent data structure 
