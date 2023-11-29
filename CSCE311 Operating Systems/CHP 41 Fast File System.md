@@ -1,0 +1,1 @@
+- Problem with the first simple file system was that performance was terrible. 
