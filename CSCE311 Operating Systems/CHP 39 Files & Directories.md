@@ -31,3 +31,4 @@ This works b/c when the file system unlinks file, it checks the reference count 
 
 ### Soft Link
 - Think of pointers. points to the file location of the original one. think of a shortcut on windows. If the file location get gets deleted, the soft link becomes dangling. 
+
