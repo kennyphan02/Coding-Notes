@@ -15,4 +15,9 @@ this is what FFS keeps within a single cylinder group.
 - inode bitmaps and data bitmaps are a good way to manage free space and allocate it to a file
 
 ### How to Allocate files and directories
-- Keep related stuff together. FFS decides what is related and keeps in the same group
+- Keep related stuff together. FFS decides what is related and keeps in the same group. FFS makes use of a few simple placement heuristics
+- First is the placement of directories. 
+	- find cylinder group with low # of directories and high # of free inodes. Put the directory data and inode in that group 
+- For files:
+	- makes sure to allocate data blocks of a file in the same group as the inode, preventing long seeks between inode and data
+	- places all files that are in the same directory in the cylinder group of the directory they are in 
