@@ -36,3 +36,5 @@ we now have this. files a/c, a/d, and a/e span 3 groups with the ffs approach
 ### What does FFS do about large files?
 a large file would fill an entire block group
 - Locality - accessing instructions where addresses are one near another (Like FFS policy placing data blocks and inodes in the same group to maintain locality) 
+- Utilizing the large-file exception, FFS spreads the data blocks from the file in chunks across groups
+![[Pasted image 20231129141710.png]]
