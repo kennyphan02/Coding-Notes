@@ -35,4 +35,9 @@ to support bigger files, use these. instead of pointing to a disk block containi
 When we create a file, we allocate an inode for that file. The file system will search through the bitmap for an inode that is free and allocate it to the file
 - Reading a file
 	- To locate the inode of the file, it must start from the root directory and traverse the way through the directory via inodes. Each directory has an inode. 
-	- Finally once the inode of the file is read, it looks for the pointers pointing to the data blocks of the file. It uses these pointers to traverse through the directory to find the inode number of each directory and eventually finds the inode number of the file
+	- Finally once the inode of the file is read, it looks for the pointers pointing to the data blocks of the file. It uses these pointers to traverse through the directory to find the inode number of each directory and eventually finds the inode number of the file. 
+	- It opens the inode number of the file and reads it into memory. does a permission check, allocates a file descriptor for the process and returns it to the user 
+	- issues a read() to read from open(). Reads the first data block
+- Writing a file to disk
+		- file must be opened. then multiple write() calls to update the file with new contents. then the file is closed. 
+		- writing to the file may also allocate a block
