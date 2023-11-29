@@ -21,13 +21,18 @@ this is what FFS keeps within a single cylinder group.
 - For files:
 	- makes sure to allocate data blocks of a file in the same group as the inode, preventing long seeks between inode and data
 	- places all files that are in the same directory in the cylinder group of the directory they are in 
-
+### FFS Policy
 ![[Pasted image 20231129135011.png]]
 - To read this, each directory and file contains an inode. The root directory / has an inode
 - We have four files, `a/c` `a/d` `a/e` and `b/f`. A directory represents one data block and a file represents two. 
 - We rearrange it so that the nodes and data blocks are in the same group. Files in the same directory are one another (inodes). 
 
+### Without FFS Policy
 ### Inode allocation
 - Rather than using the picture above, we can spread the inodes among groups to prevent a group's inode table fills up quickly. 
 ![[Pasted image 20231129135520.png]]
 we now have this. files a/c, a/d, and a/e span 3 groups with the ffs approach
+
+### What does FFS do about large files?
+a large file would fill an entire block group
+- Locality - accessing instructions where addresses are one near another (Like FFS policy placing data blocks and inodes in the same group to maintain locality) 
