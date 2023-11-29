@@ -11,3 +11,8 @@ a set of tracks on different platters of a hard drive that are the same distance
 groups of cylinders. By placing two files in a group, it will not result in long seeks. To use these groups to stores files and directories, FFS needs to be able place files and directories into a group and track all information about them. To track, FFS includes the inode, superblock, datablocks 
 ![[Pasted image 20231129002749.png]]
 this is what FFS keeps within a single cylinder group.
+
+- inode bitmaps and data bitmaps are a good way to manage free space and allocate it to a file
+
+### How to Allocate files and directories
+- Keep related stuff together. FFS decides what is related and keeps in the same group
