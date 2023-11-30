@@ -19,5 +19,6 @@ when updating the disk, before overwriting structures in a place, write down a l
 - Journaling adds a bit of work during updates to reduce work required during recovery. 
 
 
-### Metadata Journaling vs 
-
+### Metadata Journaling vs Data journaling
+- Recovery is fast, ***but*** normal operation of the file system is slower. For each write to disk, we must write to journal first. we are doubling write traffic. This is ***Data journaling***
+- Metadata journaling is the same except that user data is not written to the journal. 
