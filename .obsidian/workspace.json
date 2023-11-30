@@ -227,7 +227,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
+                "file": "CSCE311 Operating Systems/CHP 41 Fast File System.md",
                 "mode": "source",
                 "source": false
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
+                "file": "CSCE311 Operating Systems/CHP 41 Fast File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
+                "file": "CSCE311 Operating Systems/CHP 41 Fast File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md"
+                "file": "CSCE311 Operating Systems/CHP 41 Fast File System.md"
               }
             }
           },
@@ -389,8 +389,11 @@
   },
   "active": "aa93214937090f0b",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+    "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
+    "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
+    "CSCE311 Operating Systems/CHP 38 RAIDS.md",
     "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
+    "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "CSCE311 Operating Systems/CHP 28 Locks.md",
@@ -398,10 +401,7 @@
     "CSCE311 Operating Systems/CHP 44 SSDS.md",
     "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
     "CSCE311 Operating Systems/CHP 41 Fast File System.md",
-    "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
-    "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
-    "CSCE311 Operating Systems/CHP 38 RAIDS.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "CSCE311 Operating Systems/CHP 42",
     "Untitled 2",
