@@ -41,3 +41,6 @@ When we create a file, we allocate an inode for that file. The file system will 
 - Writing a file to disk
 		- file must be opened. then multiple write() calls to update the file with new contents. then the file is closed. 
 		- writing to the file may also allocate a block
+
+### Block group vs cylinder group
+block group - disk space divided in groups of blocks. contains superblock, bitmap, data blocks, bitmap blocks
