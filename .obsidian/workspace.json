@@ -227,7 +227,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 41 Fast File System.md",
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
                 "mode": "source",
                 "source": false
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 41 Fast File System.md",
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 41 Fast File System.md",
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 41 Fast File System.md"
+                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md"
               }
             }
           },
@@ -389,9 +389,9 @@
   },
   "active": "aa93214937090f0b",
   "lastOpenFiles": [
-    "Pasted image 20231129141710.png",
     "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
     "CSCE311 Operating Systems/CHP 41 Fast File System.md",
+    "Pasted image 20231129141710.png",
     "Pasted image 20231129135520.png",
     "Pasted image 20231129135011.png",
     "Pasted image 20231129002749.png",
@@ -411,7 +411,6 @@
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "Pasted image 20231127231830.png",
-    "Pasted image 20231127224722.png",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "CSCE311 Operating Systems/Untitled",
     "CSCE490 Notes/Software Development Methodologies.md",
