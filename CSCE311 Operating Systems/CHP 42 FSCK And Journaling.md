@@ -14,4 +14,10 @@ A major challenge faced by a file system is what to do when theres a power outag
 	- checks for duplicates (2 inodes pointing to same block )
 	- Problem with FSCK: Too slow
 
-### Journalling
+### Journaling (write-ahead logging)
+when updating the disk, before overwriting structures in a place, write down a little note describing what youre about to do. (write ahead) and its get logged. by doing this, if a crash takes place during the update, file system can check the journal and find the note and try again. 
+- Journaling adds a bit of work during updates to reduce work required during recovery. 
+
+
+### Metadata Journaling vs 
+
