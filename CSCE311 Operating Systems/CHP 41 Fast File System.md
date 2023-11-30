@@ -3,7 +3,9 @@
 - keep same interface to file system (same APIs including open, read, write) but change internal implementation
 - Fast file system divides the disk into a group of cylinders. the group of cylinders are the central mechanism that FFS uses to improve performance.
 
-
+### (De)fragmentation
+- fragmentation is when files are spread out.
+- defragmentation is organizing the files to be in continuous block, improving read and write speeds 
 ### Cylinders
 a set of tracks on different platters of a hard drive that are the same distance from the center of the drive
 

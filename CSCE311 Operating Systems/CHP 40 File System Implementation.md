@@ -44,3 +44,4 @@ When we create a file, we allocate an inode for that file. The file system will 
 
 ### Block group vs cylinder group
 block group - disk space divided in groups of blocks. contains superblock, bitmap, data blocks, bitmap blocks
+cylinder group - group of cylinders which are a set of tracks on each platter that are the same distance from the center of the drive 
