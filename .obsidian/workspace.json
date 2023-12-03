@@ -227,7 +227,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+                "file": "Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5df8ddcd789a4d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blue Cross.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +254,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -316,7 +328,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+                "file": "Blue Cross.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +345,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+                "file": "Blue Cross.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +368,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md"
+                "file": "Blue Cross.md"
               }
             }
           },
@@ -387,21 +399,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa93214937090f0b",
+  "active": "5df8ddcd789a4d0d",
   "lastOpenFiles": [
+    "Arrays.md",
+    "Blue Cross.md",
+    "AVL Trees.md",
+    "Unum.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+    "CSCE311 Operating Systems/CHP 44 SSDS.md",
+    "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
+    "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
     "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
     "CSCE311 Operating Systems/CHP 38 RAIDS.md",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
-    "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
-    "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
-    "CSCE311 Operating Systems/CHP 44 SSDS.md",
     "CSCE311 Operating Systems/CHP 41 Fast File System.md",
     "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
-    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "CSCE311 Operating Systems/CHP 42",
     "Untitled 2",
@@ -424,10 +440,6 @@
     "CSCE490 Notes/Git.md",
     "CSCE490 Notes/Decision-Making Process Workflow.md",
     "Kotlin-Android-Studio/List-Detail Pattern.md",
-    "Kotlin-Android-Studio/Building a Dice App.md",
-    "Kotlin-Android-Studio/CameraX Code Lab.md",
-    "Kotlin-Android-Studio/Companion Objects.md",
-    "Kotlin-Android-Studio/ConstraintLayouts.md",
     "The Odin Project Notes",
     "MART371",
     "Untitled",
