@@ -239,7 +239,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Cross.md",
+                "file": "HTML/HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -328,7 +328,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blue Cross.md",
+                "file": "HTML/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +345,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blue Cross.md",
+                "file": "HTML/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -368,7 +368,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blue Cross.md"
+                "file": "HTML/HTML.md"
               }
             }
           },
@@ -401,8 +401,10 @@
   },
   "active": "5df8ddcd789a4d0d",
   "lastOpenFiles": [
-    "Arrays.md",
     "Blue Cross.md",
+    "HTML/HTML.md",
+    "HTML",
+    "Arrays.md",
     "AVL Trees.md",
     "Unum.md",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
@@ -439,10 +441,8 @@
     "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
     "CSCE490 Notes/Git.md",
     "CSCE490 Notes/Decision-Making Process Workflow.md",
-    "Kotlin-Android-Studio/List-Detail Pattern.md",
     "The Odin Project Notes",
     "MART371",
-    "Untitled",
     "Companies",
     "Linux",
     "CSCE490 Notes/Scrum Notes",
