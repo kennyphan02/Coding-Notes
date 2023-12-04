@@ -18,3 +18,12 @@ is there a schedule for the material we will be learning?
 
 
 Under the job description it says that on-call may be required for this position and I'm concerned about this. How frequently would on-call be required for this position and do people take turns being on-call (rotate). When there's an issue does the entire time get woken up at once
+
+
+
+
+Resume revisions:
+remove white space
+include more skills
+include business 
+capitalize Java in java-console internship
