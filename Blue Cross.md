@@ -27,3 +27,5 @@ remove white space
 include more skills
 include business 
 capitalize Java in java-console internship
+
+notify to include mainframe manager (cobol)
