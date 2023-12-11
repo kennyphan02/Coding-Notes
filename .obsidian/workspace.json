@@ -258,6 +258,18 @@
             }
           },
           {
+            "id": "745ef5af37c2563e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHP 43 LFS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41c498c9fa616d59",
             "type": "leaf",
             "state": {
@@ -266,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -340,7 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 56 Cryptography.md",
+                "file": "CHP 43 LFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +369,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 56 Cryptography.md",
+                "file": "CHP 43 LFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,7 +392,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 56 Cryptography.md"
+                "file": "CHP 43 LFS.md"
               }
             }
           },
@@ -411,10 +423,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78060897490d584e",
+  "active": "745ef5af37c2563e",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/CHP 55 Access Control.md",
     "CSCE311 Operating Systems/CHP 56 Cryptography.md",
+    "CHP 43 LFS.md",
+    "CSCE311 Operating Systems/CHP 55 Access Control.md",
     "CSCE311 Operating Systems/CHP 54 Authentication.md",
     "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
     "CSCE311 Operating Systems/CHP 44 SSDS.md",
@@ -450,7 +463,6 @@
     "Pasted image 20231128201709.png",
     "Pasted image 20231128201034.png",
     "Pasted image 20231128200754.png",
-    "Untitled 2.md",
     "Pasted image 20231128161747.png",
     "Pasted image 20231127231830.png",
     "The Odin Project Notes",
