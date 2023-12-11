@@ -251,7 +251,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 55 Access Control.md",
+                "file": "CSCE311 Operating Systems/CHP 56 Cryptography.md",
                 "mode": "source",
                 "source": false
               }
@@ -340,7 +340,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 55 Access Control.md",
+                "file": "CSCE311 Operating Systems/CHP 56 Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +357,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 55 Access Control.md",
+                "file": "CSCE311 Operating Systems/CHP 56 Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,7 +380,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 55 Access Control.md"
+                "file": "CSCE311 Operating Systems/CHP 56 Cryptography.md"
               }
             }
           },
@@ -413,8 +413,9 @@
   },
   "active": "78060897490d584e",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/CHP 54 Authentication.md",
     "CSCE311 Operating Systems/CHP 55 Access Control.md",
+    "CSCE311 Operating Systems/CHP 56 Cryptography.md",
+    "CSCE311 Operating Systems/CHP 54 Authentication.md",
     "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
     "CSCE311 Operating Systems/CHP 44 SSDS.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
@@ -451,7 +452,6 @@
     "Pasted image 20231128200754.png",
     "Untitled 2.md",
     "Pasted image 20231128161747.png",
-    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
     "Pasted image 20231127231830.png",
     "The Odin Project Notes",
     "MART371",
