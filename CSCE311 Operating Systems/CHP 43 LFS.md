@@ -5,9 +5,11 @@ when writing to disk, LFS buffers all updates in an in-memory segment. When the 
 
 ### How do we find inodes in LFS
 - inode map. it is a structure that takes an inode number as input and produces the disk address of the most recent version of the inode. imap needs to be kept persistent which allows LFS to keep track of location of inodes across crashes. 
+- LFS inode map is used to locate the inode in an unsorted log
 
 ### Where should we put the imap?
 we place the imap next to the data block and inode. 
+
 
 
 ### Checkpoint region
