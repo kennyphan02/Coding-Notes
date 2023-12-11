@@ -1,0 +1,2 @@
+### LFS
+when writing to disk, LFS buffers all updates in an in-memory segment. When the segment is full, it is written to disk in one long, sequential transfer to an unused part of the disk. This makes it better for write performance due to sequential transfers being faster than random transfers
