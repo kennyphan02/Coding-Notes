@@ -251,7 +251,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHP 54 Authentication.md",
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -340,7 +340,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHP 54 Authentication.md",
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +357,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHP 54 Authentication.md",
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,7 +380,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHP 54 Authentication.md"
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md"
               }
             }
           },
@@ -411,10 +411,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78060897490d584e",
+  "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 44 SSDS.md",
+    "CSCE311 Operating Systems/CHP 54 Authentication.md",
     "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
-    "CHP 54 Authentication.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
     "CSCE311 Operating Systems/exam 2 study guide.md",
     "Blue Cross.md",
@@ -424,7 +425,6 @@
     "AVL Trees.md",
     "Unum.md",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
-    "CSCE311 Operating Systems/CHP 44 SSDS.md",
     "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
     "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
     "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
