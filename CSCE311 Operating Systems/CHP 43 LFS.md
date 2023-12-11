@@ -11,4 +11,4 @@ we place the imap next to the data block and inode.
 
 
 ### Checkpoint region
-File system must have some fixed and known location on disk to begin a file lookup. The checkpoint region is a fixed place on the LFS that contains pointers to the inode map. 
+File system must have some fixed and known location on disk to begin a file lookup. The checkpoint region is a fixed place on the LFS that contains pointers to the inode map.  Inode map can be found by reading the CR first. 
