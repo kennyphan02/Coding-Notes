@@ -12,3 +12,14 @@ we place the imap next to the data block and inode.
 
 ### Checkpoint region
 File system must have some fixed and known location on disk to begin a file lookup. The checkpoint region is a fixed place on the LFS that contains pointers to the inode map.  Inode map can be found by reading the CR first. 
+
+
+### Garbage
+LFS have garbage collection because it repeatedly writes the new version of a file to new locations on disk while keeping the old versions. LFS must periodically find these own dead versions of file data and inodes and clean them
+Cleaning should thus make blocks on disk free again for use in subsequent writes. 
+Garbage collection (frees unused memory for programs)
+- LFS doesn't prevent fragmentation because of garbage collection.
+
+
+
+- To ensure updating the checkpoint region happens atomically, LFS keeps two checkpoint regions, one at either ends of the disk, and writes to them alternately. this is so that when a crash happens, LFS can detect if the timestamp pairs are inconsistent. 
