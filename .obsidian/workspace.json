@@ -246,6 +246,18 @@
             }
           },
           {
+            "id": "78060897490d584e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHP 54 Authentication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41c498c9fa616d59",
             "type": "leaf",
             "state": {
@@ -254,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -328,7 +340,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
+                "file": "CHP 54 Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +357,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
+                "file": "CHP 54 Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -368,7 +380,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md"
+                "file": "CHP 54 Authentication.md"
               }
             }
           },
@@ -399,10 +411,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5df8ddcd789a4d0d",
+  "active": "78060897490d584e",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/Introduction Chapter 1.md",
     "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
+    "CHP 54 Authentication.md",
+    "CSCE311 Operating Systems/Introduction Chapter 1.md",
     "CSCE311 Operating Systems/exam 2 study guide.md",
     "Blue Cross.md",
     "HTML/HTML.md",
@@ -440,7 +453,6 @@
     "CSCE311 Operating Systems/CSCE 311 HW 1.md",
     "Pasted image 20231127231830.png",
     "CSCE490 Notes/Software Development Methodologies.md",
-    "CSCE490 Notes/Schema for firestore.md",
     "The Odin Project Notes",
     "MART371",
     "Companies",

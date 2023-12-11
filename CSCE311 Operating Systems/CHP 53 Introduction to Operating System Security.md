@@ -21,4 +21,12 @@ Operating systems can:
 1. Economy of Mechanism - keep system simple and small, easier to debug and understand behavior
 2. Fail-safe defaults - Default to security. if policies determine behavior of a system, have the default for those policies be more secure
 3. Complete mediation - For every action, analyze and make sure it meets security policies. 
-4. Open design - assume attacker knows everything. design security from these ass
+4. Open design - assume attacker knows everything. design security from these assumptions. 
+5. separation of privilege - require credentials to perform critical actions (two factor authentication)
+6. least privilege - give user/process the minimum privileges required to perform actions you wish to follow. 
+7. least common mechanism - for different users/processes, use separate data structures to handle them(i.e each process gets its own page table in a virtual memory system)
+8. Acceptability - if users wont use it, your system is worthless. 
+
+A lot of system security is going to be related to process handling. Processes utilize hardware and share it. e.g operating system controls virtual memory which controls physical memory addresses each process can access. hardware support prevents a process from naming a physical memory address that is not mapped into its virtual memory space. 
+System call - mechanism used by programs to request services from the O.S
+When a process performs a system call, O.S will use process identifier in the PCB to determine identity of process. OS uses access control mechanisms to decide if the identified process is authorized to perform the requested action. If so, OS performs action itself on behalf of process or arranges for process to perform it without further system intervention. If process is not authorized, OS can generate error code for the system call and return control to the process, if the scheduling algorithm permits. 
