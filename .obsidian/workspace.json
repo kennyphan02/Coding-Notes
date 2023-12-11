@@ -239,7 +239,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -328,7 +328,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +345,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -368,7 +368,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md"
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md"
               }
             }
           },
@@ -401,6 +401,8 @@
   },
   "active": "5df8ddcd789a4d0d",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/Introduction Chapter 1.md",
+    "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
     "CSCE311 Operating Systems/exam 2 study guide.md",
     "Blue Cross.md",
     "HTML/HTML.md",
@@ -439,8 +441,6 @@
     "Pasted image 20231127231830.png",
     "CSCE490 Notes/Software Development Methodologies.md",
     "CSCE490 Notes/Schema for firestore.md",
-    "CSCE490 Notes/Scrum Notes/Scrum in Under 10 Minutes.md",
-    "CSCE490 Notes/Git.md",
     "The Odin Project Notes",
     "MART371",
     "Companies",
