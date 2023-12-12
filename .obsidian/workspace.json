@@ -263,7 +263,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
+                "file": "CSCE311 Operating Systems/Final Exam Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d89bdddfb39ed1de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE311 Operating Systems/Final Exam Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +290,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -352,7 +364,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
+                "file": "CSCE311 Operating Systems/Final Exam Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -369,7 +381,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
+                "file": "CSCE311 Operating Systems/Final Exam Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -392,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md"
+                "file": "CSCE311 Operating Systems/Final Exam Example.md"
               }
             }
           },
@@ -423,39 +435,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "745ef5af37c2563e",
+  "active": "d89bdddfb39ed1de",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/Page frame tables test 1 material.md",
-    "CSCE311 Operating Systems/Introduction Chapter 1.md",
+    "Untitled 3.md",
+    "CSCE311 Operating Systems/Final Exam Example.md",
     "CSCE311 Operating Systems/Final Exam Review.md",
-    "CSCE311 Operating Systems/Test 1 Study Guide.md",
-    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
-    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
-    "CSCE311 Operating Systems/exam 2 study guide.md",
+    "CSCE311 Operating Systems/CHP 43 LFS.md",
     "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
     "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
+    "CSCE311 Operating Systems/CHP 38 RAIDS.md",
+    "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
     "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
-    "CSCE311 Operating Systems/CHP 41 Fast File System.md",
+    "CSCE311 Operating Systems/exam 2 study guide.md",
+    "CSCE311 Operating Systems/CHP 28 Locks.md",
+    "CSCE311 Operating Systems/CHP 31 Semaphores.md",
+    "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
+    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
-    "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
-    "CSCE311 Operating Systems/CHP 55 Access Control.md",
-    "CSCE311 Operating Systems/CHP 54 Authentication.md",
+    "CSCE311 Operating Systems/CHP 44 SSDS.md",
     "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
+    "CSCE311 Operating Systems/CHP 54 Authentication.md",
+    "CSCE311 Operating Systems/CHP 55 Access Control.md",
+    "CSCE311 Operating Systems/CHP 56 Cryptography.md",
+    "CSCE311 Operating Systems/Test 1 Study Guide.md",
+    "CSCE311 Operating Systems/Page frame tables test 1 material.md",
+    "CSCE311 Operating Systems/Introduction Chapter 1.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+    "CSCE311 Operating Systems/CHP 41 Fast File System.md",
     "Pasted image 20231212014246.png",
     "Pasted image 20231212013314.png",
     "Pasted image 20231212012652.png",
-    "CSCE311 Operating Systems/CHP 56 Cryptography.md",
-    "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
-    "CSCE311 Operating Systems/CHP 38 RAIDS.md",
-    "CSCE311 Operating Systems/CHP 43 LFS.md",
-    "CSCE311 Operating Systems/CHP 44 SSDS.md",
-    "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
-    "CSCE311 Operating Systems/CHP 31 Semaphores.md",
-    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "Pasted image 20231211210808.png",
     "Pasted image 20231211210800.png",
-    "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
-    "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
     "HTML",
     "CSCE311 Operating Systems/CHP 42",
     "Untitled 2",

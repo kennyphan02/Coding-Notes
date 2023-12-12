@@ -1,4 +1,7 @@
 
+### Sempahore vs locks
+semaphores can signal threads. locks prevent race conditions and provide mutual exclusion to pieces of code. 
+
 ### Banker's Algorithm
 ![[Pasted image 20231028060512.png]]
 A. to figure out the matrix need, subtract the max matrix from allocation matrix
