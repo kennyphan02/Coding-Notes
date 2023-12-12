@@ -2,6 +2,15 @@ File Systems contain files and directories and metadata to support abstraction f
 
 A major challenge faced by a file system is what to do when theres a power outage or system crash? updating a persistent data structure can be tricky.  
 
+
+### Scenarios
+If bitmap is only updated, no inode or data block which can result in space leak - inconsistency
+If bit datablock is only updated, it is consistent as if write never occured
+If inode is only updated, inode is pointing at nothing. and bitmap doesnt keep track of the inode. we read garbage data from the disk.
+
+If inode and bitmap is written to disk, but not data. this is consistent. just garbage data. 
+inode and data block is written to disk, but not bitmap. inconsistency between inode and old version of bitmap
+
 ### FSCK (File System Checker)
 - Crash consistency problem
 	- Solution to this is FSCK
