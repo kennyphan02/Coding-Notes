@@ -263,7 +263,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
+                "file": "CSCE311 Operating Systems/Final Exam Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -352,7 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
+                "file": "CSCE311 Operating Systems/Final Exam Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -369,7 +369,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
+                "file": "CSCE311 Operating Systems/Final Exam Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -392,7 +392,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md"
+                "file": "CSCE311 Operating Systems/Final Exam Review.md"
               }
             }
           },
@@ -425,11 +425,12 @@
   },
   "active": "745ef5af37c2563e",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/Test 1 Study Guide.md",
+    "CSCE311 Operating Systems/Final Exam Review.md",
     "CSCE311 Operating Systems/exam 2 study guide.md",
     "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
     "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
     "CSCE311 Operating Systems/Page frame tables test 1 material.md",
-    "CSCE311 Operating Systems/Test 1 Study Guide.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
     "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
     "CSCE311 Operating Systems/CHP 41 Fast File System.md",
