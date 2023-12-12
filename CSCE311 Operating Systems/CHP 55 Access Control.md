@@ -15,3 +15,4 @@ Access Control Lists specify permissions for specific users on a given file/dire
 - getfacl = view ACL of a file/directory
 - setfacl = modify ACL of a file/directory
 - acl modes: each entry has specific permissions such as read/write/execute
+- ACLs are stored in an inode
