@@ -1,4 +1,4 @@
-- Problem with the first simple file system was that performance was terrible. 
+	- Problem with the first simple file system was that performance was terrible. 
 - Fast File System was invented. file system structures to be disk aware. 
 - keep same interface to file system (same APIs including open, read, write) but change internal implementation
 - Fast file system divides the disk into a group of cylinders. the group of cylinders are the central mechanism that FFS uses to improve performance.

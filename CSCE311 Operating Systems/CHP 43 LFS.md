@@ -25,3 +25,5 @@ Garbage collection (frees unused memory for programs)
 
 
 - To ensure updating the checkpoint region happens atomically, LFS keeps two checkpoint regions, one at either ends of the disk, and writes to them alternately. this is so that when a crash happens, LFS can detect if the timestamp pairs are inconsistent. 
+- FFS VS LCS
+- FFS is good for read operations while LCS is good for write operaitons
