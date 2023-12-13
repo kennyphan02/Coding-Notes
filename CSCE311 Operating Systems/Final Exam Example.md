@@ -10,5 +10,5 @@
 		- ![[Pasted image 20231212165112.png]]
 		- C. if a single level page table is used, what is the max # number of entries? 26 
 	- What is the size of this single level page table in terms of 8KB pages?
-	- 2^7 times 2^30 since physical memory is 128gb = 2^37 -  (2^2 ti)
+	- 2^7 times 2^30 since physical memory is 128gb = 2^37 -  (2^10*2^3) = 37 -13 = 24
  

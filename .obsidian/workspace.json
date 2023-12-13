@@ -275,7 +275,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/Final Exam Example.md",
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -364,7 +364,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/Final Exam Example.md",
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +381,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/Final Exam Example.md",
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/Final Exam Example.md"
+                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md"
               }
             }
           },
@@ -437,6 +437,8 @@
   },
   "active": "d89bdddfb39ed1de",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/Page frame tables test 1 material.md",
+    "CSCE311 Operating Systems/Final Exam Example.md",
     "CSCE311 Operating Systems/Final Exam Review.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
     "Algorithms/Matrices.md",
@@ -448,7 +450,6 @@
     "Algorithms/Trees/Tree Structures Terminology.md",
     "Algorithms/Trees/Heaps.md",
     "Blue Cross.md",
-    "CSCE311 Operating Systems/Final Exam Example.md",
     "Pasted image 20231212165112.png",
     "Untitled 3.md",
     "CSCE311 Operating Systems/CHP 43 LFS.md",
@@ -463,7 +464,6 @@
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
-    "CSCE311 Operating Systems/CHP 44 SSDS.md",
     "Pasted image 20231212014246.png",
     "Pasted image 20231212013314.png",
     "Pasted image 20231212012652.png",
