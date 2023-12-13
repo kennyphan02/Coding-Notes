@@ -19,7 +19,7 @@ Allocator hands out chucks bigger than requested
 technique that divides memory into different segments each with its own virtual address. represents different parts of a program such as data, stack, and heap. 
 - Segmentation fault can occur when a program tries to access a memory location that is outside the bounds of its allocated segments. 
 ### CPU vs Memory Virtualization
-- Memory virtualization easier than CPU
+- Memory virtualization harder than CPU
 
 
 ### Paging
