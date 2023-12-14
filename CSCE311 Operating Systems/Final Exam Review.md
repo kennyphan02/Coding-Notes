@@ -27,3 +27,5 @@ get more ram by using a storage device such as a hard drive.
 
 ### Page table
 translates virtual address to physical address. translates virtual page number to physical frame number.
+
+![[WINWORD_X9nXTQ6d31.png]]
