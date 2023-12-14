@@ -364,7 +364,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
+                "file": "Recurrence Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +381,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
+                "file": "Recurrence Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md"
+                "file": "Recurrence Relations.md"
               }
             }
           },
