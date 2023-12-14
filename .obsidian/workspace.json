@@ -275,7 +275,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
+                "file": "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -364,7 +364,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
+                "file": "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +381,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
+                "file": "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 40 File System Implementation.md"
+                "file": "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md"
               }
             }
           },
@@ -437,6 +437,8 @@
   },
   "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 43 LFS.md",
+    "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
     "CSCE311 Operating Systems/CHP 41 Fast File System.md",
     "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
     "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
@@ -458,8 +460,6 @@
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "Algorithms/Selection Sort.md",
     "CSCE311 Operating Systems/CHP 38 RAIDS.md",
-    "CSCE311 Operating Systems/CHP 43 LFS.md",
-    "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
     "Algorithms/Matrices.md",
     "Algorithms/Trees/Binary Search.md",
