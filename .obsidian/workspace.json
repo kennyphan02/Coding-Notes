@@ -275,7 +275,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -364,7 +364,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +381,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md"
+                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md"
               }
             }
           },
@@ -437,6 +437,8 @@
   },
   "active": "d89bdddfb39ed1de",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 54 Authentication.md",
+    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
     "CSCE311 Operating Systems/CHP 28 Locks.md",
@@ -449,7 +451,6 @@
     "CSCE311 Operating Systems/CHP 44 SSDS.md",
     "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
     "CSCE311 Operating Systems/CHP 55 Access Control.md",
-    "CSCE311 Operating Systems/CHP 54 Authentication.md",
     "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
     "CSCE311 Operating Systems/CHP 41 Fast File System.md",
     "CSCE311 Operating Systems/Test 1 Study Guide.md",
@@ -462,7 +463,6 @@
     "Algorithms/Matrices.md",
     "Algorithms/Trees/Binary Search.md",
     "Algorithms/Trees/Generic Trees (N-ary trees).md",
-    "Algorithms/Topological Sort.md",
     "Pasted image 20231212165112.png",
     "Pasted image 20231212014246.png",
     "Pasted image 20231212013314.png",
