@@ -275,7 +275,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
+                "file": "Blue Cross.md",
                 "mode": "source",
                 "source": false
               }
@@ -364,7 +364,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
+                "file": "Blue Cross.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +381,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
+                "file": "Blue Cross.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md"
+                "file": "Blue Cross.md"
               }
             }
           },
@@ -437,6 +437,7 @@
   },
   "active": "d89bdddfb39ed1de",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
     "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
     "CSCE311 Operating Systems/CHP 38 RAIDS.md",
     "CSCE311 Operating Systems/CHP 54 Authentication.md",
@@ -454,7 +455,6 @@
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
-    "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
     "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
     "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
