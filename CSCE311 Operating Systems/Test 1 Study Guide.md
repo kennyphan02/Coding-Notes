@@ -1,4 +1,4 @@
-Process Control Block - Stores the state of processes. 
+	Process Control Block - Stores the state of processes. 
 - When a process is created, it is stored in memory as the new state.
 	- New state - This is the state the process will be in while the process creation is taking place 
 	- Ready state - After process creation is completed, the state is changed into the ready state. It is loaded into the main memory and will be placed in the queue of processes which are waiting for CPU allocation.
