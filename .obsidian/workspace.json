@@ -275,7 +275,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
+                "file": "CSCE311 Operating Systems/CHP 54 Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -364,7 +364,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recurrence Relations.md",
+                "file": "CSCE311 Operating Systems/CHP 54 Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +381,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recurrence Relations.md",
+                "file": "CSCE311 Operating Systems/CHP 54 Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recurrence Relations.md"
+                "file": "CSCE311 Operating Systems/CHP 54 Authentication.md"
               }
             }
           },
@@ -435,23 +435,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "d89bdddfb39ed1de",
   "lastOpenFiles": [
-    "CSCE311 Operating Systems/CHP 43 LFS.md",
-    "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
-    "CSCE311 Operating Systems/CHP 41 Fast File System.md",
-    "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
-    "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
-    "CSCE311 Operating Systems/CHP 56 Cryptography.md",
     "CSCE311 Operating Systems/CHP 55 Access Control.md",
-    "CSCE311 Operating Systems/Test 1 Study Guide.md",
-    "CSCE311 Operating Systems/Final Exam Review.md",
-    "CSCE311 Operating Systems/Introduction Chapter 1.md",
-    "CSCE311 Operating Systems/Page frame tables test 1 material.md",
-    "CSCE311 Operating Systems/Final Exam Example.md",
-    "CSCE311 Operating Systems/CHP 44 SSDS.md",
-    "WINWORD_X9nXTQ6d31.png",
+    "CSCE311 Operating Systems/CHP 56 Cryptography.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 1.md",
+    "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
     "CSCE311 Operating Systems/CHP 54 Authentication.md",
+    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
+    "CSCE311 Operating Systems/Page frame tables test 1 material.md",
+    "CSCE311 Operating Systems/Final Exam Review.md",
+    "CSCE311 Operating Systems/Final Exam Example.md",
+    "CSCE311 Operating Systems/Introduction Chapter 1.md",
+    "CSCE311 Operating Systems/Test 1 Study Guide.md",
+    "CSCE311 Operating Systems/CHP 41 Fast File System.md",
+    "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
+    "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
+    "CSCE311 Operating Systems/CHP 44 SSDS.md",
+    "CSCE311 Operating Systems/CHP 43 LFS.md",
+    "Recurrence Relations.md",
+    "WINWORD_X9nXTQ6d31.png",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
@@ -461,8 +464,6 @@
     "Algorithms/Selection Sort.md",
     "CSCE311 Operating Systems/CHP 38 RAIDS.md",
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
-    "Algorithms/Matrices.md",
-    "Algorithms/Trees/Binary Search.md",
     "Pasted image 20231212165112.png",
     "Pasted image 20231212014246.png",
     "Pasted image 20231212013314.png",

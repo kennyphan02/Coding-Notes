@@ -11,3 +11,4 @@ Certificate authorities - create certificates trusted by many parties.
 
 
 Digitial Signatures 
+validate the integrity of a digital document 
