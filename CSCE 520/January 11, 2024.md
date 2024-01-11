@@ -10,5 +10,22 @@ A DBMS is expected to:
 
 ***Atomicity***
 - All-or-nothing rule for execution of transactions
+
+***Isolation*** - every transaction must appear to execute as if in isolation (there are no other tranactions executing at the same time). transactions are independently processed 
 Database vs physical file system comparisons
 
+Example: Wyatt sending $50 to Caleb
+1. Read Wyatt's account balance
+2. Check if wyatt's balance >= 50 
+3. Update wyatt's account balance = wyatt's account balance - 50
+4. Read caleb's account balance
+5. update caleb's account balance = caleb's account balance + 50 
+6. STOP 
+Before the transaction starts, wyatt's accountbalance = $850 
+caleb's account balance = $750
+after the transaction ends, wyatt's accountbalance = $800
+caleb's account balance = $800
+
+Sum of both account balances, before and after transactions = $1600 
+
+**Consistency** - if
