@@ -294,6 +294,18 @@
             }
           },
           {
+            "id": "0f7379a1aa944680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE 520/January 11, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "41c498c9fa616d59",
             "type": "leaf",
             "state": {
@@ -302,7 +314,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -376,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 355/January 8.md",
+                "file": "CSCE 520/January 11, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 355/January 8.md",
+                "file": "CSCE 520/January 11, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -416,7 +428,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 355/January 8.md"
+                "file": "CSCE 520/January 11, 2024.md"
               }
             }
           },
@@ -449,9 +461,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c1cb96ab74d8e1f",
+  "active": "87f76e9bcbfb77d7",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "CSCE 520/January 11, 2024.md",
     "CSCE 355/January 8.md",
+    "CSCE 520",
     "CSCE 355",
     "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
     "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
@@ -476,8 +491,6 @@
     "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
     "CSCE311 Operating Systems/CHP 41 Fast File System.md",
     "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
-    "CSCE311 Operating Systems/Page frame tables test 1 material.md",
-    "CSCE311 Operating Systems/Test 1 Study Guide.md",
     "WINWORD_X9nXTQ6d31.png",
     "Pasted image 20231212165112.png",
     "Pasted image 20231212014246.png",
@@ -495,7 +508,6 @@
     "The Odin Project Notes",
     "MART371",
     "Companies",
-    "Linux",
-    "CSCE490 Notes/Scrum Notes"
+    "Linux"
   ]
 }
