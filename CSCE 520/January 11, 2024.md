@@ -28,4 +28,5 @@ caleb's account balance = $800
 
 Sum of both account balances, before and after transactions = $1600 
 
-**Consistency** - if
+**Consistency** - it preserves the correctness of a database
+**Durability** - The effect of a transaction must never be lost once the transaction is complete. E.g changes to Wyatt's and Caleb's account balance should be valid until the next update. 
