@@ -388,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 520/January 11, 2024.md",
+                "file": "Recurrence Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 520/January 11, 2024.md",
+                "file": "Recurrence Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,7 +428,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 520/January 11, 2024.md"
+                "file": "Recurrence Relations.md"
               }
             }
           },
