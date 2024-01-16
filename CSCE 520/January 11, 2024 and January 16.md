@@ -56,4 +56,43 @@ E.G Movies
 	-> length
 	-> age rating 
 	-> audience rating
-XML - e
+XML - extensible markup language 
+```
+<?xml version= "1.0" encoding = "utf-8"> 
+<movies>
+	<movie title="Whiplash">
+	<year> 2014 </year>
+	<length> ... </length>
+</movies>
+
+alternative way 
+
+<movie> <title> ... </title>
+		<year> ... </year>
+		<length> ... </length>
+</movie>
+```
+Relational Model
+
+| O | O | O | O |
+| ---- | ---- | ---- | ---- |
+| Item 1 | Item 2 | Item 3 | Item 4 |
+| Item 4 | Item 5 | Item 6 | Item 8 |
+Attributes
+- The columns of  a relation are named by its attributes
+- describes the meaning of the entries in the column below 
+- A database consists of 1 or more relations
+
+**Relation Schema**
+```
+< Name of the relation > + <set of attributes for the relation> 
+```
+e.g Student(name, ID, major, gpa, grade level)
+
+Database Schema
+- the set of all relation schemas
+
+Tuple
+- The rows of a relation except the header rows 
+- Relational model requires each component of each tuple to be atomic (same elementary type) 
+

@@ -299,7 +299,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE 520/January 11, 2024.md",
+                "file": "CSCE 520/January 11, 2024 and January 16.md",
                 "mode": "source",
                 "source": false
               }
@@ -388,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 520/January 11, 2024.md",
+                "file": "CSCE 520/January 11, 2024 and January 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 520/January 11, 2024.md",
+                "file": "CSCE 520/January 11, 2024 and January 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,7 +428,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 520/January 11, 2024.md"
+                "file": "CSCE 520/January 11, 2024 and January 16.md"
               }
             }
           },
@@ -463,12 +463,13 @@
   },
   "active": "0f7379a1aa944680",
   "lastOpenFiles": [
+    "CSCE 355/January 8.md",
+    "CSCE311 Operating Systems/CHP 28 Locks.md",
+    "CSCE 520/January 11, 2024 and January 16.md",
     "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
     "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
-    "CSCE 355/January 8.md",
     "Recurrence Relations.md",
     "Untitled 4.md",
-    "CSCE 520/January 11, 2024.md",
     "CSCE 520",
     "CSCE 355",
     "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
@@ -485,7 +486,6 @@
     "CSCE311 Operating Systems/exam 2 study guide.md",
     "CSCE311 Operating Systems/Final Exam Review.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
-    "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
