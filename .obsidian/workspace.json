@@ -299,7 +299,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+                "file": "CSCE 520/January 11, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -388,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+                "file": "CSCE 520/January 11, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
+                "file": "CSCE 520/January 11, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,7 +428,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE311 Operating Systems/CHP 36 Input Output Devices.md"
+                "file": "CSCE 520/January 11, 2024.md"
               }
             }
           },
@@ -463,6 +463,8 @@
   },
   "active": "0f7379a1aa944680",
   "lastOpenFiles": [
+    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
+    "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
     "CSCE 355/January 8.md",
     "Recurrence Relations.md",
     "Untitled 4.md",
@@ -486,8 +488,6 @@
     "CSCE311 Operating Systems/CHP 28 Locks.md",
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
     "CSCE311 Operating Systems/CHP 31 Semaphores.md",
-    "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
-    "CSCE311 Operating Systems/CHP 36 Input Output Devices.md",
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
     "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
     "CSCE311 Operating Systems/CHP 41 Fast File System.md",

@@ -1,12 +1,16 @@
 Database - collection of related data that is managed by a ***DBMS (Database Management System)***
 A DBMS is expected to: 
 1. Allows users to create new databases and specify their ***schema (logical structure)*** using ***Data Definition Language (DDL)***
-2. Allows users to query the data and modify the data using a specialized language called ***query language***. Query language is a form of ***data manipulation language***. 
+2. Allows users to query the data and modify the data using a specialized language called ***query language***. Query language is a form of ***data manipulation language***. ***(DML)***
 3. Efficient Access/Storing large amounts of data 
 4. Enables recovery of a database in the event of failure, or intentional misuse.
 
 **Transaction** - A set of "read" and "write" operations 
 - A transaction is said to be properly implemented if it passes the **ACID** test. 
+	- Atomicity
+	- Consistency
+	- Isolation
+	- Durability
 
 ***Atomicity***
 - All-or-nothing rule for execution of transactions
@@ -30,3 +34,8 @@ Sum of both account balances, before and after transactions = $1600
 
 **Consistency** - it preserves the correctness of a database
 **Durability** - The effect of a transaction must never be lost once the transaction is complete. E.g changes to Wyatt's and Caleb's account balance should be valid until the next update. 
+
+Transaction Processor 
+- ***Concurrency control manager/scheduler***-  maintains isolation for all transactions achieved by maintaining locks on certain pieces of data. 
+	- those locks prevent 2 transactions from accessing the same piece of data in ways that interact badly. 
+	- locks are stored in main-memory dock table
