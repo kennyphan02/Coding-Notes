@@ -39,3 +39,21 @@ Transaction Processor
 - ***Concurrency control manager/scheduler***-  maintains isolation for all transactions achieved by maintaining locks on certain pieces of data. 
 	- those locks prevent 2 transactions from accessing the same piece of data in ways that interact badly. 
 	- locks are stored in main-memory dock table
+- Deadlock resolution - as transacitons compete for resources tthrough docks that a scheduler grants, they can get into a situation where no transaction can proceed, as each transaction needs something the other transaction has. 
+	- the transaction processor interferes and cancels 1 of more transactions tto let the others proceed. 
+- Logging - to ensure durability, every change in the database is logged spearately on the disk
+	- Initially, the log manager writes the logs in buffers and then negotiates with the buffers. buffers are written to disk
+- Data Model
+	- A mathematical representation of data parts of a data model. 
+	- Parts of a data model:
+		- structure of the data 
+		- operations on data
+		- constraints
+I. semi-structured model - it is based on trees
+E.G Movies 
+	-> title
+	-> genre
+	-> length
+	-> age rating 
+	-> audience rating
+XML - e
