@@ -299,7 +299,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE 520/January 11, 2024.md",
+                "file": "CSCE 355/January 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -388,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recurrence Relations.md",
+                "file": "CSCE 355/January 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recurrence Relations.md",
+                "file": "CSCE 355/January 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,7 +428,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recurrence Relations.md"
+                "file": "CSCE 355/January 8.md"
               }
             }
           },
@@ -461,8 +461,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f76e9bcbfb77d7",
+  "active": "0f7379a1aa944680",
   "lastOpenFiles": [
+    "Recurrence Relations.md",
     "Untitled 4.md",
     "CSCE 520/January 11, 2024.md",
     "CSCE 355/January 8.md",
@@ -490,7 +491,6 @@
     "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
     "CSCE311 Operating Systems/CHP 40 File System Implementation.md",
     "CSCE311 Operating Systems/CHP 41 Fast File System.md",
-    "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
     "WINWORD_X9nXTQ6d31.png",
     "Pasted image 20231212165112.png",
     "Pasted image 20231212014246.png",
