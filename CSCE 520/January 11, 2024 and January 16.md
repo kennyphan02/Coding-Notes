@@ -95,4 +95,25 @@ Database Schema
 Tuple
 - The rows of a relation except the header rows 
 - Relational model requires each component of each tuple to be atomic (same elementary type) 
+- SQL - Structured query language 
 
+**Data Types**
+- Int/integers
+	- Denotes integer values
+- Float/ real 
+	- denotes floating point values 
+- Decimal (n,d)
+	- 1357.23 -> Decimal(6,2)
+	- n -> total # of digits
+	- d -> position of the decimal point from the right
+- Char(n)
+	- a fixed-length string of "n" characters 
+	- 'apple' -> char(5)
+	- 'pie' will turn into 'pie__' adds trailing blanks
+- varchar(n)
+	- a variable-length string of up to 'n' characters
+	- e.g 'orange' -> varchar(6)
+	- pie -> 
+- Date
+	- date "yyyy-mm-dd"
+	- e.g "16 Jan 2024" -> Date ""
