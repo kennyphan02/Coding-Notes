@@ -22,3 +22,17 @@ onView(withId(R.id.cost_of_service_edit_text))
 	- testImplementation
 	- androidTestImplementation
 	- implementation
+
+```Kotlin
+// withId(R.id.my_view) is a ViewMatcher  
+// click() is a ViewAction  
+// matches(isDisplayed()) is a ViewAssertion  
+onView(withId(R.id.my_view))
+.perform(click())    
+.check(matches(isDisplayed()))
+```
+Viewmatchers - locates a view
+viewactions - a collection of viewaction objects that can be passed to the viewinteraction.perform() method such as click()
+viewassertions - a collection of viewassertion objects that can be passed the viewinteraction.check() method. 
+
+the code above locates the my_view id and performs a click operation and checks for an assertion 
