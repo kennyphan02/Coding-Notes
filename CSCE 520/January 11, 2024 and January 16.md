@@ -116,4 +116,18 @@ Tuple
 	- pie -> 
 - Date
 	- date "yyyy-mm-dd"
-	- e.g "16 Jan 2024" -> Date ""
+	- e.g "16 Jan 2024" -> DATE "2024-01-16"
+- Time
+	- TIME 'hh:mm:ss'
+	- e.g: 11:45 am TIME '11:45:00'
+	- e.g: 15 seconds after 1:30pm  TIME "13:30:15'
+	- uses the military clock (24-hour time)
+- Boolean
+	- TRUE
+	- FALSE
+	- UNKNOWN
+
+- SQL encloses strings in single quotes
+- e.g 'John'
+- e.g 'John's car' (would throw error cause of 2nd ') so -> 'John"s car'. " gives a literal single quote"
+- any value can be null
