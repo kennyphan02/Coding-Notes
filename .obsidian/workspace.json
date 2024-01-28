@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE 520/January 11, 2024 and January 16.md",
+                "file": "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
                 "mode": "source",
                 "source": false
               }
@@ -388,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 520/January 11, 2024 and January 16.md",
+                "file": "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 520/January 11, 2024 and January 16.md",
+                "file": "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,7 +428,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 520/January 11, 2024 and January 16.md"
+                "file": "Kotlin-Android-Studio/Testing/Instrumental Tests.md"
               }
             }
           },
@@ -463,9 +463,10 @@
   },
   "active": "bedbf9add4fffcc0",
   "lastOpenFiles": [
+    "Kotlin-Android-Studio/Testing/Debugging.md",
     "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
-    "Kotlin-Android-Studio/Accessibility.md",
     "CSCE 520/January 11, 2024 and January 16.md",
+    "Kotlin-Android-Studio/Accessibility.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "CSCE 355/January 8.md",
     "CSCE311 Operating Systems/CHP 28 Locks.md",
@@ -490,7 +491,6 @@
     "CSCE311 Operating Systems/Final Exam Review.md",
     "CSCE311 Operating Systems/Introduction Chapter 1.md",
     "CSCE311 Operating Systems/CHP 30 Condition Variables.md",
-    "CSCE311 Operating Systems/CHP 31 Semaphores.md",
     "WINWORD_X9nXTQ6d31.png",
     "Pasted image 20231212165112.png",
     "Pasted image 20231212014246.png",
