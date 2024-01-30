@@ -8,4 +8,12 @@ One of the test cases for our internship system was being able to log in as the 
 - UUIDS
 - 1st loop to iterate through every job posting for the organization
 - 2nd loop to iterate through the student list for each job posting. The student list contains the student uuids
-- 3rd loop is to compare the student uuids from the list to a 
+- 3rd loop is to compare the student uuids from the list to a singleton list of student uuids from the database.  
+Could have used hashmaps to store the UUIDs
+
+
+
+Describe a situation where you had to troubleshoot a complex issue. What steps did you take to identify and resolve the problem?
+
+
+
