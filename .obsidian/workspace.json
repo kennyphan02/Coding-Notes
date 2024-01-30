@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE 520/Lecture 4.md",
+                "file": "Blue Cross/Situation Competency Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -275,7 +275,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Cross.md",
+                "file": "Blue Cross/Blue Cross.md",
                 "mode": "source",
                 "source": false
               }
@@ -388,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 520/Lecture 4.md",
+                "file": "Blue Cross/Situation Competency Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 520/Lecture 4.md",
+                "file": "Blue Cross/Situation Competency Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,7 +428,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 520/Lecture 4.md"
+                "file": "Blue Cross/Situation Competency Interview.md"
               }
             }
           },
@@ -463,6 +463,9 @@
   },
   "active": "bedbf9add4fffcc0",
   "lastOpenFiles": [
+    "Blue Cross/Blue Cross.md",
+    "Blue Cross/Situation Competency Interview.md",
+    "Blue Cross",
     "CSCE 520/January 11, 2024 and January 16.md",
     "CSCE 520/Lecture 4.md",
     "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
@@ -489,8 +492,6 @@
     "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
     "CSCE311 Operating Systems/CSCE 311 HW 2.md",
     "CSCE311 Operating Systems/exam 2 study guide.md",
-    "CSCE311 Operating Systems/Final Exam Review.md",
-    "CSCE311 Operating Systems/Introduction Chapter 1.md",
     "WINWORD_X9nXTQ6d31.png",
     "Pasted image 20231212165112.png",
     "Pasted image 20231212014246.png",
@@ -507,7 +508,6 @@
     "Untitled 1",
     "The Odin Project Notes",
     "MART371",
-    "Companies",
-    "Linux"
+    "Companies"
   ]
 }
