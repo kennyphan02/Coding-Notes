@@ -2,8 +2,10 @@
 
 
 Can you provide an example of a challenging technical problem you've encountered and how you went about solving it?
-- 
+- asked backend guy for rundown on uuids
 Back when I was learning about nested for loops and UUIDS
 One of the test cases for our internship system was being able to log in as the organization and display its internship postings on the console and be able to see the different students that applied for it. 
 - UUIDS
-
+- 1st loop to iterate through every job posting for the organization
+- 2nd loop to iterate through the student list for each job posting. The student list contains the student uuids
+- 3rd loop is to compare the student uuids from the list to a 
