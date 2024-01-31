@@ -14,6 +14,7 @@ Could have used hashmaps to store the UUIDs
 
 
 Describe a situation where you had to troubleshoot a complex issue. What steps did you take to identify and resolve the problem?
+- Homify is an android application that lets users organize their chores in an easier manner and assign them to other users. 
 
 
 
