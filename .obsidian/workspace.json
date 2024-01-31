@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unum.md",
+                "file": "Kotlin-Android-Studio/Companion Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -388,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unum.md",
+                "file": "Kotlin-Android-Studio/Companion Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unum.md",
+                "file": "Kotlin-Android-Studio/Companion Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,7 +428,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unum.md"
+                "file": "Kotlin-Android-Studio/Companion Objects.md"
               }
             }
           },
@@ -463,13 +463,17 @@
   },
   "active": "bedbf9add4fffcc0",
   "lastOpenFiles": [
+    "Kotlin-Android-Studio/Building a Tip Calculator App.md",
+    "Kotlin-Android-Studio/Building a Dice App.md",
+    "Kotlin-Android-Studio/Testing/Debugging.md",
+    "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
+    "Kotlin-Android-Studio/ConstraintLayouts.md",
+    "Unum.md",
     "Blue Cross/Situation Competency Interview.md",
     "Blue Cross/Blue Cross.md",
     "Blue Cross",
     "CSCE 520/January 11, 2024 and January 16.md",
     "CSCE 520/Lecture 4.md",
-    "Kotlin-Android-Studio/Testing/Instrumental Tests.md",
-    "Kotlin-Android-Studio/Testing/Debugging.md",
     "Kotlin-Android-Studio/Accessibility.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
     "CSCE 355/January 8.md",
@@ -488,10 +492,6 @@
     "CSCE311 Operating Systems/CHP 55 Access Control.md",
     "CSCE311 Operating Systems/CHP 56 Cryptography.md",
     "CSCE311 Operating Systems/CSCE 311 HW 1.md",
-    "CSCE311 Operating Systems/CHP 43 LFS.md",
-    "CSCE311 Operating Systems/CHP 42 FSCK And Journaling.md",
-    "CSCE311 Operating Systems/CSCE 311 HW 2.md",
-    "CSCE311 Operating Systems/exam 2 study guide.md",
     "WINWORD_X9nXTQ6d31.png",
     "Pasted image 20231212165112.png",
     "Pasted image 20231212014246.png",
