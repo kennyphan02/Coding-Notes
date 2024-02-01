@@ -28,7 +28,9 @@ Organization Skills
 - Capstone project utilizing the SLDC model. We first planned what our app was gonna be and we brainstormed several ideas and collaborated together to agree on 1. After coming up with an idea, we designed how the screens and features would like using Lucid. Then we went into detail what the requirements for our application would be. In order to implement our requirements we had to do a ton of research in figuring out the technologies we would be using and integrating it into our application (FireStore, FireBase authentication, calendar library, espresso testing). We also had to look up various tutorials on how to implement these functionalities such as the sign-up and login feature and navigating between different screens. After we implemented all of our functionalities for the application, we have started testing our application using espresso with UI and unit tests. 
 - Involves planning ideas for what our 
 
-
+Prioritization
+- Complete tasks that don't require as much time to gain momentum and helps with my workflow and then tackle the more difficult problems
+- If a lot of tasks, speak to boss about realistic timelines, working overtime, etc or do teamwork
 
 Why do you want to work for us?
 - Settle down with company i can grow with (talk about skills)
@@ -39,3 +41,9 @@ Strengths
 - Strong communicator - extensive experience in talking to clients and customers in a positive way. I pay attention to my managers to what they're detailing tasks and reiterating that to my co-workers and employers. 
 - Learning new technologies at a quick pace and putting it into practice 
 - Working under pressure and meeting tight deadlines and providing great results. (Talk about experience with video editing and business)
+
+Conflict
+conflict hinders the progress of a team so i would try to resolve it as soon as possible
+
+talking about the 2 tracks
+- I would love to gain more of an insight on the 2 different tracks you have to offer. I'm opened to choosing either one but i have a preference for the web development track since I've used some javascript to incorporate into my video editing (Math.round that would be pinned to the slider when the slider goes right itll count up)
