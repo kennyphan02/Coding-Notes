@@ -32,9 +32,10 @@ Organization Skills
 
 Why do you want to work for us?
 - Settle down with company i can grow with (talk about skills)
-- I would love to be involved with the entire learning proecss eltp
+- I would love to be involved with the entire learning proecss eltp and face the challenges that come with it
 - like to contribute culture 
 
 Strengths
-- Strong communicator - extensive experience in talking to clients and customers in a positive way 
+- Strong communicator - extensive experience in talking to clients and customers in a positive way. I pay attention to my managers to what they're detailing tasks and reiterating that to my co-workers and employers. 
 - Learning new technologies at a quick pace and putting it into practice 
+- Working under pressure and meeting tight deadlines and providing great results. (Talk about experience with video editing and business)
