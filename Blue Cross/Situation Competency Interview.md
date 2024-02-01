@@ -33,4 +33,8 @@ Organization Skills
 Why do you want to work for us?
 - Settle down with company i can grow with (talk about skills)
 - I would love to be involved with the entire learning proecss eltp
-- 
+- like to contribute culture 
+
+Strengths
+- Strong communicator - extensive experience in talking to clients and customers in a positive way 
+- Learning new technologies at a quick pace and putting it into practice 
