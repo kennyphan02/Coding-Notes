@@ -47,6 +47,8 @@ Organization Skills
 - Capstone project utilizing the SLDC model. We first planned what our app was gonna be and we brainstormed several ideas and collaborated together to agree on 1. After coming up with an idea, we designed how the screens and features would like using Lucid. Then we went into detail what the requirements for our application would be. In order to implement our requirements we had to do a ton of research in figuring out the technologies we would be using and integrating it into our application (FireStore, FireBase authentication, calendar library, espresso testing). We also had to look up various tutorials on how to implement these functionalities such as the sign-up and login feature and navigating between different screens. After we implemented all of our functionalities for the application, we have started testing our application using espresso with UI and unit tests. 
 - Involves planning ideas for what our 
 
+SLDC
+
 Prioritization
 - Complete tasks that don't require as much time to gain momentum and helps with my workflow and then tackle the more difficult problems
 - If a lot of tasks, speak to boss about realistic timelines, working overtime, etc or do teamwork
