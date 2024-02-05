@@ -20,9 +20,19 @@ CREATE TABLE Student(
 ```
 
 ### Multi-attribute key 
+```SQL
 CREATE TABLE Student (
 	name VARCHAR(30),
 	dateOfBirth DATE,
 	PRIMARY KEY(name, dateOfBirth)
 );
+```
 - A primary key can never be NULL but attributes declared UNIQUE may have NULL values.
+
+### Modifying a Relation
+- To add an attribute
+`SQL > ALTER TABLE <relation name> ADD <attr><datatype>;`
+E.G `ALTER TABLE STUDENT ADD phoneNumber CHAR(13);`
+- To delete an attribute
+`SQL > ALTER TABLE <relatoin name> DROP <attr>;
+E.G `ALTER TABLE STUDENT DROP MAJOR`
