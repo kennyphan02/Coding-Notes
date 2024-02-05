@@ -4,317 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "be556eda3804788a",
+        "id": "58a8644daa15096e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb6c0b8a41062dce",
+            "id": "168468cc9cbc71ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
+                "file": "CSCE 520/Lecture 4.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d5b74578dad56344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eff61918284d6848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/Introduction Chapter 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d46b00efa0b8adc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9976b16bd4dd5de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/Chapter 2 Processes and Limited Direction Execution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f552a43a0dde4195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE490 Notes/Decision-Making Process Workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70e4f53880a2fde0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/Test 1 Study Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "014385a648fb14ef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230919224019.png"
-              }
-            }
-          },
-          {
-            "id": "7927ce5a2dd16b5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Basic commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4eac3ecb529c6c18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career fair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97befc7fb1785b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE490 Notes/Decision-Making Process Workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bedbf9add4fffcc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blue Cross/Situation Competency Interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7599af6aba57a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kotlin-Android-Studio/Kotlin Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96fc2ed134a91828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/CHP 27 Thread API and Locks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4d0f718a2ff9410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/CHP 28 Locks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb2716e429d7dbf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/CHP 32 Common concurrency problems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa36410c877b8b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/CHP 37 Hard disk drives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6dbb2de47c3cb4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/CHP 39 Files & Directories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa93214937090f0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5df8ddcd789a4d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/CHP 53 Introduction to Operating System Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78060897490d584e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/CHP 56 Cryptography.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "745ef5af37c2563e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE311 Operating Systems/Final Exam Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d89bdddfb39ed1de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blue Cross/Blue Cross.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c1cb96ab74d8e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE 355/January 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f7379a1aa944680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCE 520/January 11, 2024 and January 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41c498c9fa616d59",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -372,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "23f9c1ae56db8504",
@@ -389,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blue Cross/Situation Competency Interview.md",
+                "file": "CSCE 520/Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -406,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blue Cross/Situation Competency Interview.md",
+                "file": "CSCE 520/Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -429,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blue Cross/Situation Competency Interview.md"
+                "file": "CSCE 520/Lecture 4.md"
               }
             }
           },
@@ -449,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -462,11 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bedbf9add4fffcc0",
+  "active": "168468cc9cbc71ea",
   "lastOpenFiles": [
+    "CSCE 520/January 11, 2024 and January 16.md",
+    "Untitled 5.md",
     "Blue Cross/Blue Cross.md",
-    "CSCE490 Notes/Software Development Methodologies.md",
     "Blue Cross/Situation Competency Interview.md",
+    "CSCE490 Notes/Software Development Methodologies.md",
     "Kotlin-Android-Studio/Companion Objects.md",
     "Kotlin-Android-Studio/Building a Tip Calculator App.md",
     "Kotlin-Android-Studio/Building a Dice App.md",
@@ -475,7 +180,6 @@
     "Kotlin-Android-Studio/ConstraintLayouts.md",
     "Unum.md",
     "Blue Cross",
-    "CSCE 520/January 11, 2024 and January 16.md",
     "CSCE 520/Lecture 4.md",
     "Kotlin-Android-Studio/Accessibility.md",
     "CSCE311 Operating Systems/CHP 26 Concurrency and Threads.md",
@@ -492,7 +196,6 @@
     "CSCE311 Operating Systems/CHP 38 RAIDS.md",
     "CSCE311 Operating Systems/CHP 54 Authentication.md",
     "CSCE311 Operating Systems/CHP 44 SSDS.md",
-    "CSCE311 Operating Systems/CHP 55 Access Control.md",
     "WINWORD_X9nXTQ6d31.png",
     "Pasted image 20231212165112.png",
     "Pasted image 20231212014246.png",
