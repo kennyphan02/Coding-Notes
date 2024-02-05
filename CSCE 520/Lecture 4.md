@@ -36,3 +36,9 @@ E.G `ALTER TABLE STUDENT ADD phoneNumber CHAR(13);`
 - To delete an attribute
 `SQL > ALTER TABLE <relatoin name> DROP <attr>;
 E.G `ALTER TABLE STUDENT DROP MAJOR`
+
+### Default Values
+`ALTER TABLE Student ADD phoneNumber CHAR(13) DEFAULT 'unlisted';`
+
+### Deleting a Relation
+`SQL > DROP TABLE <Relation Name>;`
