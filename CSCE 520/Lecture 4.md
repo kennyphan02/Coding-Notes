@@ -42,3 +42,14 @@ E.G `ALTER TABLE STUDENT DROP MAJOR`
 
 ### Deleting a Relation
 `SQL > DROP TABLE <Relation Name>;`
+
+### Relational Algebra
+- A mathematical system that consists of operations and operands
+- Operands are relations in a database
+- Union (different tuples)
+- Intersection (Share the same tuples)
+- Subtraction (Find the similar tuples and remove it)
+- Pre condition for Union, Intersection, and subtraction
+	- both relations (X and Y) must have the same schema. 
+	- The ***order of attributes in both relations must be the same***
+- 
