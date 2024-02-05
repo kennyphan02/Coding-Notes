@@ -52,4 +52,14 @@ E.G `ALTER TABLE STUDENT DROP MAJOR`
 - Pre condition for Union, Intersection, and subtraction
 	- both relations (X and Y) must have the same schema. 
 	- The ***order of attributes in both relations must be the same***
+
+
+### Selection
+![[Pasted image 20240205112046.png]]
+- Basically Selection is putting some condition to the attributes of a relation that fits the criteria. It outputs the tuples that satisfy the condiiton 
+
+### Projection
+![[Pasted image 20240205112527.png]]
+- Takes a list of attributes from a relation and outputs a new relation
+![[Pasted image 20240205112624.png]]
 - 
