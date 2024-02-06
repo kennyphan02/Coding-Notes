@@ -56,7 +56,7 @@ E.G `ALTER TABLE STUDENT DROP MAJOR`
 
 ### Selection
 ![[Pasted image 20240205112046.png]]
-- Basically Selection is putting some condition to the attributes of a relation that fits the criteria. It outputs the tuples that satisfy the condiiton 
+- Basically Selection is putting some condition to the attributes of a relation that fits the criteria. It outputs the tuples that satisfy the condiiton  (outputs a tuple)
 
 ### Projection
 ![[Pasted image 20240205112527.png]]
