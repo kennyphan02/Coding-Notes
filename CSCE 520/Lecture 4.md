@@ -31,7 +31,7 @@ CREATE TABLE Student (
 
 ### Modifying a Relation
 - To add an attribute
-`SQL > ALTER TABLE <relation name> ADD <attr><datatype>;`
+`SQL > ALTER TABLE <relation name> ADD <attr> <datatype>;`
 E.G `ALTER TABLE STUDENT ADD phoneNumber CHAR(13);`
 - To delete an attribute
 `SQL > ALTER TABLE <relatoin name> DROP <attr>;
