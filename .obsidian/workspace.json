@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6408891f558ffbe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Odin Project Notes/Computer Basic Terminology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 520/January 11, 2024 and January 16.md",
+                "file": "The Odin Project Notes/Computer Basic Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 520/January 11, 2024 and January 16.md",
+                "file": "The Odin Project Notes/Computer Basic Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 520/January 11, 2024 and January 16.md"
+                "file": "The Odin Project Notes/Computer Basic Terminology.md"
               }
             }
           },
@@ -165,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "168468cc9cbc71ea",
+  "active": "6408891f558ffbe7",
   "lastOpenFiles": [
     "CSCE 520/Lecture 4.md",
     "CSCE 520/January 11, 2024 and January 16.md",
